@@ -1,0 +1,505 @@
+Date,Date (formatted),Balance of opinions,RO.INDU,RO.SERV,RO.CONS,RO.RETA,RO.BUIL,RO.ESI,RO.EEI
+Jan-85,1985-01,Link,NA,NA,NA,NA,NA,NA,NA
+Feb-85,1985-02,Main Indicators (ESI, EEI, sectoral CIs),NA,NA,NA,NA,NA,NA,NA
+Mar-85,1985-03,,NA,NA,NA,NA,NA,NA,NA
+Apr-85,1985-04,,NA,NA,NA,NA,NA,NA,NA
+May-85,1985-05,,NA,NA,NA,NA,NA,NA,NA
+Jun-85,1985-06,,NA,NA,NA,NA,NA,NA,NA
+Jul-85,1985-07,,NA,NA,NA,NA,NA,NA,NA
+Aug-85,1985-08,,NA,NA,NA,NA,NA,NA,NA
+Sep-85,1985-09,,NA,NA,NA,NA,NA,NA,NA
+Oct-85,1985-10,,NA,NA,NA,NA,NA,NA,NA
+Nov-85,1985-11,,NA,NA,NA,NA,NA,NA,NA
+Dec-85,1985-12,,NA,NA,NA,NA,NA,NA,NA
+Jan-86,1986-01,,NA,NA,NA,NA,NA,NA,NA
+Feb-86,1986-02,,NA,NA,NA,NA,NA,NA,NA
+Mar-86,1986-03,,NA,NA,NA,NA,NA,NA,NA
+Apr-86,1986-04,,NA,NA,NA,NA,NA,NA,NA
+May-86,1986-05,,NA,NA,NA,NA,NA,NA,NA
+Jun-86,1986-06,,NA,NA,NA,NA,NA,NA,NA
+Jul-86,1986-07,,NA,NA,NA,NA,NA,NA,NA
+Aug-86,1986-08,,NA,NA,NA,NA,NA,NA,NA
+Sep-86,1986-09,,NA,NA,NA,NA,NA,NA,NA
+Oct-86,1986-10,,NA,NA,NA,NA,NA,NA,NA
+Nov-86,1986-11,,NA,NA,NA,NA,NA,NA,NA
+Dec-86,1986-12,,NA,NA,NA,NA,NA,NA,NA
+Jan-87,1987-01,,NA,NA,NA,NA,NA,NA,NA
+Feb-87,1987-02,,NA,NA,NA,NA,NA,NA,NA
+Mar-87,1987-03,,NA,NA,NA,NA,NA,NA,NA
+Apr-87,1987-04,,NA,NA,NA,NA,NA,NA,NA
+May-87,1987-05,,NA,NA,NA,NA,NA,NA,NA
+Jun-87,1987-06,,NA,NA,NA,NA,NA,NA,NA
+Jul-87,1987-07,,NA,NA,NA,NA,NA,NA,NA
+Aug-87,1987-08,,NA,NA,NA,NA,NA,NA,NA
+Sep-87,1987-09,,NA,NA,NA,NA,NA,NA,NA
+Oct-87,1987-10,,NA,NA,NA,NA,NA,NA,NA
+Nov-87,1987-11,,NA,NA,NA,NA,NA,NA,NA
+Dec-87,1987-12,,NA,NA,NA,NA,NA,NA,NA
+Jan-88,1988-01,,NA,NA,NA,NA,NA,NA,NA
+Feb-88,1988-02,,NA,NA,NA,NA,NA,NA,NA
+Mar-88,1988-03,,NA,NA,NA,NA,NA,NA,NA
+Apr-88,1988-04,,NA,NA,NA,NA,NA,NA,NA
+May-88,1988-05,,NA,NA,NA,NA,NA,NA,NA
+Jun-88,1988-06,,NA,NA,NA,NA,NA,NA,NA
+Jul-88,1988-07,,NA,NA,NA,NA,NA,NA,NA
+Aug-88,1988-08,,NA,NA,NA,NA,NA,NA,NA
+Sep-88,1988-09,,NA,NA,NA,NA,NA,NA,NA
+Oct-88,1988-10,,NA,NA,NA,NA,NA,NA,NA
+Nov-88,1988-11,,NA,NA,NA,NA,NA,NA,NA
+Dec-88,1988-12,,NA,NA,NA,NA,NA,NA,NA
+Jan-89,1989-01,,NA,NA,NA,NA,NA,NA,NA
+Feb-89,1989-02,,NA,NA,NA,NA,NA,NA,NA
+Mar-89,1989-03,,NA,NA,NA,NA,NA,NA,NA
+Apr-89,1989-04,,NA,NA,NA,NA,NA,NA,NA
+May-89,1989-05,,NA,NA,NA,NA,NA,NA,NA
+Jun-89,1989-06,,NA,NA,NA,NA,NA,NA,NA
+Jul-89,1989-07,,NA,NA,NA,NA,NA,NA,NA
+Aug-89,1989-08,,NA,NA,NA,NA,NA,NA,NA
+Sep-89,1989-09,,NA,NA,NA,NA,NA,NA,NA
+Oct-89,1989-10,,NA,NA,NA,NA,NA,NA,NA
+Nov-89,1989-11,,NA,NA,NA,NA,NA,NA,NA
+Dec-89,1989-12,,NA,NA,NA,NA,NA,NA,NA
+Jan-90,1990-01,,NA,NA,NA,NA,NA,NA,NA
+Feb-90,1990-02,,NA,NA,NA,NA,NA,NA,NA
+Mar-90,1990-03,,NA,NA,NA,NA,NA,NA,NA
+Apr-90,1990-04,,NA,NA,NA,NA,NA,NA,NA
+May-90,1990-05,,NA,NA,NA,NA,NA,NA,NA
+Jun-90,1990-06,,NA,NA,NA,NA,NA,NA,NA
+Jul-90,1990-07,,NA,NA,NA,NA,NA,NA,NA
+Aug-90,1990-08,,NA,NA,NA,NA,NA,NA,NA
+Sep-90,1990-09,,NA,NA,NA,NA,NA,NA,NA
+Oct-90,1990-10,,NA,NA,NA,NA,NA,NA,NA
+Nov-90,1990-11,,NA,NA,NA,NA,NA,NA,NA
+Dec-90,1990-12,,NA,NA,NA,NA,NA,NA,NA
+Jan-91,1991-01,,NA,NA,NA,NA,NA,NA,NA
+Feb-91,1991-02,,NA,NA,NA,NA,NA,NA,NA
+Mar-91,1991-03,,NA,NA,NA,NA,NA,NA,NA
+Apr-91,1991-04,,NA,NA,NA,NA,NA,NA,NA
+May-91,1991-05,,NA,NA,NA,NA,NA,NA,NA
+Jun-91,1991-06,,NA,NA,NA,NA,NA,NA,NA
+Jul-91,1991-07,,4.8,NA,NA,NA,NA,83.4,NA
+Aug-91,1991-08,,5.1,NA,NA,NA,NA,85.3,NA
+Sep-91,1991-09,,5.4,NA,NA,NA,NA,86.8,NA
+Oct-91,1991-10,,1.2,NA,NA,NA,NA,86.9,NA
+Nov-91,1991-11,,1.3,NA,NA,NA,NA,87.9,NA
+Dec-91,1991-12,,1.5,NA,NA,NA,NA,88.8,NA
+Jan-92,1992-01,,1,NA,NA,NA,NA,89.8,NA
+Feb-92,1992-02,,1.1,NA,NA,NA,NA,90.5,NA
+Mar-92,1992-03,,1.3,NA,NA,NA,NA,91.3,NA
+Apr-92,1992-04,,-3.5,NA,NA,NA,NA,43.8,NA
+May-92,1992-05,,-3.4,NA,NA,NA,NA,44.5,NA
+Jun-92,1992-06,,-3.3,NA,NA,NA,NA,45,NA
+Jul-92,1992-07,,-26.9,NA,NA,NA,NA,-7.1,NA
+Aug-92,1992-08,,-26.6,NA,NA,NA,NA,-5.3,NA
+Sep-92,1992-09,,-26.3,NA,NA,NA,NA,-3.7,NA
+Oct-92,1992-10,,-19.4,NA,NA,NA,NA,32.5,NA
+Nov-92,1992-11,,-19.2,NA,NA,NA,NA,33.4,NA
+Dec-92,1992-12,,-19.1,NA,NA,NA,NA,34.3,NA
+Jan-93,1993-01,,-4.6,NA,NA,NA,NA,63.7,NA
+Feb-93,1993-02,,-4.5,NA,NA,NA,NA,64.3,NA
+Mar-93,1993-03,,-4.3,NA,NA,NA,NA,64.9,NA
+Apr-93,1993-04,,-9.6,NA,NA,NA,NA,62.1,NA
+May-93,1993-05,,-9.5,NA,NA,NA,NA,62.7,NA
+Jun-93,1993-06,,-9.4,NA,NA,NA,NA,63.2,NA
+Jul-93,1993-07,,-6.5,NA,NA,NA,NA,85.5,NA
+Aug-93,1993-08,,-6.2,NA,NA,NA,NA,87,NA
+Sep-93,1993-09,,-5.9,NA,NA,NA,NA,88.3,NA
+Oct-93,1993-10,,-7,NA,NA,NA,-9.1,90.2,NA
+Nov-93,1993-11,,-6.9,NA,NA,NA,-7.7,91.1,NA
+Dec-93,1993-12,,-6.7,NA,NA,NA,-6.6,91.9,NA
+Jan-94,1994-01,,-16.6,NA,NA,11.5,-4.5,63.6,NA
+Feb-94,1994-02,,-16.4,NA,NA,12.5,-3.4,64.3,NA
+Mar-94,1994-03,,-16.2,NA,NA,13.2,-2.1,65.1,NA
+Apr-94,1994-04,,-18.9,NA,NA,17.8,-3,56.9,NA
+May-94,1994-05,,-18.7,NA,NA,18.2,-1.8,57.6,NA
+Jun-94,1994-06,,-18.6,NA,NA,18.9,-0.3,58.2,NA
+Jul-94,1994-07,,-17.2,NA,NA,8,-2.5,58.2,NA
+Aug-94,1994-08,,-16.9,NA,NA,8.4,-1,59.4,NA
+Sep-94,1994-09,,-16.6,NA,NA,8.9,0.2,60.5,NA
+Oct-94,1994-10,,-8.7,NA,NA,-2,2.5,79.8,NA
+Nov-94,1994-11,,-8.4,NA,NA,-1.5,3.8,80.5,NA
+Dec-94,1994-12,,-8.1,NA,NA,-1,4.8,81.3,NA
+Jan-95,1995-01,,6.2,NA,NA,20.4,10.2,104.1,NA
+Feb-95,1995-02,,6.5,NA,NA,21.6,11.1,104.8,NA
+Mar-95,1995-03,,6.8,NA,NA,22.3,11.8,105.5,NA
+Apr-95,1995-04,,14.8,NA,NA,27.5,19.7,119.5,NA
+May-95,1995-05,,15.1,NA,NA,27.6,20.1,120,NA
+Jun-95,1995-06,,15.4,NA,NA,28.1,20.9,120.5,NA
+Jul-95,1995-07,,12,NA,NA,17.6,24.8,121.6,NA
+Aug-95,1995-08,,12.4,NA,NA,17.7,25.2,122.5,NA
+Sep-95,1995-09,,12.7,NA,NA,18,25.8,123.3,NA
+Oct-95,1995-10,,17.2,NA,NA,16.3,16.5,125.9,NA
+Nov-95,1995-11,,17.4,NA,NA,16.6,16.7,126.3,NA
+Dec-95,1995-12,,17.8,NA,NA,16.9,17,127,NA
+Jan-96,1996-01,,18.2,NA,NA,23.2,-3,126.1,NA
+Feb-96,1996-02,,18.6,NA,NA,24.7,-2.9,126.8,NA
+Mar-96,1996-03,,18.9,NA,NA,25.6,-3.2,127.3,NA
+Apr-96,1996-04,,27.1,NA,NA,16.2,44,143.2,NA
+May-96,1996-05,,27.4,NA,NA,15.8,43.5,143.3,NA
+Jun-96,1996-06,,27.6,NA,NA,16,42.7,143.3,NA
+Jul-96,1996-07,,7.9,NA,NA,21.9,42.2,116.7,NA
+Aug-96,1996-08,,8.2,NA,NA,21.9,41.1,117,NA
+Sep-96,1996-09,,8.6,NA,NA,22,40.1,117.6,NA
+Oct-96,1996-10,,4.2,NA,NA,24.4,-15.5,101.4,NA
+Nov-96,1996-11,,4.5,NA,NA,24.6,-16.8,101.5,NA
+Dec-96,1996-12,,4.9,NA,NA,24.7,-17.9,101.8,NA
+Jan-97,1997-01,,0.9,NA,NA,25,-19,95.2,NA
+Feb-97,1997-02,,1.2,NA,NA,25.9,-20.3,95.4,NA
+Mar-97,1997-03,,1.5,NA,NA,26.2,-21.6,95.6,NA
+Apr-97,1997-04,,-8.3,NA,NA,28.9,-25.2,79.4,NA
+May-97,1997-05,,-8.1,NA,NA,28.7,-26.7,79.4,NA
+Jun-97,1997-06,,-7.9,NA,NA,29.1,-28.5,79.2,NA
+Jul-97,1997-07,,-13.3,NA,NA,32.5,24.8,79.2,NA
+Aug-97,1997-08,,-13.1,NA,NA,32.3,22.9,79.1,NA
+Sep-97,1997-09,,-12.7,NA,NA,32.5,21.2,79.4,NA
+Oct-97,1997-10,,-9.6,NA,NA,31.1,16.9,83.1,NA
+Nov-97,1997-11,,-9.5,NA,NA,31.4,15.2,82.8,NA
+Dec-97,1997-12,,-9.2,NA,NA,31.4,13.3,83,NA
+Jan-98,1998-01,,-6.1,NA,NA,20.5,10.3,86.6,NA
+Feb-98,1998-02,,-6,NA,NA,21.1,8.4,86.5,NA
+Mar-98,1998-03,,-5.8,NA,NA,21,6.4,86.4,NA
+Apr-98,1998-04,,-6.8,NA,NA,14,-28.4,77.7,NA
+May-98,1998-05,,-6.6,NA,NA,13.6,-30.4,77.6,NA
+Jun-98,1998-06,,-6.5,NA,NA,14.1,-32.1,77.2,NA
+Jul-98,1998-07,,-8.5,NA,NA,12.8,1,77,NA
+Aug-98,1998-08,,-8.4,NA,NA,12.3,-0.7,76.6,NA
+Sep-98,1998-09,,-8.1,NA,NA,12.3,-2.5,76.8,NA
+Oct-98,1998-10,,-9.8,NA,NA,10.4,-33.2,69.4,NA
+Nov-98,1998-11,,-9.8,NA,NA,10.5,-34.6,68.9,NA
+Dec-98,1998-12,,-9.6,NA,NA,10.5,-36,69.1,NA
+Jan-99,1999-01,,-15.9,NA,NA,9.2,-28,57.7,NA
+Feb-99,1999-02,,-15.9,NA,NA,9.7,-29.7,57.4,NA
+Mar-99,1999-03,,-15.9,NA,NA,9.4,-31.6,57.1,NA
+Apr-99,1999-04,,-7.2,NA,NA,3.1,-33.7,78.6,NA
+May-99,1999-05,,-7.1,NA,NA,2.5,-35.1,78.4,NA
+Jun-99,1999-06,,-7.3,NA,NA,3.3,-36.6,77.8,NA
+Jul-99,1999-07,,-6.6,NA,NA,5.2,-34.1,82.1,NA
+Aug-99,1999-08,,-6.7,NA,NA,4.5,-35.4,81.5,NA
+Sep-99,1999-09,,-6.5,NA,NA,4.5,-36.8,81.8,NA
+Oct-99,1999-10,,-6.8,NA,NA,5,-37.1,81.4,NA
+Nov-99,1999-11,,-6.8,NA,NA,5.3,-37.5,81,NA
+Dec-99,1999-12,,-6.6,NA,NA,5.2,-38,81.3,NA
+Jan-00,2000-01,,-8.5,NA,NA,5.7,-40.3,81.3,NA
+Feb-00,2000-02,,-8.9,NA,NA,6.3,-43.4,80.3,NA
+Mar-00,2000-03,,-9.1,NA,NA,5.4,-46.6,79.5,NA
+Apr-00,2000-04,,-0.3,NA,NA,2.2,-16.6,102,NA
+May-00,2000-05,,-0.3,NA,NA,1.2,-17.2,101.9,NA
+Jun-00,2000-06,,-0.6,NA,NA,2.4,-17.6,101.4,NA
+Jul-00,2000-07,,0.9,NA,NA,12,-22.5,102.3,NA
+Aug-00,2000-08,,0.8,NA,NA,11.3,-22.9,101.9,NA
+Sep-00,2000-09,,1,NA,NA,11.6,-23,102.6,NA
+Oct-00,2000-10,,-4.9,NA,NA,10,-35.1,85.4,NA
+Nov-00,2000-11,,-4.9,NA,NA,10.6,-33.4,85.2,NA
+Dec-00,2000-12,,-4.6,NA,NA,10.6,-32.4,86.1,NA
+Mon Jan 01 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2001-01,,-4,NA,NA,8.9,-28,92,NA
+Thu Feb 01 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2001-02,,-4.8,NA,NA,9.9,-24,91.5,NA
+Fri Mar 01 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2001-03,,-5.2,NA,NA,8.6,-18.8,91.7,NA
+Mon Apr 01 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2001-04,,1.9,NA,NA,11.2,-18.1,103.1,NA
+Wed May 01 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2001-05,,2.1,NA,-14.5,9.7,-16.7,103.9,NA
+Sat Jun 01 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2001-06,,1.8,NA,-12.7,11.7,-15.5,104.5,NA
+Mon Jul 01 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2001-07,,0,NA,-12.9,11.3,-14.7,102.2,NA
+Thu Aug 01 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2001-08,,-0.1,NA,-15.5,10.7,-14.5,101.2,NA
+Sun Sep 01 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2001-09,,0.5,NA,-13,11.1,-11.4,104.2,NA
+Tue Oct 01 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2001-10,,-1.7,NA,-18.6,10.4,-25,96.9,NA
+Fri Nov 01 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2001-11,,-1.3,NA,-17,11,-22.6,97.2,NA
+Sun Dec 01 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2001-12,,-0.7,NA,-14.2,10.9,-21.3,99.9,NA
+Tue Jan 02 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2002-01,,0.9,NA,-15.6,16.9,-4.5,104.1,NA
+Fri Feb 02 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2002-02,,-0.5,NA,-17.2,18.9,-12.3,101.4,NA
+Sat Mar 02 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2002-03,,-1.2,NA,-19.3,17.1,-19.2,98.8,NA
+Tue Apr 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2002-04,,-5.4,NA,-19,18.1,-22.3,96.2,NA
+Thu May 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2002-05,,-4.2,NA,-15.9,15.9,-23.3,94.4,NA
+Sun Jun 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2002-06,,-3.7,20.2,-20.6,3.9,-27,92.9,71.4
+Tue Jul 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2002-07,,-1.2,21.6,-23.1,11.3,-29.7,96,91.9
+Fri Aug 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2002-08,,0.5,25.9,-18.6,11.6,-23,102.4,81.5
+Mon Sep 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2002-09,,-0.8,27.8,-14.5,10.8,-26.8,101.8,80.2
+Wed Oct 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2002-10,,-0.8,35.1,-14.5,12,-26.8,104.5,78.9
+Sat Nov 02 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2002-11,,0,37.2,-13.7,11.4,-27.8,108.7,90.1
+Mon Dec 02 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2002-12,,-1.4,27.3,-11.1,11.5,-26.8,104.9,77.1
+Wed Jan 03 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2003-01,,1.3,13.7,-11.1,15.1,-22.8,102.3,91
+Sat Feb 03 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2003-02,,3.2,14.1,-14.3,10.9,-20,101.7,106
+Sun Mar 03 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2003-03,,5.4,19.1,-14,14.4,-16.8,106,109.2
+Wed Apr 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2003-04,,10.7,36.7,-15,17.7,-5.1,117.4,105.9
+Fri May 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2003-05,,10,35.3,-14.8,25.2,-8.4,117.6,104.2
+Mon Jun 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2003-06,,9.7,49.1,-19.3,23,-4.2,122,100.6
+Wed Jul 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2003-07,,8.6,30,-17.4,20,-4,114.3,112
+Sat Aug 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2003-08,,10,35,-18.3,21.4,-5.1,117.3,105.5
+Tue Sep 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2003-09,,8.6,24.9,-15.8,18.7,-2,114.2,92.2
+Thu Oct 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2003-10,,10.2,20.9,-13.4,19.6,-0.3,114.7,94.8
+Sun Nov 03 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2003-11,,6.3,14.1,-17.5,18.1,0,108.1,96.9
+Tue Dec 03 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2003-12,,10.2,14.2,-16.2,20.5,-0.9,111.6,101.7
+Thu Jan 04 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2004-01,,-1.6,25,-8.6,17.7,-13.4,106.7,97.8
+Sun Feb 04 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2004-02,,5.5,30,-8,21.6,-10.8,114.6,104.7
+Mon Mar 04 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2004-03,,5,33.2,-12.5,21.6,-10.2,114,99.4
+Thu Apr 04 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2004-04,,6,33.9,-6.7,19.3,-10.6,115,100.8
+Sat May 04 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2004-05,,2,23.4,-8.7,18.6,-7,109.4,102.9
+Tue Jun 04 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2004-06,,3.9,63.8,-7.5,22.6,-9,124.9,104.4
+Thu Jul 04 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2004-07,,6.1,45,-6.3,19.4,-9.7,121.1,103.9
+Sun Aug 04 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2004-08,,4,34.9,-6,22.2,-16,116.3,102.5
+Wed Sep 04 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2004-09,,6.1,36.2,-6.9,22.8,-14.2,119.5,102
+Fri Oct 04 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2004-10,,3.6,33.2,-6.2,23.8,-11.4,114.4,100.3
+Mon Nov 04 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2004-11,,5,32.8,-2.6,21.3,-11.7,117.8,98.1
+Wed Dec 04 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2004-12,,5.5,30.2,-4,21.8,-11.6,117.2,99
+Fri Jan 05 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2005-01,,3,33.8,0.5,21.1,-11.2,114.7,100.7
+Mon Feb 05 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2005-02,,0.8,26.1,-5.5,17,-13.9,104.3,100.8
+Tue Mar 05 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2005-03,,1.6,27.2,-8.5,18.4,-13.1,107.5,99.6
+Fri Apr 05 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2005-04,,-2.5,23.1,-11.2,17.9,-12.6,100.3,97
+Sun May 05 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2005-05,,2.4,25.1,-10.3,18.9,-15.4,108.9,96.4
+Wed Jun 05 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2005-06,,-1.5,10.9,-12.2,15.9,-14.5,100,97.7
+Fri Jul 05 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2005-07,,2.9,22.8,-14.9,18,-13.4,107.6,95
+Mon Aug 05 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2005-08,,0.7,22.7,-15.6,19.5,-10.9,105.8,99.2
+Thu Sep 05 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2005-09,,-1,20,-14.6,16.5,-9.8,102.5,102.9
+Sat Oct 05 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2005-10,,0.7,20.8,-12.4,18.4,-12.8,105.6,102.4
+Tue Nov 05 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2005-11,,2.3,20.3,-14.2,19.2,-11.2,108.1,100.1
+Thu Dec 05 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2005-12,,2.4,25.1,-12.6,19.8,-10.5,109.5,102.5
+Sat Jan 06 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2006-01,,1.9,27.1,-14.2,21.1,-8.8,109.5,100.4
+Tue Feb 06 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2006-02,,0.6,25.4,-13.5,17.2,-7.9,109.3,103.3
+Wed Mar 06 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2006-03,,3,21.3,-14.4,8.7,-9.5,107.4,105.4
+Sat Apr 06 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2006-04,,0.4,20.4,-12.4,12.5,-8.7,106.1,101.9
+Mon May 06 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2006-05,,1.5,24.9,-10.5,16.3,-5,108.9,105.6
+Thu Jun 06 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2006-06,,1.5,24.8,-11.2,15.4,-4.7,108.4,109.1
+Sat Jul 06 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2006-07,,1.7,26,-12.4,16,-6.3,108.7,106.8
+Tue Aug 06 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2006-08,,2.2,26,-11,14.9,-5.3,109,104.6
+Fri Sep 06 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2006-09,,2.8,27.2,-10.4,15,-4,111,104
+Sun Oct 06 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2006-10,,3.6,27,-10,15.7,-3.7,112.3,105.1
+Wed Nov 06 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2006-11,,2,30.6,-12.6,18.8,-4.2,110.7,104.4
+Fri Dec 06 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2006-12,,2.6,27.7,-9.9,17,-4.7,112.3,102.5
+Sun Jan 07 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2007-01,,2.3,25.3,-7.8,19.8,-4.1,111.2,100.5
+Wed Feb 07 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2007-02,,2.4,28.7,-6.8,17.1,-2.4,112.3,104.3
+Thu Mar 07 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2007-03,,1.5,26,-7,17.7,-2,111.2,108.1
+Sun Apr 07 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2007-04,,3,23.9,-4.3,15.4,-1.8,113.6,108.9
+Tue May 07 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2007-05,,3.9,26,-6.3,14.5,-2.2,114.4,105.7
+Fri Jun 07 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2007-06,,1.6,26,-6.9,18.5,-2.5,112.1,107
+Sun Jul 07 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2007-07,,1.6,22.4,-4,19.2,0.3,111.8,107.7
+Wed Aug 07 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2007-08,,1.9,25.4,-6.1,20.4,-2.4,112.4,106.3
+Sat Sep 07 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2007-09,,2.4,23.2,-5.6,21.8,-1.9,112.4,104.9
+Mon Oct 07 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2007-10,,1.6,23.3,-5.9,21.7,-1.2,112.2,105.2
+Thu Nov 07 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2007-11,,0.7,25.9,-5.7,23.5,-0.1,111.7,103.6
+Sat Dec 07 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2007-12,,1.1,24.7,-3,23.1,1.9,111.8,104.9
+Mon Jan 08 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2008-01,,1,33.5,-9.8,20.4,-22.5,111.7,102.7
+Thu Feb 08 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2008-02,,0.8,24.8,-10.4,21.4,1.8,110.2,107.5
+Fri Mar 08 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2008-03,,0.1,23.5,-9,18.8,1.6,108.1,107.2
+Mon Apr 08 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2008-04,,0.4,23.2,-6,21.7,0.5,110.2,105.2
+Wed May 08 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2008-05,,-0.6,21.2,-6.7,20.6,-1.2,108.2,107.8
+Sat Jun 08 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2008-06,,0.8,19.1,-6.7,20.5,-2.2,107.5,104.2
+Mon Jul 08 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2008-07,,0.3,16.9,-8.6,20.6,-5.7,107.5,103.8
+Thu Aug 08 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2008-08,,-0.8,17.4,-3.4,17.4,-6.1,107.9,107.8
+Sun Sep 08 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2008-09,,-1.9,21,-2.3,16.9,-9.5,107.5,105.9
+Tue Oct 08 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2008-10,,-1.3,21.7,-6.7,12.3,-10,107.8,101.3
+Fri Nov 08 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2008-11,,-10.1,11.7,-13.3,-1.3,-13.5,94.6,83.5
+Sun Dec 08 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2008-12,,-13.7,7.8,-17.9,1.6,-18.8,89.4,82.8
+Tue Jan 09 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2009-01,,-15.1,9.4,-25.1,4.6,-22.7,86.8,87.8
+Fri Feb 09 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2009-02,,-20.6,-13.6,-29.1,-17.3,-28.4,75,67.3
+Sat Mar 09 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2009-03,,-21.4,-19,-32.4,-14.3,-29.9,71,73.2
+Tue Apr 09 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2009-04,,-19.2,-18.2,-31.4,-25,-32.9,72.8,66.2
+Thu May 09 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2009-05,,-15.6,-15.6,-31.2,-18.9,-35.4,78.1,69.2
+Sun Jun 09 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2009-06,,-16.1,-16.7,-25.1,-18.2,-36,78.6,69.6
+Tue Jul 09 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2009-07,,-14.5,-13.3,-30.2,-18.7,-37.1,78.4,75
+Fri Aug 09 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2009-08,,-14.1,-12.5,-29.3,-17,-39,79.9,75.1
+Mon Sep 09 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2009-09,,-13.3,-10.7,-32.6,-4.1,-38.6,82.3,75.2
+Wed Oct 09 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2009-10,,-14.1,-11.3,-36.7,-15.2,-40.2,78.4,75.8
+Sat Nov 09 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2009-11,,-13.6,-11,-33.8,-11.8,-41.9,80.1,74
+Mon Dec 09 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2009-12,,-10.5,-7.8,-26.9,-11.4,-41,85,74.9
+Wed Jan 10 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2010-01,,-9.8,-7.3,-35.2,-11,-41.8,84.7,73.2
+Sat Feb 10 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2010-02,,-11.3,-10.2,-34.4,-12.9,-41.6,83.8,79.5
+Sun Mar 10 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2010-03,,-11.2,-6.1,-33.6,-10.5,-41.6,85.4,80.9
+Wed Apr 10 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2010-04,,-10.1,-2.4,-35,-6.5,-40.3,86.3,84.2
+Fri May 10 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2010-05,,-10.1,-11.9,-46.7,-12.6,-40.1,78.1,83.7
+Mon Jun 10 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2010-06,,-8.7,-12.5,-53.2,-13.3,-41.2,77.4,82.8
+Wed Jul 10 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2010-07,,-8.1,-9.4,-52.2,-16.7,-41.3,79.4,80
+Sat Aug 10 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2010-08,,-7.4,-7.7,-45.9,-11.9,-38.3,82.3,82.3
+Tue Sep 10 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2010-09,,-6.4,-7.8,-46.1,-11.6,-38,81.8,88.7
+Thu Oct 10 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2010-10,,-4.4,-7.5,-46.2,-9.2,-37.6,83.4,88.3
+Sun Nov 10 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2010-11,,-5,-1.7,-44.5,-7.7,-34.7,85.9,88.2
+Tue Dec 10 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2010-12,,-4.3,-0.8,-45.6,-5.8,-32.7,87,89
+Thu Jan 11 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2011-01,,-4.3,-2.8,-41.4,-5.1,-30.7,88.1,90.9
+Sun Feb 11 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2011-02,,-2.7,0.9,-41.6,0.6,-27.1,87.8,99.1
+Mon Mar 11 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2011-03,,-0.3,1,-38,-2.8,-27.1,91.4,99
+Thu Apr 11 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2011-04,,-2.3,1.3,-37.6,-1.6,-28.1,89.8,99.7
+Sat May 11 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2011-05,,-3,0.1,-35.1,-2.6,-25.8,91.1,97.4
+Tue Jun 11 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2011-06,,-2.6,0.4,-35.3,0,-25.2,90.5,98.5
+Thu Jul 11 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2011-07,,-2.2,3.2,-37.1,0.8,-22.2,92.2,103.3
+Sun Aug 11 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2011-08,,-2.8,-2.4,-31.3,1.4,-23.8,91,97.6
+Wed Sep 11 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2011-09,,-2.8,0.1,-34.3,5.7,-22.7,91,99.4
+Fri Oct 11 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2011-10,,-3.6,1,-35.3,6,-21.8,91,101.7
+Mon Nov 11 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2011-11,,0,-1.6,-32.9,4.7,-22.8,92.4,99.4
+Wed Dec 11 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2011-12,,-4,-1.6,-33.8,3.2,-23.4,89.4,97.1
+Fri Jan 12 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2012-01,,-2.4,4.8,-32.7,4.8,-22.2,93.5,99.2
+Mon Feb 12 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2012-02,,-3.8,4,-32.5,0.2,-25.8,91.2,102.4
+Tue Mar 12 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2012-03,,-3.3,-0.1,-34.3,0.3,-24,90.3,102.7
+Fri Apr 12 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2012-04,,-2.3,1.2,-30.3,5.2,-21.7,92.9,102.3
+Sun May 12 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2012-05,,-1.6,1.7,-23.1,0.6,-23.3,95,101.9
+Wed Jun 12 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2012-06,,-2.9,1.9,-23.7,2.5,-22.7,95.1,101.2
+Fri Jul 12 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2012-07,,-4,2.2,-24.4,6.1,-24.8,93.2,101.7
+Mon Aug 12 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2012-08,,-3.1,-0.2,-28.8,3.4,-25.4,92.5,95.9
+Thu Sep 12 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2012-09,,-3.7,-2.7,-31.1,3.8,-25.9,90.4,99.8
+Sat Oct 12 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2012-10,,-3.4,-1.9,-30,5.5,-27.1,90.4,99.3
+Tue Nov 12 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2012-11,,-2.6,0.4,-28.3,5.4,-26.5,93.4,95.3
+Thu Dec 12 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2012-12,,-3.6,5.5,-25.4,8.1,-27,94.1,97.8
+Sat Jan 13 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2013-01,,-2.7,-2.4,-23.8,5.9,-27.9,93,94.5
+Tue Feb 13 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2013-02,,-1.9,-2.6,-23.9,3.6,-27.8,93.6,98.7
+Wed Mar 13 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2013-03,,-3.8,1.5,-24.2,3.6,-29.8,93.4,99.8
+Sat Apr 13 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2013-04,,-3,0.5,-27.5,2.3,-31.2,93.1,95.3
+Mon May 13 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2013-05,,-3.7,2.1,-27.2,9.6,-29.9,92.9,96.3
+Thu Jun 13 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2013-06,,-2.4,1.2,-26.8,8.7,-29,94.2,94.5
+Sat Jul 13 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2013-07,,-4.3,3,-27.2,5.4,-29.2,92.4,95
+Tue Aug 13 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2013-08,,-3.2,1.4,-25.7,2.6,-27.5,92.5,95.4
+Fri Sep 13 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2013-09,,-1.6,5.3,-24.6,2.9,-28.4,95.8,98.1
+Sun Oct 13 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2013-10,,-2.6,-0.1,-26.5,2.8,-27.5,92.7,96.4
+Wed Nov 13 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2013-11,,-2.9,2.5,-26.4,9,-27.7,93,98.4
+Fri Dec 13 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2013-12,,-1.8,0.7,-24,2.4,-27.4,94,96.7
+Sun Jan 14 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2014-01,,-2.9,2.4,-22.8,2.4,-26.6,93.8,99.2
+Wed Feb 14 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2014-02,,-1.2,6.4,-23.9,7.2,-24.4,97.1,98.6
+Thu Mar 14 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2014-03,,0.1,4.1,-24.7,8.9,-23.1,97.5,100.3
+Sun Apr 14 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2014-04,,-0.3,3.2,-24.1,5,-21.8,95.4,102.3
+Tue May 14 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2014-05,,-1.2,3.9,-23.8,8.5,-20.8,96.2,100.4
+Fri Jun 14 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2014-06,,-0.9,2.1,-21.2,7.5,-22.8,95.5,101.2
+Sun Jul 14 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2014-07,,0.8,2.2,-18.7,11.8,-20.8,98.6,99.1
+Wed Aug 14 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2014-08,,-0.7,7.7,-18,9.1,-21.4,99.7,101.4
+Sat Sep 14 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2014-09,,-0.9,6.6,-19.7,6,-19.4,99,103.2
+Mon Oct 14 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2014-10,,0.3,6,-18.6,9.3,-19.2,100.5,103.6
+Thu Nov 14 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2014-11,,0,5,-15.7,7.7,-18.5,99.8,101.2
+Sat Dec 14 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2014-12,,0.1,4.2,-10.5,7.7,-18.1,101.7,103.7
+Mon Jan 15 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2015-01,,0.4,4.9,-9.5,4.4,-17.7,101.5,101.6
+Thu Feb 15 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2015-02,,-0.1,4.8,-7.3,8,-14.1,101.4,105.3
+Fri Mar 15 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2015-03,,0.1,5,-9.3,11.6,-15,101,113.3
+Mon Apr 15 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2015-04,,0,8.4,-10.6,19.8,-15,102.9,107.7
+Wed May 15 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2015-05,,1.6,6.4,-9.8,6.5,-15.6,102.9,115.6
+Sat Jun 15 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2015-06,,-0.8,8.8,-8.8,23.8,-13.6,103.6,107.4
+Mon Jul 15 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2015-07,,0.1,10.7,-11.5,17.9,-14.5,104,105
+Thu Aug 15 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2015-08,,0.5,8.1,-9.8,17.4,-13.1,103.8,104.7
+Sun Sep 15 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2015-09,,-0.8,10.4,-8.9,12.6,-13.8,103.8,106.4
+Tue Oct 15 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2015-10,,-0.3,11,-7.5,14,-12.4,104.7,106.5
+Fri Nov 15 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2015-11,,0,12,-12.6,14.9,-12,103,106.5
+Sun Dec 15 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2015-12,,-0.4,11.9,-10.6,4.2,-11.8,103.3,104.5
+Tue Jan 16 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2016-01,,0.1,10.5,-8.7,3.9,-11.6,104.2,101.4
+Fri Feb 16 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2016-02,,-0.5,8.8,-9.7,13,-15.1,103.1,104.2
+Sat Mar 16 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2016-03,,-0.2,9.7,-10.3,9.1,-12.9,103.3,105.7
+Tue Apr 16 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2016-04,,0.8,11.6,-8.4,5,-14,104.9,105.7
+Thu May 16 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2016-05,,0.3,8.4,-8.8,9.3,-14.4,104.2,102.2
+Sun Jun 16 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2016-06,,1.5,7.1,-8.8,6.1,-13.4,104.7,101.9
+Tue Jul 16 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2016-07,,0.5,9.9,-10.4,8.4,-12.5,104.1,99.2
+Fri Aug 16 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2016-08,,0.7,10,-9,16.6,-13.4,104.5,108.8
+Mon Sep 16 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2016-09,,1.9,9.1,-11.1,-8.3,-12.9,103.3,100.2
+Wed Oct 16 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2016-10,,0.4,9.8,-10.1,2.9,-13,103.2,102.9
+Sat Nov 16 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2016-11,,0.6,9.6,-6.2,3.7,-13.2,105.5,102.6
+Mon Dec 16 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2016-12,,0.5,8.1,-7.8,0.2,-12.5,104.4,99.5
+Wed Jan 17 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2017-01,,0.8,9.5,-4.3,-5.7,-14.4,104.3,98.1
+Sat Feb 17 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2017-02,,0.9,8,-3.3,-0.8,-11.9,105.9,101
+Sun Mar 17 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2017-03,,1.3,9,-0.1,3.7,-13.5,107.5,99.3
+Wed Apr 17 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2017-04,,0.9,11.9,-4.8,16.7,-11.4,106.8,106.3
+Fri May 17 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2017-05,,0.5,13.5,-5.2,13.2,-10.8,107,107.5
+Mon Jun 17 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2017-06,,0.5,11.8,-4.6,10.7,-12.6,106.8,108.6
+Wed Jul 17 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2017-07,,1.2,11.9,-6.3,8.7,-12.6,107.2,107.8
+Sat Aug 17 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2017-08,,1.1,10.9,-3.7,7.1,-12.8,106.8,108.5
+Tue Sep 17 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2017-09,,1.1,9.2,-5.4,10.3,-12.6,106.2,110
+Thu Oct 17 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2017-10,,2.7,12,-13,10.6,-13.8,106,110.7
+Sun Nov 17 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2017-11,,2.6,9.7,-13,10.4,-13.7,105.1,109.1
+Tue Dec 17 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2017-12,,2.8,11.1,-14.6,10.2,-13.6,105.1,106.7
+Thu Jan 18 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2018-01,,2.1,9.7,-15.6,10.7,-10.8,104.6,105.3
+Sun Feb 18 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2018-02,,1.3,9.8,-16.6,9.5,-13.5,103.9,104.7
+Mon Mar 18 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2018-03,,0.8,8.5,-15.5,7.1,-12.2,102.7,105.9
+Thu Apr 18 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2018-04,,0.4,7.1,-14.1,8.5,-13.1,102.5,107
+Sat May 18 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2018-05,,0.5,9.8,-15.3,10,-13,103.1,106.3
+Tue Jun 18 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2018-06,,1,10.5,-17.3,6.7,-11.7,102.8,107.6
+Thu Jul 18 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2018-07,,0.5,4.5,-13.4,8.9,-11.3,101.2,108.1
+Sun Aug 18 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2018-08,,0.7,5.2,-14,6.4,-9,102,106.9
+Wed Sep 18 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2018-09,,1.6,5.2,-10.8,13.3,-9,104.4,107.3
+Fri Oct 18 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2018-10,,1.2,7.4,-11.6,10.3,-7.9,103.8,108.6
+Mon Nov 18 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2018-11,,0.8,6.6,-13.8,7.4,-7.4,102.6,106.8
+Wed Dec 18 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2018-12,,0,6.6,-13.5,10.6,-7,102.6,108.5
+Fri Jan 19 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2019-01,,0.3,8.7,-14.4,5.2,-8.6,102.4,106.2
+Mon Feb 19 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2019-02,,0.4,10.1,-13.8,1.4,-6.1,103.2,108.2
+Tue Mar 19 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2019-03,,1.3,8.6,-12.5,12.5,-5.6,104.8,108.3
+Fri Apr 19 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2019-04,,0.7,7.5,-11.8,10.4,-5.3,103.7,108.8
+Sun May 19 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2019-05,,-0.3,8,-9.2,7,-4.7,103.5,111
+Wed Jun 19 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2019-06,,-0.4,8.6,-6.9,8.6,-6.7,104.9,108.2
+Fri Jul 19 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2019-07,,-0.9,9.4,-5.7,10.4,-5.4,105.2,108.3
+Mon Aug 19 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2019-08,,-0.1,8.7,-10,6.3,-6.4,104.1,106.8
+Thu Sep 19 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2019-09,,-0.1,8.5,-9.7,5.9,-4.9,103.9,103.5
+Sat Oct 19 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2019-10,,0.3,6.9,-9.1,4.3,-5.3,103.8,106.8
+Tue Nov 19 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2019-11,,0.6,10.5,-8.6,8.2,-2.9,105.7,107.7
+Thu Dec 19 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2019-12,,0.4,9.5,-6.3,7.2,-3.7,106,106.9
+Sat Jan 20 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2020-01,,-1,9.7,-8.2,11.4,-3.4,105.6,107.9
+Tue Feb 20 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2020-02,,-0.9,6.9,-9.2,12.6,-3.3,104.1,106.7
+Wed Mar 20 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2020-03,,-2.7,3.4,-12.1,10.3,-3.5,100,103.7
+Sat Apr 20 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2020-04,,-32.4,-44.1,-30.3,-27.9,-46.5,58.7,48.2
+Mon May 20 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2020-05,,-19.5,-42.6,-23.9,-22.4,-32.7,71.5,73.6
+Thu Jun 20 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2020-06,,-9.8,-33.3,-21.7,-14.1,-19.5,81.8,91.8
+Sat Jul 20 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2020-07,,-5.1,-27.9,-19.5,-10.1,-15.4,87.6,96
+Tue Aug 20 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2020-08,,-4.5,-18.5,-18.7,1.2,-12.2,91.9,101.3
+Fri Sep 20 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2020-09,,-3.8,-11,-16.4,0.6,-10.2,94.6,103.1
+Sun Oct 20 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2020-10,,-4.4,-13,-15.9,5.3,-8.6,94,99.8
+Wed Nov 20 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2020-11,,-5.3,-19.6,-18.1,1.9,-10.5,90.9,95.8
+Fri Dec 20 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2020-12,,-3.9,-17.4,-17.4,1.4,-9.8,92.4,99.2
+Sun Jan 21 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2021-01,,-1.4,-14.3,-17.1,0.9,-7.2,95.1,102.7
+Wed Feb 21 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2021-02,,-1.4,-12.2,-16.8,10.6,-7.5,96,98.9
+Thu Mar 21 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2021-03,,-1.9,-10.6,-16,4.7,-7.7,96.2,104.7
+Sun Apr 21 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2021-04,,-1.9,-9.3,-9,7.5,-8,98.7,104
+Tue May 21 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2021-05,,-0.5,3.4,-7.3,9.4,-8.6,103.8,108.8
+Fri Jun 21 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2021-06,,-0.3,7.1,-8.9,8.4,-10.6,103.8,107.1
+Sun Jul 21 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2021-07,,-0.3,9,-11.5,8.8,-9.7,104.5,105.8
+Wed Aug 21 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2021-08,,0.1,7.9,-12.3,8.5,-8.2,103.7,107.7
+Sat Sep 21 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2021-09,,-0.9,6.7,-14.5,8.9,-9.5,102.2,107.9
+Mon Oct 21 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2021-10,,-1.9,5.9,-17.5,5.7,-8.4,101,107.2
+Thu Nov 21 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2021-11,,-0.5,4.5,-20.6,4.6,-9,99.6,107.6
+Sat Dec 21 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2021-12,,0.3,7.7,-21.5,4.5,-6.7,101.6,105.6
+Mon Jan 22 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2022-01,,-0.5,9.3,-23.9,5.8,-8.2,100.4,107.7
+Thu Feb 22 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2022-02,,-0.2,7.7,-21.9,3.2,-8.1,100.8,108
+Fri Mar 22 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2022-03,,-1.1,7.5,-27.3,1.8,-8.9,99.6,104.8
+Mon Apr 22 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2022-04,,0.4,8.7,-29.6,1.7,-8.9,99.6,107.9
+Wed May 22 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2022-05,,0.1,7.1,-31,7.2,-10.6,98.6,109.6
+Sat Jun 22 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2022-06,,-0.1,6.3,-32.5,9,-10,97.8,110.4
+Mon Jul 22 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2022-07,,-0.5,7.1,-29.5,9.9,-10.5,98.8,107
+Thu Aug 22 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2022-08,,-1.2,5.5,-30.4,9,-10.7,97.2,105.5
+Sun Sep 22 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2022-09,,-1.1,5.9,-31,5.2,-8.7,98.1,106.4
+Tue Oct 22 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2022-10,,0.1,5.7,-30.3,6.1,-9.5,98.4,108.5
+Fri Nov 22 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2022-11,,-0.1,9.9,-31.9,14,-7.1,99.9,108
+Sun Dec 22 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2022-12,,-0.6,7.1,-30.9,10.4,-8.5,98,102.7
+Tue Jan 23 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2023-01,,-0.9,4.1,-29,8.5,-8.2,97.4,106.4
+Fri Feb 23 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2023-02,,-0.9,7.5,-27.3,3.9,-9.1,99,102.9
+Sat Mar 23 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2023-03,,0.4,5.5,-25.2,6.7,-7.9,99.3,105.6
+Tue Apr 23 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2023-04,,-0.8,4.5,-22.2,1.7,-8.5,99.3,107
+Thu May 23 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2023-05,,-2.3,4.7,-19.5,7.7,-5.4,99.3,106.8
+Sun Jun 23 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2023-06,,-1.3,4.5,-17.2,4.9,-5.8,101.2,106.6
+Tue Jul 23 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2023-07,,-1.4,6.1,-16.5,3.7,-5.5,100.7,108.9
+Fri Aug 23 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2023-08,,-0.7,4,-18.3,4.2,-6,100.9,106.6
+Mon Sep 23 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2023-09,,-0.4,2.3,-16.2,6.8,-6.6,100.9,104.4
+Wed Oct 23 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2023-10,,-0.2,4,-18,7.6,-5.9,101.2,106.5
+Sat Nov 23 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2023-11,,0,4.3,-19.5,8.5,-6.5,101.3,102.9
+Mon Dec 23 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2023-12,,-0.3,5.6,-17.4,8.7,-6.2,102.2,106.2
+Wed Jan 24 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2024-01,,-0.5,4.7,-17.8,10.8,-6.4,102.1,103.4
+Sat Feb 24 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2024-02,,-1,4.6,-17.4,9.4,-5.4,101.6,106.2
+Sun Mar 24 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2024-03,,-0.4,7,-15.5,8.6,-5.6,103.6,108.5
+Wed Apr 24 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2024-04,,0.1,8,-13.6,11.3,-4.8,104.8,109.7
+Fri May 24 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2024-05,,-0.2,5.5,-15.4,5.7,-6.2,102.6,108.8
+Mon Jun 24 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2024-06,,-0.6,6.2,-10.7,7.4,-6.1,104.3,103.7
+Wed Jul 24 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2024-07,,-0.7,4.7,-14.7,7.5,-5.5,102.6,106.4
+Sat Aug 24 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2024-08,,-0.6,7.1,-12.1,4,-4.7,104.1,103.3
+Tue Sep 24 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2024-09,,,,,,,,
+Thu Oct 24 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2024-10,,,,,,,,
+Sun Nov 24 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2024-11,,,,,,,,
+Tue Dec 24 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2024-12,,,,,,,,
+Thu Jan 25 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2025-01,,,,,,,,
+Sun Feb 25 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2025-02,,,,,,,,
+Mon Mar 25 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2025-03,,,,,,,,
+Thu Apr 25 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2025-04,,,,,,,,
+Sat May 25 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2025-05,,,,,,,,
+Tue Jun 25 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2025-06,,,,,,,,
+Thu Jul 25 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2025-07,,,,,,,,
+Sun Aug 25 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2025-08,,,,,,,,
+Wed Sep 25 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2025-09,,,,,,,,
+Fri Oct 25 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2025-10,,,,,,,,
+Mon Nov 25 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2025-11,,,,,,,,
+Wed Dec 25 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2025-12,,,,,,,,
+Fri Jan 26 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2026-01,,,,,,,,
+Mon Feb 26 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2026-02,,,,,,,,
+Tue Mar 26 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2026-03,,,,,,,,
+Fri Apr 26 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2026-04,,,,,,,,
+Sun May 26 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2026-05,,,,,,,,
+Wed Jun 26 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2026-06,,,,,,,,
+Fri Jul 26 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2026-07,,,,,,,,
+Mon Aug 26 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2026-08,,,,,,,,
+Thu Sep 26 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2026-09,,,,,,,,
+Sat Oct 26 2024 02:00:00 GMT+0300 (Eastern European Summer Time),2026-10,,,,,,,,
+Tue Nov 26 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2026-11,,,,,,,,
+Thu Dec 26 2024 02:00:00 GMT+0200 (Eastern European Standard Time),2026-12,,,,,,,,
