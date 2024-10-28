@@ -1,17 +1,4 @@
 County,Year,FDI
-Jude?ul,2013,2013
-Jude?ul,2014,2014
-Jude?ul,2015,2015
-Jude?ul,2016,2016
-Jude?ul,2017,2017
-Jude?ul,2018,2018
-Jude?ul,2019,2019
-Jude?ul,2020,2020
-Jude?ul,2021,2021
-Jude?ul,2022,2022
-Jude?ul,2023,2023
-Jude?ul,2024,
-Jude?ul,2025,
 Alba,2013,886
 Alba,2014,1192
 Alba,2015,963
@@ -23,8 +10,6 @@ Alba,2020,1024
 Alba,2021,1270
 Alba,2022,1327
 Alba,2023,1375
-Alba,2024,
-Alba,2025,
 Arge?,2013,1450
 Arge?,2014,582
 Arge?,2015,791
@@ -36,8 +21,6 @@ Arge?,2020,1521
 Arge?,2021,1606
 Arge?,2022,1743
 Arge?,2023,1850
-Arge?,2024,
-Arge?,2025,
 Arad,2013,760
 Arad,2014,854
 Arad,2015,959
@@ -49,8 +32,6 @@ Arad,2020,1103
 Arad,2021,1498
 Arad,2022,1362
 Arad,2023,1582
-Arad,2024,
-Arad,2025,
 Bac?u,2013,165
 Bac?u,2014,165
 Bac?u,2015,193
@@ -62,8 +43,6 @@ Bac?u,2020,329
 Bac?u,2021,
 Bac?u,2022,
 Bac?u,2023,1257
-Bac?u,2024,
-Bac?u,2025,
 Bihor,2013,526
 Bihor,2014,584
 Bihor,2015,613
@@ -75,8 +54,6 @@ Bihor,2020,1023
 Bihor,2021,1014
 Bihor,2022,1082
 Bihor,2023,1293
-Bihor,2024,
-Bihor,2025,
 Bistri?a-N?s?ud,2013,110
 Bistri?a-N?s?ud,2014,120
 Bistri?a-N?s?ud,2015,149
@@ -88,8 +65,6 @@ Bistri?a-N?s?ud,2020,123
 Bistri?a-N?s?ud,2021,173
 Bistri?a-N?s?ud,2022,225
 Bistri?a-N?s?ud,2023,213
-Bistri?a-N?s?ud,2024,
-Bistri?a-N?s?ud,2025,
 Br?ila,2013,136
 Br?ila,2014,136
 Br?ila,2015,80
@@ -101,8 +76,6 @@ Br?ila,2020,199
 Br?ila,2021,214
 Br?ila,2022,250
 Br?ila,2023,264
-Br?ila,2024,
-Br?ila,2025,
 Boto?ani,2013,84
 Boto?ani,2014,70
 Boto?ani,2015,78
@@ -114,8 +87,6 @@ Boto?ani,2020,74
 Boto?ani,2021,80
 Boto?ani,2022,124
 Boto?ani,2023,142
-Boto?ani,2024,
-Boto?ani,2025,
 Bra?ov,2013,1827
 Bra?ov,2014,1880
 Bra?ov,2015,2128
@@ -127,8 +98,6 @@ Bra?ov,2020,2668
 Bra?ov,2021,2621
 Bra?ov,2022,2825
 Bra?ov,2023,3124
-Bra?ov,2024,
-Bra?ov,2025,
 Bucure?ti,2013,32105
 Bucure?ti,2014,32464
 Bucure?ti,2015,33023
@@ -140,8 +109,6 @@ Bucure?ti,2020,48713
 Bucure?ti,2021,54326
 Bucure?ti,2022,59145
 Bucure?ti,2023,64657
-Bucure?ti,2024,
-Bucure?ti,2025,
 Buz?u,2013,320
 Buz?u,2014,540
 Buz?u,2015,431
@@ -153,8 +120,6 @@ Buz?u,2020,451
 Buz?u,2021,557
 Buz?u,2022,623
 Buz?u,2023,569
-Buz?u,2024,
-Buz?u,2025,
 Cluj,2013,1118
 Cluj,2014,1431
 Cluj,2015,1677
@@ -166,8 +131,6 @@ Cluj,2020,2101
 Cluj,2021,2326
 Cluj,2022,2894
 Cluj,2023,2906
-Cluj,2024,
-Cluj,2025,
 C?l?ra?i,2013,465
 C?l?ra?i,2014,463
 C?l?ra?i,2015,429
@@ -179,8 +142,6 @@ C?l?ra?i,2020,299
 C?l?ra?i,2021,329
 C?l?ra?i,2022,417
 C?l?ra?i,2023,554
-C?l?ra?i,2024,
-C?l?ra?i,2025,
 Cara?-Severin,2013,110
 Cara?-Severin,2014,207
 Cara?-Severin,2015,214
@@ -192,8 +153,6 @@ Cara?-Severin,2020,216
 Cara?-Severin,2021,242
 Cara?-Severin,2022,278
 Cara?-Severin,2023,324
-Cara?-Severin,2024,
-Cara?-Severin,2025,
 Constan?a,2013,1157
 Constan?a,2014,1424
 Constan?a,2015,1559
@@ -205,8 +164,6 @@ Constan?a,2020,1804
 Constan?a,2021,2038
 Constan?a,2022,1973
 Constan?a,2023,2377
-Constan?a,2024,
-Constan?a,2025,
 Covasna,2013,90
 Covasna,2014,89
 Covasna,2015,129
@@ -218,8 +175,6 @@ Covasna,2020,283
 Covasna,2021,396
 Covasna,2022,391
 Covasna,2023,429
-Covasna,2024,
-Covasna,2025,
 D?mbovi?a,2013,257
 D?mbovi?a,2014,277
 D?mbovi?a,2015,350
@@ -231,8 +186,6 @@ D?mbovi?a,2020,442
 D?mbovi?a,2021,426
 D?mbovi?a,2022,555
 D?mbovi?a,2023,508
-D?mbovi?a,2024,
-D?mbovi?a,2025,
 Dolj,2013,1083
 Dolj,2014,1068
 Dolj,2015,1251
@@ -244,8 +197,6 @@ Dolj,2020,1334
 Dolj,2021,717
 Dolj,2022,788
 Dolj,2023,941
-Dolj,2024,
-Dolj,2025,
 Gorj,2013,12
 Gorj,2014,14
 Gorj,2015,13
@@ -257,8 +208,6 @@ Gorj,2020,5
 Gorj,2021,7
 Gorj,2022,7
 Gorj,2023,8
-Gorj,2024,
-Gorj,2025,
 Gala?i,2013,546
 Gala?i,2014,606
 Gala?i,2015,513
@@ -270,8 +219,6 @@ Gala?i,2020,708
 Gala?i,2021,744
 Gala?i,2022,531
 Gala?i,2023,484
-Gala?i,2024,
-Gala?i,2025,
 Giurgiu,2013,212
 Giurgiu,2014,132
 Giurgiu,2015,125
@@ -283,8 +230,6 @@ Giurgiu,2020,363
 Giurgiu,2021,419
 Giurgiu,2022,437
 Giurgiu,2023,399
-Giurgiu,2024,
-Giurgiu,2025,
 Hunedoara,2013,313
 Hunedoara,2014,379
 Hunedoara,2015,370
@@ -296,8 +241,6 @@ Hunedoara,2020,456
 Hunedoara,2021,499
 Hunedoara,2022,493
 Hunedoara,2023,560
-Hunedoara,2024,
-Hunedoara,2025,
 Harghita,2013,113
 Harghita,2014,127
 Harghita,2015,130
@@ -309,8 +252,6 @@ Harghita,2020,223
 Harghita,2021,253
 Harghita,2022,294
 Harghita,2023,464
-Harghita,2024,
-Harghita,2025,
 Ilfov,2013,3035
 Ilfov,2014,3153
 Ilfov,2015,3332
@@ -322,8 +263,6 @@ Ilfov,2020,5876
 Ilfov,2021,6592
 Ilfov,2022,7469
 Ilfov,2023,9495
-Ilfov,2024,
-Ilfov,2025,
 Ialomi?a,2013,197
 Ialomi?a,2014,173
 Ialomi?a,2015,212
@@ -335,8 +274,6 @@ Ialomi?a,2020,333
 Ialomi?a,2021,357
 Ialomi?a,2022,499
 Ialomi?a,2023,431
-Ialomi?a,2024,
-Ialomi?a,2025,
 Ia?i,2013,647
 Ia?i,2014,516
 Ia?i,2015,448
@@ -348,8 +285,6 @@ Ia?i,2020,515
 Ia?i,2021,543
 Ia?i,2022,590
 Ia?i,2023,722
-Ia?i,2024,
-Ia?i,2025,
 Mehedin?i,2013,91
 Mehedin?i,2014,106
 Mehedin?i,2015,15
@@ -361,8 +296,6 @@ Mehedin?i,2020,14
 Mehedin?i,2021,16
 Mehedin?i,2022,20
 Mehedin?i,2023,50
-Mehedin?i,2024,
-Mehedin?i,2025,
 Maramure?,2013,34
 Maramure?,2014,176
 Maramure?,2015,218
@@ -374,8 +307,6 @@ Maramure?,2020,710
 Maramure?,2021,824
 Maramure?,2022,929
 Maramure?,2023,971
-Maramure?,2024,
-Maramure?,2025,
 Mure?,2013,1499
 Mure?,2014,1599
 Mure?,2015,1511
@@ -387,8 +318,6 @@ Mure?,2020,1884
 Mure?,2021,1991
 Mure?,2022,2151
 Mure?,2023,2133
-Mure?,2024,
-Mure?,2025,
 Neam?,2013,146
 Neam?,2014,183
 Neam?,2015,206
@@ -400,8 +329,6 @@ Neam?,2020,193
 Neam?,2021,225
 Neam?,2022,228
 Neam?,2023,217
-Neam?,2024,
-Neam?,2025,
 Olt,2013,615
 Olt,2014,668
 Olt,2015,707
@@ -413,8 +340,6 @@ Olt,2020,904
 Olt,2021,973
 Olt,2022,969
 Olt,2023,1045
-Olt,2024,
-Olt,2025,
 Prahova,2013,2008
 Prahova,2014,2062
 Prahova,2015,2060
@@ -426,8 +351,6 @@ Prahova,2020,2579
 Prahova,2021,3029
 Prahova,2022,3293
 Prahova,2023,3372
-Prahova,2024,
-Prahova,2025,
 Sibiu,2013,622
 Sibiu,2014,882
 Sibiu,2015,803
@@ -439,8 +362,6 @@ Sibiu,2020,1820
 Sibiu,2021,1887
 Sibiu,2022,2018
 Sibiu,2023,2063
-Sibiu,2024,
-Sibiu,2025,
 S?laj,2013,403
 S?laj,2014,478
 S?laj,2015,458
@@ -452,8 +373,6 @@ S?laj,2020,451
 S?laj,2021,422
 S?laj,2022,495
 S?laj,2023,
-S?laj,2024,
-S?laj,2025,
 Satu Mare,2013,236
 Satu Mare,2014,284
 Satu Mare,2015,350
@@ -465,8 +384,6 @@ Satu Mare,2020,570
 Satu Mare,2021,604
 Satu Mare,2022,768
 Satu Mare,2023,829
-Satu Mare,2024,
-Satu Mare,2025,
 Suceava,2013,457
 Suceava,2014,439
 Suceava,2015,498
@@ -478,8 +395,6 @@ Suceava,2020,420
 Suceava,2021,435
 Suceava,2022,521
 Suceava,2023,558
-Suceava,2024,
-Suceava,2025,
 Tulcea,2013,283
 Tulcea,2014,282
 Tulcea,2015,198
@@ -491,8 +406,6 @@ Tulcea,2020,295
 Tulcea,2021,
 Tulcea,2022,
 Tulcea,2023,
-Tulcea,2024,
-Tulcea,2025,
 Timi?,2013,2976
 Timi?,2014,3018
 Timi?,2015,3053
@@ -504,8 +417,6 @@ Timi?,2020,4579
 Timi?,2021,4788
 Timi?,2022,5240
 Timi?,2023,5871
-Timi?,2024,
-Timi?,2025,
 Teleorman,2013,95
 Teleorman,2014,101
 Teleorman,2015,108
@@ -517,8 +428,6 @@ Teleorman,2020,117
 Teleorman,2021,153
 Teleorman,2022,158
 Teleorman,2023,131
-Teleorman,2024,
-Teleorman,2025,
 V?lcea,2013,88
 V?lcea,2014,133
 V?lcea,2015,151
@@ -530,8 +439,6 @@ V?lcea,2020,183
 V?lcea,2021,188
 V?lcea,2022,189
 V?lcea,2023,214
-V?lcea,2024,
-V?lcea,2025,
 Vrancea,2013,81
 Vrancea,2014,87
 Vrancea,2015,86
@@ -543,8 +450,6 @@ Vrancea,2020,120
 Vrancea,2021,114
 Vrancea,2022,119
 Vrancea,2023,124
-Vrancea,2024,
-Vrancea,2025,
 Vaslui,2013,85
 Vaslui,2014,78
 Vaslui,2015,45
@@ -556,5 +461,3 @@ Vaslui,2020,58
 Vaslui,2021,36
 Vaslui,2022,31
 Vaslui,2023,15
-Vaslui,2024,
-Vaslui,2025,
