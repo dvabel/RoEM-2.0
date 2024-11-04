@@ -1,0 +1,375 @@
+?Country,Year,Value
+??rile de Jos,2013,14999
+??rile de Jos,2014,15107
+??rile de Jos,2015,16538
+??rile de Jos,2016,17222
+??rile de Jos,2017,19638
+??rile de Jos,2018,19389
+??rile de Jos,2019,20516
+??rile de Jos,2020,19994
+??rile de Jos,2021,22185
+??rile de Jos,2022,23606
+??rile de Jos,2023,24283
+Germania,2013,6816
+Germania,2014,7792
+Germania,2015,8014
+Germania,2016,9367
+Germania,2017,9704
+Germania,2018,10299
+Germania,2019,10893
+Germania,2020,11070
+Germania,2021,12549
+Germania,2022,14012
+Germania,2023,14839
+Austria,2013,11575
+Austria,2014,9600
+Austria,2015,8934
+Austria,2016,8350
+Austria,2017,9575
+Austria,2018,9915
+Austria,2019,11109
+Austria,2020,10858
+Austria,2021,12280
+Austria,2022,12901
+Austria,2023,14714
+Fran?a,2013,4538
+Fran?a,2014,3594
+Fran?a,2015,3772
+Fran?a,2016,4811
+Fran?a,2017,4731
+Fran?a,2018,4920
+Fran?a,2019,5487
+Fran?a,2020,5642
+Fran?a,2021,6495
+Fran?a,2022,6504
+Fran?a,2023,8583
+Cipru,2013,2904
+Cipru,2014,4501
+Cipru,2015,4593
+Cipru,2016,4603
+Cipru,2017,4647
+Cipru,2018,5015
+Cipru,2019,5492
+Cipru,2020,5445
+Cipru,2021,6338
+Cipru,2022,6809
+Cipru,2023,8016
+Italia,2013,2644
+Italia,2014,2717
+Italia,2015,3279
+Italia,2016,4445
+Italia,2017,4739
+Italia,2018,7667
+Italia,2019,7262
+Italia,2020,7652
+Italia,2021,7530
+Italia,2022,8150
+Italia,2023,6626
+Elve?ia,2013,2013
+Elve?ia,2014,2281
+Elve?ia,2015,2267
+Elve?ia,2016,2585
+Elve?ia,2017,3144
+Elve?ia,2018,3640
+Elve?ia,2019,3793
+Elve?ia,2020,4656
+Elve?ia,2021,5081
+Elve?ia,2022,5668
+Elve?ia,2023,5899
+Luxemburg,2013,1516
+Luxemburg,2014,2218
+Luxemburg,2015,2824
+Luxemburg,2016,3035
+Luxemburg,2017,3543
+Luxemburg,2018,3439
+Luxemburg,2019,3779
+Luxemburg,2020,3906
+Luxemburg,2021,5225
+Luxemburg,2022,5968
+Luxemburg,2023,5059
+Grecia,2013,1981
+Grecia,2014,1821
+Grecia,2015,1831
+Grecia,2016,1969
+Grecia,2017,1723
+Grecia,2018,1335
+Grecia,2019,1249
+Grecia,2020,1234
+Grecia,2021,1271
+Grecia,2022,1193
+Grecia,2023,4044
+Belgia,2013,1550
+Belgia,2014,1386
+Belgia,2015,1501
+Belgia,2016,1952
+Belgia,2017,1584
+Belgia,2018,2276
+Belgia,2019,2518
+Belgia,2020,2202
+Belgia,2021,2504
+Belgia,2022,3017
+Belgia,2023,3979
+Ungaria,2013,767
+Ungaria,2014,881
+Ungaria,2015,950
+Ungaria,2016,975
+Ungaria,2017,959
+Ungaria,2018,1222
+Ungaria,2019,1611
+Ungaria,2020,2221
+Ungaria,2021,2326
+Ungaria,2022,2626
+Ungaria,2023,3167
+Marea Britanie,2013,1245
+Marea Britanie,2014,1501
+Marea Britanie,2015,1254
+Marea Britanie,2016,1701
+Marea Britanie,2017,1452
+Marea Britanie,2018,1713
+Marea Britanie,2019,2853
+Marea Britanie,2020,2755
+Marea Britanie,2021,3040
+Marea Britanie,2022,2857
+Marea Britanie,2023,3124
+Spania,2013,1178
+Spania,2014,1575
+Spania,2015,1467
+Spania,2016,1740
+Spania,2017,559
+Spania,2018,1634
+Spania,2019,1425
+Spania,2020,1756
+Spania,2021,1823
+Spania,2022,1917
+Spania,2023,2124
+Polonia,2013,248
+Polonia,2014,312
+Polonia,2015,458
+Polonia,2016,516
+Polonia,2017,692
+Polonia,2018,786
+Polonia,2019,926
+Polonia,2020,933
+Polonia,2021,1006
+Polonia,2022,1066
+Polonia,2023,1546
+Malta,2013,59
+Malta,2014,80
+Malta,2015,117
+Malta,2016,136
+Malta,2017,107
+Malta,2018,145
+Malta,2019,177
+Malta,2020,224
+Malta,2021,990
+Malta,2022,1221
+Malta,2023,1169
+Turcia,2013,368
+Turcia,2014,581
+Turcia,2015,333
+Turcia,2016,455
+Turcia,2017,519
+Turcia,2018,577
+Turcia,2019,522
+Turcia,2020,1029
+Turcia,2021,875
+Turcia,2022,871
+Turcia,2023,1056
+Cehia,2013,1072
+Cehia,2014,852
+Cehia,2015,670
+Cehia,2016,1196
+Cehia,2017,1431
+Cehia,2018,1638
+Cehia,2019,2035
+Cehia,2020,1799
+Cehia,2021,972
+Cehia,2022,962
+Cehia,2023,914
+Danemarca,2013,
+Danemarca,2014,
+Danemarca,2015,448
+Danemarca,2016,459
+Danemarca,2017,581
+Danemarca,2018,731
+Danemarca,2019,641
+Danemarca,2020,680
+Danemarca,2021,635
+Danemarca,2022,752
+Danemarca,2023,912
+Suedia,2013,479
+Suedia,2014,644
+Suedia,2015,
+Suedia,2016,534
+Suedia,2017,533
+Suedia,2018,626
+Suedia,2019,683
+Suedia,2020,810
+Suedia,2021,828
+Suedia,2022,888
+Suedia,2023,867
+Statele Unite ale Americii,2013,1079
+Statele Unite ale Americii,2014,1142
+Statele Unite ale Americii,2015,
+Statele Unite ale Americii,2016,
+Statele Unite ale Americii,2017,
+Statele Unite ale Americii,2018,
+Statele Unite ale Americii,2019,
+Statele Unite ale Americii,2020,
+Statele Unite ale Americii,2021,
+Statele Unite ale Americii,2022,
+Statele Unite ale Americii,2023,784
+Emiratele Arabe unite,2013,38
+Emiratele Arabe unite,2014,49
+Emiratele Arabe unite,2015,60
+Emiratele Arabe unite,2016,31
+Emiratele Arabe unite,2017,23
+Emiratele Arabe unite,2018,262
+Emiratele Arabe unite,2019,176
+Emiratele Arabe unite,2020,145
+Emiratele Arabe unite,2021,344
+Emiratele Arabe unite,2022,469
+Emiratele Arabe unite,2023,668
+Bulgaria,2013,52
+Bulgaria,2014,
+Bulgaria,2015,
+Bulgaria,2016,159
+Bulgaria,2017,174
+Bulgaria,2018,284
+Bulgaria,2019,344
+Bulgaria,2020,417
+Bulgaria,2021,417
+Bulgaria,2022,400
+Bulgaria,2023,621
+Japonia,2013,211
+Japonia,2014,239
+Japonia,2015,250
+Japonia,2016,285
+Japonia,2017,315
+Japonia,2018,423
+Japonia,2019,422
+Japonia,2020,548
+Japonia,2021,601
+Japonia,2022,592
+Japonia,2023,555
+Israel,2013,172
+Israel,2014,100
+Israel,2015,75
+Israel,2016,159
+Israel,2017,224
+Israel,2018,313
+Israel,2019,331
+Israel,2020,338
+Israel,2021,491
+Israel,2022,533
+Israel,2023,526
+Norvegia,2013,249
+Norvegia,2014,278
+Norvegia,2015,175
+Norvegia,2016,141
+Norvegia,2017,339
+Norvegia,2018,219
+Norvegia,2019,361
+Norvegia,2020,427
+Norvegia,2021,327
+Norvegia,2022,428
+Norvegia,2023,451
+Irlanda,2013,331
+Irlanda,2014,349
+Irlanda,2015,460
+Irlanda,2016,368
+Irlanda,2017,288
+Irlanda,2018,401
+Irlanda,2019,678
+Irlanda,2020,671
+Irlanda,2021,721
+Irlanda,2022,661
+Irlanda,2023,361
+Portugalia,2013,244
+Portugalia,2014,152
+Portugalia,2015,266
+Portugalia,2016,265
+Portugalia,2017,268
+Portugalia,2018,263
+Portugalia,2019,242
+Portugalia,2020,257
+Portugalia,2021,319
+Portugalia,2022,340
+Portugalia,2023,332
+Liban,2013,188
+Liban,2014,176
+Liban,2015,159
+Liban,2016,216
+Liban,2017,271
+Liban,2018,55
+Liban,2019,225
+Liban,2020,275
+Liban,2021,286
+Liban,2022,268
+Liban,2023,323
+China,2013,125
+China,2014,90
+China,2015,223
+China,2016,56
+China,2017,75
+China,2018,37
+China,2019,91
+China,2020,227
+China,2021,248
+China,2022,307
+China,2023,320
+Finlanda,2013,115
+Finlanda,2014,104
+Finlanda,2015,104
+Finlanda,2016,79
+Finlanda,2017,69
+Finlanda,2018,86
+Finlanda,2019,88
+Finlanda,2020,85
+Finlanda,2021,92
+Finlanda,2022,105
+Finlanda,2023,218
+Liechtenstein,2013,
+Liechtenstein,2014,
+Liechtenstein,2015,
+Liechtenstein,2016,14
+Liechtenstein,2017,
+Liechtenstein,2018,
+Liechtenstein,2019,41
+Liechtenstein,2020,61
+Liechtenstein,2021,71
+Liechtenstein,2022,
+Liechtenstein,2023,162
+Republica Serbia,2013,
+Republica Serbia,2014,
+Republica Serbia,2015,
+Republica Serbia,2016,
+Republica Serbia,2017,
+Republica Serbia,2018,
+Republica Serbia,2019,
+Republica Serbia,2020,
+Republica Serbia,2021,155
+Republica Serbia,2022,
+Republica Serbia,2023,123
+Moldova (Republica),2013,18
+Moldova (Republica),2014,18
+Moldova (Republica),2015,33
+Moldova (Republica),2016,22
+Moldova (Republica),2017,36
+Moldova (Republica),2018,38
+Moldova (Republica),2019,33
+Moldova (Republica),2020,26
+Moldova (Republica),2021,68
+Moldova (Republica),2022,56
+Moldova (Republica),2023,102
+Ate ??ri,2013,1867
+Ate ??ri,2014,1860
+Ate ??ri,2015,1961
+Ate ??ri,2016,1551
+Ate ??ri,2017,1782
+Ate ??ri,2018,1236
+Ate ??ri,2019,1403
+Ate ??ri,2020,1393
+Ate ??ri,2021,1058
+Ate ??ri,2022,2072
+Ate ??ri,2023,1765
