@@ -10,7 +10,7 @@
   },
   {
     "indicator": "DFM estimate",
-    "value": 3.1449579831932777,
+    "value": 3.14,
     "color": "#66a7ce",
     "HU": "",
     "RO": "",
@@ -19,7 +19,7 @@
   },
   {
     "indicator": "Market consensus",
-    "value": 3.202439024390244,
+    "value": 3.2,
     "color": "#4997c5",
     "HU": "",
     "RO": "",
@@ -28,7 +28,7 @@
   },
   {
     "indicator": "GDP",
-    "value": 3.269620253164557,
+    "value": 3.27,
     "color": "#4b98c6",
     "HU": "",
     "RO": "",
@@ -37,8 +37,8 @@
   },
   {
     "indicator": "68% interval - high bound",
-    "value": 5.2445378151260496,
-    "color": "#bedaea",
+    "value": 5.24,
+    "color": "#bfdaeb",
     "HU": "",
     "RO": "",
     "EN": "",
@@ -46,7 +46,7 @@
   },
   {
     "indicator": "68% interval - low bound",
-    "value": 1.0445378151260503,
+    "value": 1.04,
     "color": "#60a4cc",
     "HU": "",
     "RO": "",
@@ -55,7 +55,7 @@
   },
   {
     "indicator": "95% interval - high bound",
-    "value": 7.345798319327725,
+    "value": 7.35,
     "color": "#d5e7f2",
     "HU": "",
     "RO": "",
@@ -64,7 +64,7 @@
   },
   {
     "indicator": "95% interval - low bound",
-    "value": -1.057983193277311,
+    "value": -1.06,
     "color": "#5da3cb",
     "HU": "",
     "RO": "",
@@ -73,7 +73,7 @@
   },
   {
     "indicator": "% of information",
-    "value": 90.61793650793656,
+    "value": 90.62,
     "color": "#5aa1ca",
     "HU": "",
     "RO": "",
@@ -605,7 +605,7 @@
     "order": "",
     "index": 280,
     "value": 2.8,
-    "color": "#74b0d3",
+    "color": "#74afd3",
     "HU": "",
     "RO": "",
     "EN": ""
