@@ -2,7 +2,7 @@
   {
     "indicator": "date",
     "value": "Previous period AVG",
-    "color": "",
+    "color": "#ffffff",
     "HU": "",
     "RO": "",
     "EN": "",
@@ -11,74 +11,74 @@
   {
     "indicator": "DFM estimate",
     "value": 3.1449579831932777,
+    "color": "#ecf4f9",
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 0,
-    "color": "#9cc7e0"
+    "index": 0
   },
   {
     "indicator": "Market consensus",
     "value": 3.202439024390244,
+    "color": "#ecf4f9",
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 0,
-    "color": "#9bc6df"
+    "index": 0
   },
   {
     "indicator": "GDP",
     "value": 3.269620253164557,
+    "color": "#ecf4f9",
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 0,
-    "color": "#9dc7e0"
+    "index": 0
   },
   {
     "indicator": "68% interval - high bound",
     "value": 5.2445378151260496,
+    "color": "#e9f2f8",
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 0,
-    "color": "#9bc6df"
+    "index": 0
   },
   {
     "indicator": "68% interval - low bound",
     "value": 1.0445378151260503,
+    "color": "#f0f6fa",
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 0,
-    "color": "#9ec8e0"
+    "index": 0
   },
   {
     "indicator": "95% interval - high bound",
     "value": 7.345798319327725,
+    "color": "#e5f0f7",
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 0,
-    "color": "#99c5df"
+    "index": 0
   },
   {
     "indicator": "95% interval - low bound",
     "value": -1.057983193277311,
+    "color": "#f3f8fb",
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 0,
-    "color": "#9fc8e0"
+    "index": 0
   },
   {
     "indicator": "% of information",
     "value": 90.61793650793656,
+    "color": "#59a0ca",
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 0,
-    "color": "#5aa1ca"
+    "index": 0
   },
   {
     "indicator": "date",
@@ -335,7 +335,7 @@
     "order": "",
     "index": 253,
     "value": 3.2,
-    "color": "#ffffff",
+    "color": "#ecf4f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -345,7 +345,7 @@
     "order": "",
     "index": 254,
     "value": 3.2,
-    "color": "#ffffff",
+    "color": "#ecf4f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -355,7 +355,7 @@
     "order": "",
     "index": 255,
     "value": 3.3,
-    "color": "#ffffff",
+    "color": "#ecf4f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -365,7 +365,7 @@
     "order": "",
     "index": 256,
     "value": 3.3,
-    "color": "#ffffff",
+    "color": "#ecf4f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -375,7 +375,7 @@
     "order": "",
     "index": 257,
     "value": 3.6,
-    "color": "#ffffff",
+    "color": "#ecf4f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -385,7 +385,7 @@
     "order": "",
     "index": 258,
     "value": 3.1,
-    "color": "#ffffff",
+    "color": "#ecf4f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -395,7 +395,7 @@
     "order": "",
     "index": 259,
     "value": 3.1,
-    "color": "#ffffff",
+    "color": "#ecf4f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -405,7 +405,7 @@
     "order": "",
     "index": 260,
     "value": 2.7,
-    "color": "#ffffff",
+    "color": "#edf5f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -415,7 +415,7 @@
     "order": "",
     "index": 261,
     "value": 3,
-    "color": "#ffffff",
+    "color": "#edf4f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -425,7 +425,7 @@
     "order": "",
     "index": 262,
     "value": 2.8,
-    "color": "#ffffff",
+    "color": "#edf5f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -435,7 +435,7 @@
     "order": "",
     "index": 263,
     "value": 2.9,
-    "color": "#ffffff",
+    "color": "#edf5f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -445,7 +445,7 @@
     "order": "",
     "index": 264,
     "value": 3.2,
-    "color": "#ffffff",
+    "color": "#ecf4f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -455,7 +455,7 @@
     "order": "",
     "index": 265,
     "value": 3,
-    "color": "#ffffff",
+    "color": "#edf4f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -465,7 +465,7 @@
     "order": "",
     "index": 266,
     "value": 2.4,
-    "color": "#ffffff",
+    "color": "#eef5f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -475,7 +475,7 @@
     "order": "",
     "index": 267,
     "value": 1.5,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -485,7 +485,7 @@
     "order": "",
     "index": 268,
     "value": 1,
-    "color": "#ffffff",
+    "color": "#f0f6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -495,7 +495,7 @@
     "order": "",
     "index": 269,
     "value": 0.7,
-    "color": "#ffffff",
+    "color": "#f0f7fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -505,7 +505,7 @@
     "order": "",
     "index": 270,
     "value": 1,
-    "color": "#ffffff",
+    "color": "#f0f6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -515,7 +515,7 @@
     "order": "",
     "index": 271,
     "value": 1.1,
-    "color": "#ffffff",
+    "color": "#f0f6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -525,7 +525,7 @@
     "order": "",
     "index": 272,
     "value": 1.6,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -535,7 +535,7 @@
     "order": "",
     "index": 273,
     "value": 1.5,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -545,7 +545,7 @@
     "order": "",
     "index": 274,
     "value": 1.8,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -555,7 +555,7 @@
     "order": "",
     "index": 275,
     "value": 1.8,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -565,7 +565,7 @@
     "order": "",
     "index": 276,
     "value": 1.6,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -575,7 +575,7 @@
     "order": "",
     "index": 277,
     "value": 1.8,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -585,7 +585,7 @@
     "order": "",
     "index": 278,
     "value": 2.3,
-    "color": "#ffffff",
+    "color": "#eef5fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -595,7 +595,7 @@
     "order": "",
     "index": 279,
     "value": 2.7,
-    "color": "#ffffff",
+    "color": "#edf5f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -605,7 +605,7 @@
     "order": "",
     "index": 280,
     "value": 2.8,
-    "color": "#ffffff",
+    "color": "#edf5f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -615,7 +615,7 @@
     "order": "",
     "index": 281,
     "value": 1.9,
-    "color": "#ffffff",
+    "color": "#eef6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -625,7 +625,7 @@
     "order": "",
     "index": 282,
     "value": 1.5,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -635,7 +635,7 @@
     "order": "",
     "index": 283,
     "value": 3.3,
-    "color": "#ffffff",
+    "color": "#ecf4f9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -645,7 +645,7 @@
     "order": "",
     "index": 284,
     "value": 0.5,
-    "color": "#ffffff",
+    "color": "#f1f7fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -655,7 +655,7 @@
     "order": "",
     "index": 285,
     "value": 0.9,
-    "color": "#ffffff",
+    "color": "#f0f7fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -665,7 +665,7 @@
     "order": "",
     "index": 286,
     "value": 1.2,
-    "color": "#ffffff",
+    "color": "#f0f6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -675,7 +675,7 @@
     "order": "",
     "index": 287,
     "value": 5.1,
-    "color": "#ffffff",
+    "color": "#e9f2f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -685,7 +685,7 @@
     "order": "",
     "index": 288,
     "value": 5.1,
-    "color": "#ffffff",
+    "color": "#e9f2f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -695,7 +695,7 @@
     "order": "",
     "index": 289,
     "value": 5.2,
-    "color": "#ffffff",
+    "color": "#e9f2f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -705,7 +705,7 @@
     "order": "",
     "index": 290,
     "value": 5.2,
-    "color": "#ffffff",
+    "color": "#e9f2f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -715,7 +715,7 @@
     "order": "",
     "index": 291,
     "value": 5.4,
-    "color": "#ffffff",
+    "color": "#e9f2f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -725,7 +725,7 @@
     "order": "",
     "index": 292,
     "value": 5,
-    "color": "#ffffff",
+    "color": "#e9f3f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -735,7 +735,7 @@
     "order": "",
     "index": 293,
     "value": 5,
-    "color": "#ffffff",
+    "color": "#e9f3f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -745,7 +745,7 @@
     "order": "",
     "index": 294,
     "value": 4.5,
-    "color": "#ffffff",
+    "color": "#eaf3f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -755,7 +755,7 @@
     "order": "",
     "index": 295,
     "value": 4.8,
-    "color": "#ffffff",
+    "color": "#eaf3f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -765,7 +765,7 @@
     "order": "",
     "index": 296,
     "value": 4.7,
-    "color": "#ffffff",
+    "color": "#eaf3f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -775,7 +775,7 @@
     "order": "",
     "index": 297,
     "value": 4.8,
-    "color": "#ffffff",
+    "color": "#eaf3f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -785,7 +785,7 @@
     "order": "",
     "index": 298,
     "value": 5.1,
-    "color": "#ffffff",
+    "color": "#e9f2f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -795,7 +795,7 @@
     "order": "",
     "index": 299,
     "value": 6.6,
-    "color": "#ffffff",
+    "color": "#e7f1f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -805,7 +805,7 @@
     "order": "",
     "index": 300,
     "value": 6.3,
-    "color": "#ffffff",
+    "color": "#e7f1f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -815,7 +815,7 @@
     "order": "",
     "index": 301,
     "value": 5.9,
-    "color": "#ffffff",
+    "color": "#e8f2f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -825,7 +825,7 @@
     "order": "",
     "index": 302,
     "value": 5.3,
-    "color": "#ffffff",
+    "color": "#e9f2f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -835,7 +835,7 @@
     "order": "",
     "index": 303,
     "value": 5,
-    "color": "#ffffff",
+    "color": "#e9f3f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -845,7 +845,7 @@
     "order": "",
     "index": 304,
     "value": 5.4,
-    "color": "#ffffff",
+    "color": "#e9f2f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -855,7 +855,7 @@
     "order": "",
     "index": 305,
     "value": 5.5,
-    "color": "#ffffff",
+    "color": "#e8f2f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -865,7 +865,7 @@
     "order": "",
     "index": 306,
     "value": 5.9,
-    "color": "#ffffff",
+    "color": "#e8f2f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -875,7 +875,7 @@
     "order": "",
     "index": 307,
     "value": 5.8,
-    "color": "#ffffff",
+    "color": "#e8f2f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -885,7 +885,7 @@
     "order": "",
     "index": 308,
     "value": 6.1,
-    "color": "#ffffff",
+    "color": "#e7f2f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -895,7 +895,7 @@
     "order": "",
     "index": 309,
     "value": 6.1,
-    "color": "#ffffff",
+    "color": "#e7f2f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -905,7 +905,7 @@
     "order": "",
     "index": 310,
     "value": 6,
-    "color": "#ffffff",
+    "color": "#e8f2f8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -915,7 +915,7 @@
     "order": "",
     "index": 311,
     "value": 6.1,
-    "color": "#ffffff",
+    "color": "#e7f2f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -925,7 +925,7 @@
     "order": "",
     "index": 312,
     "value": 1.3,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -935,7 +935,7 @@
     "order": "",
     "index": 313,
     "value": 1.3,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -945,7 +945,7 @@
     "order": "",
     "index": 314,
     "value": 1.4,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -955,7 +955,7 @@
     "order": "",
     "index": 315,
     "value": 1.5,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -965,7 +965,7 @@
     "order": "",
     "index": 316,
     "value": 1.7,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -975,7 +975,7 @@
     "order": "",
     "index": 317,
     "value": 1.2,
-    "color": "#ffffff",
+    "color": "#f0f6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -985,7 +985,7 @@
     "order": "",
     "index": 318,
     "value": 1.2,
-    "color": "#ffffff",
+    "color": "#f0f6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -995,7 +995,7 @@
     "order": "",
     "index": 319,
     "value": 0.8,
-    "color": "#ffffff",
+    "color": "#f0f7fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1005,7 +1005,7 @@
     "order": "",
     "index": 320,
     "value": 1.1,
-    "color": "#ffffff",
+    "color": "#f0f6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1015,7 +1015,7 @@
     "order": "",
     "index": 321,
     "value": 0.9,
-    "color": "#ffffff",
+    "color": "#f0f7fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1025,7 +1025,7 @@
     "order": "",
     "index": 322,
     "value": 1.1,
-    "color": "#ffffff",
+    "color": "#f0f6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1035,7 +1035,7 @@
     "order": "",
     "index": 323,
     "value": 1.3,
-    "color": "#ffffff",
+    "color": "#eff6fa",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1045,7 +1045,7 @@
     "order": "",
     "index": 324,
     "value": -0.6,
-    "color": "#ffffff",
+    "color": "#f3f8fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1055,7 +1055,7 @@
     "order": "",
     "index": 325,
     "value": -1.5,
-    "color": "#ffffff",
+    "color": "#f4f9fc",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1065,7 +1065,7 @@
     "order": "",
     "index": 326,
     "value": -2.8,
-    "color": "#ffffff",
+    "color": "#f6fafc",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1075,7 +1075,7 @@
     "order": "",
     "index": 327,
     "value": -3.4,
-    "color": "#ffffff",
+    "color": "#f7fbfd",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1085,7 +1085,7 @@
     "order": "",
     "index": 328,
     "value": -3.6,
-    "color": "#ffffff",
+    "color": "#f8fbfd",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1095,7 +1095,7 @@
     "order": "",
     "index": 329,
     "value": -3.3,
-    "color": "#ffffff",
+    "color": "#f7fbfd",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1105,7 +1105,7 @@
     "order": "",
     "index": 330,
     "value": -3.2,
-    "color": "#ffffff",
+    "color": "#f7fafc",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1115,7 +1115,7 @@
     "order": "",
     "index": 331,
     "value": -2.8,
-    "color": "#ffffff",
+    "color": "#f6fafc",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1125,7 +1125,7 @@
     "order": "",
     "index": 332,
     "value": -2.8,
-    "color": "#ffffff",
+    "color": "#f6fafc",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1135,7 +1135,7 @@
     "order": "",
     "index": 333,
     "value": -2.5,
-    "color": "#ffffff",
+    "color": "#f6fafc",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1145,7 +1145,7 @@
     "order": "",
     "index": 334,
     "value": -2.6,
-    "color": "#ffffff",
+    "color": "#f6fafc",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1155,7 +1155,7 @@
     "order": "",
     "index": 335,
     "value": -2.7,
-    "color": "#ffffff",
+    "color": "#f6fafc",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1165,7 +1165,7 @@
     "order": "",
     "index": 336,
     "value": -2.5,
-    "color": "#ffffff",
+    "color": "#f6fafc",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1175,7 +1175,7 @@
     "order": "",
     "index": 337,
     "value": 7,
-    "color": "#ffffff",
+    "color": "#e6f1f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1185,7 +1185,7 @@
     "order": "",
     "index": 338,
     "value": 6.9,
-    "color": "#ffffff",
+    "color": "#e6f1f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1195,7 +1195,7 @@
     "order": "",
     "index": 339,
     "value": 7.1,
-    "color": "#ffffff",
+    "color": "#e6f1f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1205,7 +1205,7 @@
     "order": "",
     "index": 340,
     "value": 7.1,
-    "color": "#ffffff",
+    "color": "#e6f1f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1215,7 +1215,7 @@
     "order": "",
     "index": 341,
     "value": 7.3,
-    "color": "#ffffff",
+    "color": "#e5f0f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1225,7 +1225,7 @@
     "order": "",
     "index": 342,
     "value": 6.9,
-    "color": "#ffffff",
+    "color": "#e6f1f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1235,7 +1235,7 @@
     "order": "",
     "index": 343,
     "value": 6.8,
-    "color": "#ffffff",
+    "color": "#e6f1f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1245,7 +1245,7 @@
     "order": "",
     "index": 344,
     "value": 6.4,
-    "color": "#ffffff",
+    "color": "#e7f1f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1255,7 +1255,7 @@
     "order": "",
     "index": 345,
     "value": 6.7,
-    "color": "#ffffff",
+    "color": "#e6f1f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1265,7 +1265,7 @@
     "order": "",
     "index": 346,
     "value": 6.5,
-    "color": "#ffffff",
+    "color": "#e7f1f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1275,7 +1275,7 @@
     "order": "",
     "index": 347,
     "value": 6.7,
-    "color": "#ffffff",
+    "color": "#e6f1f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1285,7 +1285,7 @@
     "order": "",
     "index": 348,
     "value": 6.9,
-    "color": "#ffffff",
+    "color": "#e6f1f7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1295,7 +1295,7 @@
     "order": "",
     "index": 349,
     "value": 10.2,
-    "color": "#ffffff",
+    "color": "#e0eef5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1305,7 +1305,7 @@
     "order": "",
     "index": 350,
     "value": 10.1,
-    "color": "#ffffff",
+    "color": "#e1eef5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1315,7 +1315,7 @@
     "order": "",
     "index": 351,
     "value": 10.2,
-    "color": "#ffffff",
+    "color": "#e0eef5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1325,7 +1325,7 @@
     "order": "",
     "index": 352,
     "value": 9.6,
-    "color": "#ffffff",
+    "color": "#e1eef6",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1335,7 +1335,7 @@
     "order": "",
     "index": 353,
     "value": 9.4,
-    "color": "#ffffff",
+    "color": "#e2eef6",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1345,7 +1345,7 @@
     "order": "",
     "index": 354,
     "value": 9.7,
-    "color": "#ffffff",
+    "color": "#e1eef6",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1355,7 +1355,7 @@
     "order": "",
     "index": 355,
     "value": 9.8,
-    "color": "#ffffff",
+    "color": "#e1eef5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1365,7 +1365,7 @@
     "order": "",
     "index": 356,
     "value": 10.2,
-    "color": "#ffffff",
+    "color": "#e0eef5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1375,7 +1375,7 @@
     "order": "",
     "index": 357,
     "value": 10.2,
-    "color": "#ffffff",
+    "color": "#e0eef5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1385,7 +1385,7 @@
     "order": "",
     "index": 358,
     "value": 10.4,
-    "color": "#ffffff",
+    "color": "#e0edf5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1395,7 +1395,7 @@
     "order": "",
     "index": 359,
     "value": 10.4,
-    "color": "#ffffff",
+    "color": "#e0edf5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1405,7 +1405,7 @@
     "order": "",
     "index": 360,
     "value": 10.3,
-    "color": "#ffffff",
+    "color": "#e0edf5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1415,7 +1415,7 @@
     "order": "",
     "index": 361,
     "value": 10.5,
-    "color": "#ffffff",
+    "color": "#e0edf5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1425,7 +1425,7 @@
     "order": "",
     "index": 362,
     "value": -0.6,
-    "color": "#ffffff",
+    "color": "#f3f8fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1435,7 +1435,7 @@
     "order": "",
     "index": 363,
     "value": -0.6,
-    "color": "#ffffff",
+    "color": "#f3f8fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1445,7 +1445,7 @@
     "order": "",
     "index": 364,
     "value": -0.5,
-    "color": "#ffffff",
+    "color": "#f3f8fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1455,7 +1455,7 @@
     "order": "",
     "index": 365,
     "value": -0.4,
-    "color": "#ffffff",
+    "color": "#f2f8fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1465,7 +1465,7 @@
     "order": "",
     "index": 366,
     "value": -0.2,
-    "color": "#ffffff",
+    "color": "#f2f8fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1475,7 +1475,7 @@
     "order": "",
     "index": 367,
     "value": -0.6,
-    "color": "#ffffff",
+    "color": "#f3f8fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1485,7 +1485,7 @@
     "order": "",
     "index": 368,
     "value": -0.7,
-    "color": "#ffffff",
+    "color": "#f3f8fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1495,7 +1495,7 @@
     "order": "",
     "index": 369,
     "value": -1.1,
-    "color": "#ffffff",
+    "color": "#f4f8fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1505,7 +1505,7 @@
     "order": "",
     "index": 370,
     "value": -0.8,
-    "color": "#ffffff",
+    "color": "#f3f8fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1515,7 +1515,7 @@
     "order": "",
     "index": 371,
     "value": -1,
-    "color": "#ffffff",
+    "color": "#f3f8fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1525,7 +1525,7 @@
     "order": "",
     "index": 372,
     "value": -0.8,
-    "color": "#ffffff",
+    "color": "#f3f8fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1535,7 +1535,7 @@
     "order": "",
     "index": 373,
     "value": -0.6,
-    "color": "#ffffff",
+    "color": "#f3f8fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1545,7 +1545,7 @@
     "order": "",
     "index": 374,
     "value": -4.2,
-    "color": "#ffffff",
+    "color": "#f9fbfd",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1555,7 +1555,7 @@
     "order": "",
     "index": 375,
     "value": -5.4,
-    "color": "#ffffff",
+    "color": "#fbfdfe",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1565,7 +1565,7 @@
     "order": "",
     "index": 376,
     "value": -7.1,
-    "color": "#ffffff",
+    "color": "#fefeff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1595,7 +1595,7 @@
     "order": "",
     "index": 379,
     "value": -7.6,
-    "color": "#ffffff",
+    "color": "#feffff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1605,7 +1605,7 @@
     "order": "",
     "index": 380,
     "value": -7.5,
-    "color": "#ffffff",
+    "color": "#feffff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1615,7 +1615,7 @@
     "order": "",
     "index": 381,
     "value": -7.1,
-    "color": "#ffffff",
+    "color": "#fefeff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1625,7 +1625,7 @@
     "order": "",
     "index": 382,
     "value": -7.1,
-    "color": "#ffffff",
+    "color": "#fefeff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1635,7 +1635,7 @@
     "order": "",
     "index": 383,
     "value": -6.8,
-    "color": "#ffffff",
+    "color": "#fdfefe",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1645,7 +1645,7 @@
     "order": "",
     "index": 384,
     "value": -6.9,
-    "color": "#ffffff",
+    "color": "#fdfefe",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1655,7 +1655,7 @@
     "order": "",
     "index": 385,
     "value": -7,
-    "color": "#ffffff",
+    "color": "#fdfeff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1665,7 +1665,7 @@
     "order": "",
     "index": 386,
     "value": -6.8,
-    "color": "#ffffff",
+    "color": "#fdfefe",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1675,7 +1675,7 @@
     "order": "",
     "index": 387,
     "value": 100,
-    "color": "#ffffff",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1685,7 +1685,7 @@
     "order": "",
     "index": 388,
     "value": 100,
-    "color": "#ffffff",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1695,7 +1695,7 @@
     "order": "",
     "index": 389,
     "value": 100,
-    "color": "#ffffff",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1705,7 +1705,7 @@
     "order": "",
     "index": 390,
     "value": 100,
-    "color": "#ffffff",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1715,7 +1715,7 @@
     "order": "",
     "index": 391,
     "value": 100,
-    "color": "#ffffff",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1725,7 +1725,7 @@
     "order": "",
     "index": 392,
     "value": 100,
-    "color": "#ffffff",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1735,7 +1735,7 @@
     "order": "",
     "index": 393,
     "value": 100,
-    "color": "#ffffff",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1745,7 +1745,7 @@
     "order": "",
     "index": 394,
     "value": 100,
-    "color": "#ffffff",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1755,7 +1755,7 @@
     "order": "",
     "index": 395,
     "value": 100,
-    "color": "#ffffff",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1765,7 +1765,7 @@
     "order": "",
     "index": 396,
     "value": 100,
-    "color": "#ffffff",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1775,7 +1775,7 @@
     "order": "",
     "index": 397,
     "value": 100,
-    "color": "#ffffff",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1785,7 +1785,7 @@
     "order": "",
     "index": 398,
     "value": 100,
-    "color": "#ffffff",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1795,7 +1795,7 @@
     "order": "",
     "index": 399,
     "value": 29.41,
-    "color": "#ffffff",
+    "color": "#c0dbeb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1805,7 +1805,7 @@
     "order": "",
     "index": 400,
     "value": 17.65,
-    "color": "#ffffff",
+    "color": "#d4e6f1",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1815,7 +1815,7 @@
     "order": "",
     "index": 401,
     "value": 0,
-    "color": "#ffffff",
+    "color": "#f2f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1825,7 +1825,7 @@
     "order": "",
     "index": 402,
     "value": 0,
-    "color": "#ffffff",
+    "color": "#f2f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1835,7 +1835,7 @@
     "order": "",
     "index": 403,
     "value": 0,
-    "color": "#ffffff",
+    "color": "#f2f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1845,7 +1845,7 @@
     "order": "",
     "index": 404,
     "value": 0,
-    "color": "#ffffff",
+    "color": "#f2f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1855,7 +1855,7 @@
     "order": "",
     "index": 405,
     "value": 0,
-    "color": "#ffffff",
+    "color": "#f2f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1865,7 +1865,7 @@
     "order": "",
     "index": 406,
     "value": 0,
-    "color": "#ffffff",
+    "color": "#f2f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1875,7 +1875,7 @@
     "order": "",
     "index": 407,
     "value": 0,
-    "color": "#ffffff",
+    "color": "#f2f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1885,7 +1885,7 @@
     "order": "",
     "index": 408,
     "value": 0,
-    "color": "#ffffff",
+    "color": "#f2f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1895,7 +1895,7 @@
     "order": "",
     "index": 409,
     "value": 0,
-    "color": "#ffffff",
+    "color": "#f2f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1905,7 +1905,7 @@
     "order": "",
     "index": 410,
     "value": 0,
-    "color": "#ffffff",
+    "color": "#f2f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1915,7 +1915,7 @@
     "order": "",
     "index": 411,
     "value": 0,
-    "color": "#ffffff",
+    "color": "#f2f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
