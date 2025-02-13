@@ -5,7 +5,8 @@
     "color": "",
     "HU": "",
     "RO": "",
-    "EN": ""
+    "EN": "",
+    "index": 0
   },
   {
     "indicator": "DFM estimate",
@@ -13,7 +14,8 @@
     "color": "",
     "HU": "",
     "RO": "",
-    "EN": ""
+    "EN": "",
+    "index": 0
   },
   {
     "indicator": "Market consensus",
@@ -21,7 +23,8 @@
     "color": "",
     "HU": "",
     "RO": "",
-    "EN": ""
+    "EN": "",
+    "index": 0
   },
   {
     "indicator": "GDP",
@@ -29,7 +32,8 @@
     "color": "",
     "HU": "",
     "RO": "",
-    "EN": ""
+    "EN": "",
+    "index": 0
   },
   {
     "indicator": "68% interval - high bound",
@@ -37,7 +41,8 @@
     "color": "",
     "HU": "",
     "RO": "",
-    "EN": ""
+    "EN": "",
+    "index": 0
   },
   {
     "indicator": "68% interval - low bound",
@@ -45,7 +50,8 @@
     "color": "",
     "HU": "",
     "RO": "",
-    "EN": ""
+    "EN": "",
+    "index": 0
   },
   {
     "indicator": "95% interval - high bound",
@@ -53,7 +59,8 @@
     "color": "",
     "HU": "",
     "RO": "",
-    "EN": ""
+    "EN": "",
+    "index": 0
   },
   {
     "indicator": "95% interval - low bound",
@@ -61,12 +68,254 @@
     "color": "",
     "HU": "",
     "RO": "",
-    "EN": ""
+    "EN": "",
+    "index": 0
   },
   {
     "indicator": "% of information",
     "value": 90.61793650793656,
     "color": "",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 1,
+    "value": 100,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 2,
+    "value": 100,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 3,
+    "value": 100,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 4,
+    "value": 100,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 5,
+    "value": 100,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 6,
+    "value": 100,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 7,
+    "value": 100,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 8,
+    "value": 100,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 9,
+    "value": 100,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 10,
+    "value": 100,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 11,
+    "value": 100,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 12,
+    "value": 29.41,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 13,
+    "value": 17.65,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 14,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 15,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 16,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 17,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 18,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 19,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 20,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 21,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 22,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 23,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 24,
+    "value": 0,
+    "color": "#ffffff",
     "HU": "",
     "RO": "",
     "EN": ""
