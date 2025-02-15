@@ -18,15 +18,6 @@
     "index": 0
   },
   {
-    "indicator": "Market consensus",
-    "value": 3.2,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": "",
-    "index": 0
-  },
-  {
     "indicator": "68% interval - low bound",
     "value": 1,
     "color": "#61a5cd",
@@ -63,16 +54,7 @@
     "index": 0
   },
   {
-    "indicator": "Market consensus - filled",
-    "value": 3.2,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": "",
-    "index": 0
-  },
-  {
-    "indicator": "GDP - filled",
+    "indicator": "GDP",
     "value": 3.3,
     "color": "#4997c5",
     "HU": "",
@@ -565,7 +547,7 @@
     "order": "",
     "index": 231,
     "value": 2.7,
-    "color": "#7fb6d6",
+    "color": "#579fc9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -575,7 +557,7 @@
     "order": "",
     "index": 234,
     "value": 2.8,
-    "color": "#74afd3",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -585,7 +567,7 @@
     "order": "",
     "index": 237,
     "value": 1.9,
-    "color": "#d4e7f1",
+    "color": "#c7dfed",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1561,97 +1543,97 @@
     "EN": ""
   },
   {
-    "indicator": "Market consensus - filled",
+    "indicator": "Market consensus",
     "order": "",
     "index": 229,
     "value": 2.7,
-    "color": "#7fb6d6",
+    "color": "#579fc9",
     "HU": "",
     "RO": "",
     "EN": ""
   },
   {
-    "indicator": "Market consensus - filled",
+    "indicator": "Market consensus",
     "order": "",
     "index": 230,
     "value": 2.7,
-    "color": "#7fb6d6",
+    "color": "#579fc9",
     "HU": "",
     "RO": "",
     "EN": ""
   },
   {
-    "indicator": "Market consensus - filled",
+    "indicator": "Market consensus",
     "order": "",
     "index": 231,
     "value": 2.7,
-    "color": "#7fb6d6",
+    "color": "#579fc9",
     "HU": "",
     "RO": "",
     "EN": ""
   },
   {
-    "indicator": "Market consensus - filled",
+    "indicator": "Market consensus",
     "order": "",
     "index": 232,
     "value": 2.8,
-    "color": "#74afd3",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
   },
   {
-    "indicator": "Market consensus - filled",
+    "indicator": "Market consensus",
     "order": "",
     "index": 233,
     "value": 2.8,
-    "color": "#74afd3",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
   },
   {
-    "indicator": "Market consensus - filled",
+    "indicator": "Market consensus",
     "order": "",
     "index": 234,
     "value": 2.8,
-    "color": "#74afd3",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
   },
   {
-    "indicator": "Market consensus - filled",
+    "indicator": "Market consensus",
     "order": "",
     "index": 235,
     "value": 1.9,
-    "color": "#d4e7f1",
+    "color": "#c7dfed",
     "HU": "",
     "RO": "",
     "EN": ""
   },
   {
-    "indicator": "Market consensus - filled",
+    "indicator": "Market consensus",
     "order": "",
     "index": 236,
     "value": 1.9,
-    "color": "#d4e7f1",
+    "color": "#c7dfed",
     "HU": "",
     "RO": "",
     "EN": ""
   },
   {
-    "indicator": "Market consensus - filled",
+    "indicator": "Market consensus",
     "order": "",
     "index": 237,
     "value": 1.9,
-    "color": "#d4e7f1",
+    "color": "#c7dfed",
     "HU": "",
     "RO": "",
     "EN": ""
   },
   {
-    "indicator": "Market consensus - filled",
+    "indicator": "Market consensus",
     "order": "",
     "index": 238,
     "value": 1.5,
@@ -1661,7 +1643,7 @@
     "EN": ""
   },
   {
-    "indicator": "Market consensus - filled",
+    "indicator": "Market consensus",
     "order": "",
     "index": 239,
     "value": 1.5,
@@ -1671,7 +1653,7 @@
     "EN": ""
   },
   {
-    "indicator": "Market consensus - filled",
+    "indicator": "Market consensus",
     "order": "",
     "index": 240,
     "value": 1.5,
@@ -1681,7 +1663,7 @@
     "EN": ""
   },
   {
-    "indicator": "GDP - filled",
+    "indicator": "GDP",
     "order": "",
     "index": 229,
     "value": 0.5,
@@ -1691,7 +1673,7 @@
     "EN": ""
   },
   {
-    "indicator": "GDP - filled",
+    "indicator": "GDP",
     "order": "",
     "index": 230,
     "value": 0.5,
@@ -1701,7 +1683,7 @@
     "EN": ""
   },
   {
-    "indicator": "GDP - filled",
+    "indicator": "GDP",
     "order": "",
     "index": 231,
     "value": 0.5,
@@ -1711,7 +1693,7 @@
     "EN": ""
   },
   {
-    "indicator": "GDP - filled",
+    "indicator": "GDP",
     "order": "",
     "index": 232,
     "value": 0.9,
@@ -1721,7 +1703,7 @@
     "EN": ""
   },
   {
-    "indicator": "GDP - filled",
+    "indicator": "GDP",
     "order": "",
     "index": 233,
     "value": 0.9,
@@ -1731,7 +1713,7 @@
     "EN": ""
   },
   {
-    "indicator": "GDP - filled",
+    "indicator": "GDP",
     "order": "",
     "index": 234,
     "value": 0.9,
@@ -1741,7 +1723,7 @@
     "EN": ""
   },
   {
-    "indicator": "GDP - filled",
+    "indicator": "GDP",
     "order": "",
     "index": 235,
     "value": 1.2,
@@ -1751,7 +1733,7 @@
     "EN": ""
   },
   {
-    "indicator": "GDP - filled",
+    "indicator": "GDP",
     "order": "",
     "index": 236,
     "value": 1.2,
@@ -1761,7 +1743,7 @@
     "EN": ""
   },
   {
-    "indicator": "GDP - filled",
+    "indicator": "GDP",
     "order": "",
     "index": 237,
     "value": 1.2,
