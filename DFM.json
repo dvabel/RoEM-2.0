@@ -19,7 +19,7 @@
   },
   {
     "indicator": "Market consensus",
-    "value": 3.2,
+    "value": 3.3,
     "color": "#4997c5",
     "HU": "",
     "RO": "",
@@ -565,7 +565,7 @@
     "order": "",
     "index": 277,
     "value": 2.7,
-    "color": "#7fb6d6",
+    "color": "#86bad8",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -575,7 +575,7 @@
     "order": "",
     "index": 278,
     "value": 2.8,
-    "color": "#74afd3",
+    "color": "#7cb4d5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -585,7 +585,7 @@
     "order": "",
     "index": 279,
     "value": 1.9,
-    "color": "#d4e7f1",
+    "color": "#d7e8f2",
     "HU": "",
     "RO": "",
     "EN": ""
