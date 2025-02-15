@@ -27,7 +27,7 @@
     "index": 0
   },
   {
-    "indicator": "GDP",
+    "indicator": "GDP - quarterly",
     "value": 3.3,
     "color": "#4997c5",
     "HU": "",
@@ -83,6 +83,15 @@
   {
     "indicator": "Market consensus",
     "value": 3.2,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "GDP",
+    "value": 3.3,
     "color": "#4997c5",
     "HU": "",
     "RO": "",
@@ -610,7 +619,7 @@
     "EN": ""
   },
   {
-    "indicator": "GDP",
+    "indicator": "GDP - quarterly",
     "order": "",
     "index": 281,
     "value": 0.5,
@@ -620,7 +629,7 @@
     "EN": ""
   },
   {
-    "indicator": "GDP",
+    "indicator": "GDP - quarterly",
     "order": "",
     "index": 282,
     "value": 0.9,
@@ -630,7 +639,7 @@
     "EN": ""
   },
   {
-    "indicator": "GDP",
+    "indicator": "GDP - quarterly",
     "order": "",
     "index": 283,
     "value": 1.2,
