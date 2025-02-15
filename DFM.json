@@ -2,7 +2,7 @@
   {
     "indicator": "date",
     "value": "Previous period AVG",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": "",
@@ -85,7 +85,7 @@
     "order": "",
     "index": 228,
     "value": "2023-12",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -95,7 +95,7 @@
     "order": "",
     "index": 229,
     "value": "2024-01",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -105,7 +105,7 @@
     "order": "",
     "index": 230,
     "value": "2024-02",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -115,7 +115,7 @@
     "order": "",
     "index": 231,
     "value": "2024-03",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -125,7 +125,7 @@
     "order": "",
     "index": 232,
     "value": "2024-04",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -135,7 +135,7 @@
     "order": "",
     "index": 233,
     "value": "2024-05",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -145,7 +145,7 @@
     "order": "",
     "index": 234,
     "value": "2024-06",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -155,7 +155,7 @@
     "order": "",
     "index": 235,
     "value": "2024-07",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -165,7 +165,7 @@
     "order": "",
     "index": 236,
     "value": "2024-08",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -175,7 +175,7 @@
     "order": "",
     "index": 237,
     "value": "2024-09",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -185,7 +185,7 @@
     "order": "",
     "index": 238,
     "value": "2024-10",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -195,7 +195,7 @@
     "order": "",
     "index": 239,
     "value": "2024-11",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -205,7 +205,7 @@
     "order": "",
     "index": 240,
     "value": "2024-12",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -215,7 +215,7 @@
     "order": "",
     "index": 241,
     "value": "2025-01",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -225,7 +225,7 @@
     "order": "",
     "index": 242,
     "value": "2025-02",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -235,7 +235,7 @@
     "order": "",
     "index": 243,
     "value": "2025-03",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -245,7 +245,7 @@
     "order": "",
     "index": 244,
     "value": "2025-04",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -255,7 +255,7 @@
     "order": "",
     "index": 245,
     "value": "2025-05",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -265,7 +265,7 @@
     "order": "",
     "index": 246,
     "value": "2025-06",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -275,7 +275,7 @@
     "order": "",
     "index": 247,
     "value": "2025-07",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -285,7 +285,7 @@
     "order": "",
     "index": 248,
     "value": "2025-08",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -295,7 +295,7 @@
     "order": "",
     "index": 249,
     "value": "2025-09",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -305,7 +305,7 @@
     "order": "",
     "index": 250,
     "value": "2025-10",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -315,7 +315,7 @@
     "order": "",
     "index": 251,
     "value": "2025-11",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -325,7 +325,7 @@
     "order": "",
     "index": 252,
     "value": "2025-12",
-    "color": "#ffffff",
+    "color": "#243b55",
     "HU": "",
     "RO": "",
     "EN": ""
