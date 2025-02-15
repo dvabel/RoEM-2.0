@@ -83,16 +83,6 @@
   {
     "indicator": "date",
     "order": "",
-    "index": 228,
-    "value": "2023-12",
-    "color": "#243b55",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "date",
-    "order": "",
     "index": 229,
     "value": "2024-01",
     "color": "#243b55",
@@ -344,8 +334,8 @@
     "indicator": "DFM estimate",
     "order": "",
     "index": 254,
-    "value": 3.2,
-    "color": "#62a5cd",
+    "value": 3.3,
+    "color": "#5ca2cb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -364,8 +354,8 @@
     "indicator": "DFM estimate",
     "order": "",
     "index": 256,
-    "value": 3.3,
-    "color": "#5ca2cb",
+    "value": 3.6,
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -374,8 +364,8 @@
     "indicator": "DFM estimate",
     "order": "",
     "index": 257,
-    "value": 3.6,
-    "color": "#4997c5",
+    "value": 3.1,
+    "color": "#68a9cf",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -394,16 +384,6 @@
     "indicator": "DFM estimate",
     "order": "",
     "index": 259,
-    "value": 3.1,
-    "color": "#68a9cf",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "DFM estimate",
-    "order": "",
-    "index": 260,
     "value": 2.7,
     "color": "#81b7d7",
     "HU": "",
@@ -413,7 +393,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 261,
+    "index": 260,
     "value": 3,
     "color": "#6fadd1",
     "HU": "",
@@ -423,7 +403,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 262,
+    "index": 261,
     "value": 2.8,
     "color": "#7bb4d5",
     "HU": "",
@@ -433,7 +413,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 263,
+    "index": 262,
     "value": 2.9,
     "color": "#75b0d3",
     "HU": "",
@@ -443,7 +423,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 264,
+    "index": 263,
     "value": 3.2,
     "color": "#62a5cd",
     "HU": "",
@@ -453,7 +433,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 265,
+    "index": 264,
     "value": 3,
     "color": "#6fadd1",
     "HU": "",
@@ -463,7 +443,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 266,
+    "index": 265,
     "value": 2.4,
     "color": "#94c2dd",
     "HU": "",
@@ -473,7 +453,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 267,
+    "index": 266,
     "value": 1.5,
     "color": "#cde2ef",
     "HU": "",
@@ -483,7 +463,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 268,
+    "index": 267,
     "value": 1,
     "color": "#ecf4f9",
     "HU": "",
@@ -493,7 +473,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 269,
+    "index": 268,
     "value": 0.7,
     "color": "#ffffff",
     "HU": "",
@@ -503,7 +483,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 270,
+    "index": 269,
     "value": 1,
     "color": "#ecf4f9",
     "HU": "",
@@ -513,7 +493,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 271,
+    "index": 270,
     "value": 1.1,
     "color": "#e6f1f7",
     "HU": "",
@@ -523,7 +503,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 272,
+    "index": 271,
     "value": 1.6,
     "color": "#c7dfed",
     "HU": "",
@@ -533,9 +513,19 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 273,
+    "index": 272,
     "value": 1.5,
     "color": "#cde2ef",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 273,
+    "value": 1.8,
+    "color": "#bad8e9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -554,16 +544,6 @@
     "indicator": "DFM estimate",
     "order": "",
     "index": 275,
-    "value": 1.8,
-    "color": "#bad8e9",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "DFM estimate",
-    "order": "",
-    "index": 276,
     "value": 1.6,
     "color": "#c7dfed",
     "HU": "",
@@ -573,7 +553,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 277,
+    "index": 276,
     "value": 1.8,
     "color": "#bad8e9",
     "HU": "",
@@ -583,17 +563,7 @@
   {
     "indicator": "Market consensus",
     "order": "",
-    "index": 278,
-    "value": 2.3,
-    "color": "#a9cee4",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "Market consensus",
-    "order": "",
-    "index": 279,
+    "index": 277,
     "value": 2.7,
     "color": "#7fb6d6",
     "HU": "",
@@ -603,7 +573,7 @@
   {
     "indicator": "Market consensus",
     "order": "",
-    "index": 280,
+    "index": 278,
     "value": 2.8,
     "color": "#74afd3",
     "HU": "",
@@ -613,7 +583,7 @@
   {
     "indicator": "Market consensus",
     "order": "",
-    "index": 281,
+    "index": 279,
     "value": 1.9,
     "color": "#d4e7f1",
     "HU": "",
@@ -623,7 +593,7 @@
   {
     "indicator": "Market consensus",
     "order": "",
-    "index": 282,
+    "index": 280,
     "value": 1.5,
     "color": "#ffffff",
     "HU": "",
@@ -633,17 +603,7 @@
   {
     "indicator": "GDP",
     "order": "",
-    "index": 283,
-    "value": 3.3,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "GDP",
-    "order": "",
-    "index": 284,
+    "index": 281,
     "value": 0.5,
     "color": "#ffffff",
     "HU": "",
@@ -653,7 +613,7 @@
   {
     "indicator": "GDP",
     "order": "",
-    "index": 285,
+    "index": 282,
     "value": 0.9,
     "color": "#e5f0f7",
     "HU": "",
@@ -663,7 +623,7 @@
   {
     "indicator": "GDP",
     "order": "",
-    "index": 286,
+    "index": 283,
     "value": 1.2,
     "color": "#d2e5f1",
     "HU": "",
@@ -673,47 +633,37 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
+    "index": 284,
+    "value": 5.1,
+    "color": "#cbe1ee",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 285,
+    "value": 5.2,
+    "color": "#c2dcec",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 286,
+    "value": 5.2,
+    "color": "#c2dcec",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
     "index": 287,
-    "value": 5.1,
-    "color": "#cbe1ee",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 288,
-    "value": 5.1,
-    "color": "#cbe1ee",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 289,
-    "value": 5.2,
-    "color": "#c2dcec",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 290,
-    "value": 5.2,
-    "color": "#c2dcec",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 291,
     "value": 5.4,
     "color": "#b1d2e6",
     "HU": "",
@@ -723,7 +673,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 292,
+    "index": 288,
     "value": 5,
     "color": "#d4e6f1",
     "HU": "",
@@ -733,7 +683,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 293,
+    "index": 289,
     "value": 5,
     "color": "#d4e6f1",
     "HU": "",
@@ -743,7 +693,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 294,
+    "index": 290,
     "value": 4.5,
     "color": "#ffffff",
     "HU": "",
@@ -753,7 +703,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 295,
+    "index": 291,
     "value": 4.8,
     "color": "#e5f0f7",
     "HU": "",
@@ -763,7 +713,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 296,
+    "index": 292,
     "value": 4.7,
     "color": "#eef5f9",
     "HU": "",
@@ -773,7 +723,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 297,
+    "index": 293,
     "value": 4.8,
     "color": "#e5f0f7",
     "HU": "",
@@ -783,7 +733,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 298,
+    "index": 294,
     "value": 5.1,
     "color": "#cbe1ee",
     "HU": "",
@@ -793,7 +743,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 299,
+    "index": 295,
     "value": 6.6,
     "color": "#4997c5",
     "HU": "",
@@ -803,7 +753,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 300,
+    "index": 296,
     "value": 6.3,
     "color": "#63a6cd",
     "HU": "",
@@ -813,7 +763,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 301,
+    "index": 297,
     "value": 5.9,
     "color": "#86bad8",
     "HU": "",
@@ -823,7 +773,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 302,
+    "index": 298,
     "value": 5.3,
     "color": "#bad7e9",
     "HU": "",
@@ -833,7 +783,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 303,
+    "index": 299,
     "value": 5,
     "color": "#d4e6f1",
     "HU": "",
@@ -843,7 +793,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 304,
+    "index": 300,
     "value": 5.4,
     "color": "#b1d2e6",
     "HU": "",
@@ -853,7 +803,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 305,
+    "index": 301,
     "value": 5.5,
     "color": "#a8cde3",
     "HU": "",
@@ -863,7 +813,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 306,
+    "index": 302,
     "value": 5.9,
     "color": "#86bad8",
     "HU": "",
@@ -873,7 +823,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 307,
+    "index": 303,
     "value": 5.8,
     "color": "#8ebfdb",
     "HU": "",
@@ -883,7 +833,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 308,
+    "index": 304,
     "value": 6.1,
     "color": "#74b0d3",
     "HU": "",
@@ -893,7 +843,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 309,
+    "index": 305,
     "value": 6.1,
     "color": "#74b0d3",
     "HU": "",
@@ -903,7 +853,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 310,
+    "index": 306,
     "value": 6,
     "color": "#7db5d6",
     "HU": "",
@@ -913,7 +863,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 311,
+    "index": 307,
     "value": 6.1,
     "color": "#74b0d3",
     "HU": "",
@@ -923,7 +873,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 312,
+    "index": 308,
     "value": 1.3,
     "color": "#579fc9",
     "HU": "",
@@ -933,17 +883,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 313,
-    "value": 1.3,
-    "color": "#579fc9",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - low bound",
-    "order": "",
-    "index": 314,
+    "index": 309,
     "value": 1.4,
     "color": "#539dc8",
     "HU": "",
@@ -953,7 +893,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 315,
+    "index": 310,
     "value": 1.5,
     "color": "#509bc7",
     "HU": "",
@@ -963,7 +903,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 316,
+    "index": 311,
     "value": 1.7,
     "color": "#4997c5",
     "HU": "",
@@ -973,7 +913,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 317,
+    "index": 312,
     "value": 1.2,
     "color": "#5aa1ca",
     "HU": "",
@@ -983,7 +923,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 318,
+    "index": 313,
     "value": 1.2,
     "color": "#5aa1ca",
     "HU": "",
@@ -993,7 +933,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 319,
+    "index": 314,
     "value": 0.8,
     "color": "#68a9cf",
     "HU": "",
@@ -1003,7 +943,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 320,
+    "index": 315,
     "value": 1.1,
     "color": "#5ea3cc",
     "HU": "",
@@ -1013,7 +953,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 321,
+    "index": 316,
     "value": 0.9,
     "color": "#64a7ce",
     "HU": "",
@@ -1023,7 +963,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 322,
+    "index": 317,
     "value": 1.1,
     "color": "#5ea3cc",
     "HU": "",
@@ -1033,7 +973,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 323,
+    "index": 318,
     "value": 1.3,
     "color": "#579fc9",
     "HU": "",
@@ -1043,7 +983,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 324,
+    "index": 319,
     "value": -0.6,
     "color": "#98c4de",
     "HU": "",
@@ -1053,9 +993,59 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 325,
+    "index": 320,
     "value": -1.5,
     "color": "#b7d6e8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 321,
+    "value": -2.8,
+    "color": "#e4eff6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 322,
+    "value": -3.4,
+    "color": "#f8fbfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 323,
+    "value": -3.6,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 324,
+    "value": -3.3,
+    "color": "#f5f9fc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 325,
+    "value": -3.2,
+    "color": "#f1f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1074,8 +1064,8 @@
     "indicator": "68% interval - low bound",
     "order": "",
     "index": 327,
-    "value": -3.4,
-    "color": "#f8fbfd",
+    "value": -2.8,
+    "color": "#e4eff6",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1084,56 +1074,6 @@
     "indicator": "68% interval - low bound",
     "order": "",
     "index": 328,
-    "value": -3.6,
-    "color": "#ffffff",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - low bound",
-    "order": "",
-    "index": 329,
-    "value": -3.3,
-    "color": "#f5f9fc",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - low bound",
-    "order": "",
-    "index": 330,
-    "value": -3.2,
-    "color": "#f1f7fb",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - low bound",
-    "order": "",
-    "index": 331,
-    "value": -2.8,
-    "color": "#e4eff6",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - low bound",
-    "order": "",
-    "index": 332,
-    "value": -2.8,
-    "color": "#e4eff6",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - low bound",
-    "order": "",
-    "index": 333,
     "value": -2.5,
     "color": "#d9e9f3",
     "HU": "",
@@ -1143,7 +1083,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 334,
+    "index": 329,
     "value": -2.6,
     "color": "#ddebf4",
     "HU": "",
@@ -1153,7 +1093,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 335,
+    "index": 330,
     "value": -2.7,
     "color": "#e0edf5",
     "HU": "",
@@ -1163,7 +1103,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 336,
+    "index": 331,
     "value": -2.5,
     "color": "#d9e9f3",
     "HU": "",
@@ -1173,17 +1113,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 337,
-    "value": 7,
-    "color": "#e4f0f7",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - high bound",
-    "order": "",
-    "index": 338,
+    "index": 332,
     "value": 6.9,
     "color": "#e9f2f8",
     "HU": "",
@@ -1193,9 +1123,69 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 339,
+    "index": 333,
     "value": 7.1,
     "color": "#e0edf5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 334,
+    "value": 7.1,
+    "color": "#e0edf5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 335,
+    "value": 7.3,
+    "color": "#d7e8f2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 336,
+    "value": 6.9,
+    "color": "#e9f2f8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 337,
+    "value": 6.8,
+    "color": "#edf5f9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 338,
+    "value": 6.4,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 339,
+    "value": 6.7,
+    "color": "#f2f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1204,8 +1194,8 @@
     "indicator": "95% interval - high bound",
     "order": "",
     "index": 340,
-    "value": 7.1,
-    "color": "#e0edf5",
+    "value": 6.5,
+    "color": "#fbfcfe",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1214,8 +1204,8 @@
     "indicator": "95% interval - high bound",
     "order": "",
     "index": 341,
-    "value": 7.3,
-    "color": "#d7e8f2",
+    "value": 6.7,
+    "color": "#f2f7fb",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1234,66 +1224,6 @@
     "indicator": "95% interval - high bound",
     "order": "",
     "index": 343,
-    "value": 6.8,
-    "color": "#edf5f9",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - high bound",
-    "order": "",
-    "index": 344,
-    "value": 6.4,
-    "color": "#ffffff",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - high bound",
-    "order": "",
-    "index": 345,
-    "value": 6.7,
-    "color": "#f2f7fb",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - high bound",
-    "order": "",
-    "index": 346,
-    "value": 6.5,
-    "color": "#fbfcfe",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - high bound",
-    "order": "",
-    "index": 347,
-    "value": 6.7,
-    "color": "#f2f7fb",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - high bound",
-    "order": "",
-    "index": 348,
-    "value": 6.9,
-    "color": "#e9f2f8",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - high bound",
-    "order": "",
-    "index": 349,
     "value": 10.2,
     "color": "#569fc9",
     "HU": "",
@@ -1303,9 +1233,69 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 350,
+    "index": 344,
     "value": 10.1,
     "color": "#5ba1cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 345,
+    "value": 10.2,
+    "color": "#569fc9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 346,
+    "value": 9.6,
+    "color": "#71aed2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 347,
+    "value": 9.4,
+    "color": "#7ab3d5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 348,
+    "value": 9.7,
+    "color": "#6dabd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 349,
+    "value": 9.8,
+    "color": "#68a9cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 350,
+    "value": 10.2,
+    "color": "#569fc9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1324,8 +1314,8 @@
     "indicator": "95% interval - high bound",
     "order": "",
     "index": 352,
-    "value": 9.6,
-    "color": "#71aed2",
+    "value": 10.4,
+    "color": "#4d9ac6",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1334,8 +1324,8 @@
     "indicator": "95% interval - high bound",
     "order": "",
     "index": 353,
-    "value": 9.4,
-    "color": "#7ab3d5",
+    "value": 10.4,
+    "color": "#4d9ac6",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1344,66 +1334,6 @@
     "indicator": "95% interval - high bound",
     "order": "",
     "index": 354,
-    "value": 9.7,
-    "color": "#6dabd0",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - high bound",
-    "order": "",
-    "index": 355,
-    "value": 9.8,
-    "color": "#68a9cf",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - high bound",
-    "order": "",
-    "index": 356,
-    "value": 10.2,
-    "color": "#569fc9",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - high bound",
-    "order": "",
-    "index": 357,
-    "value": 10.2,
-    "color": "#569fc9",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - high bound",
-    "order": "",
-    "index": 358,
-    "value": 10.4,
-    "color": "#4d9ac6",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - high bound",
-    "order": "",
-    "index": 359,
-    "value": 10.4,
-    "color": "#4d9ac6",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - high bound",
-    "order": "",
-    "index": 360,
     "value": 10.3,
     "color": "#529cc8",
     "HU": "",
@@ -1413,7 +1343,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 361,
+    "index": 355,
     "value": 10.5,
     "color": "#4997c5",
     "HU": "",
@@ -1423,7 +1353,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 362,
+    "index": 356,
     "value": -0.6,
     "color": "#529cc8",
     "HU": "",
@@ -1433,17 +1363,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 363,
-    "value": -0.6,
-    "color": "#529cc8",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "95% interval - low bound",
-    "order": "",
-    "index": 364,
+    "index": 357,
     "value": -0.5,
     "color": "#509bc7",
     "HU": "",
@@ -1453,7 +1373,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 365,
+    "index": 358,
     "value": -0.4,
     "color": "#4e9ac7",
     "HU": "",
@@ -1463,7 +1383,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 366,
+    "index": 359,
     "value": -0.2,
     "color": "#4997c5",
     "HU": "",
@@ -1473,7 +1393,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 367,
+    "index": 360,
     "value": -0.6,
     "color": "#529cc8",
     "HU": "",
@@ -1483,7 +1403,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 368,
+    "index": 361,
     "value": -0.7,
     "color": "#559ec9",
     "HU": "",
@@ -1493,7 +1413,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 369,
+    "index": 362,
     "value": -1.1,
     "color": "#5ea3cc",
     "HU": "",
@@ -1503,7 +1423,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 370,
+    "index": 363,
     "value": -0.8,
     "color": "#579fca",
     "HU": "",
@@ -1513,7 +1433,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 371,
+    "index": 364,
     "value": -1,
     "color": "#5ca2cb",
     "HU": "",
@@ -1523,7 +1443,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 372,
+    "index": 365,
     "value": -0.8,
     "color": "#579fca",
     "HU": "",
@@ -1533,7 +1453,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 373,
+    "index": 366,
     "value": -0.6,
     "color": "#529cc8",
     "HU": "",
@@ -1543,7 +1463,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 374,
+    "index": 367,
     "value": -4.2,
     "color": "#a8cde3",
     "HU": "",
@@ -1553,7 +1473,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 375,
+    "index": 368,
     "value": -5.4,
     "color": "#c4ddec",
     "HU": "",
@@ -1563,7 +1483,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 376,
+    "index": 369,
     "value": -7.1,
     "color": "#ecf4f9",
     "HU": "",
@@ -1573,7 +1493,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 377,
+    "index": 370,
     "value": -7.7,
     "color": "#fafcfd",
     "HU": "",
@@ -1583,7 +1503,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 378,
+    "index": 371,
     "value": -7.9,
     "color": "#ffffff",
     "HU": "",
@@ -1593,7 +1513,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 379,
+    "index": 372,
     "value": -7.6,
     "color": "#f8fbfd",
     "HU": "",
@@ -1603,7 +1523,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 380,
+    "index": 373,
     "value": -7.5,
     "color": "#f6fafc",
     "HU": "",
@@ -1613,7 +1533,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 381,
+    "index": 374,
     "value": -7.1,
     "color": "#ecf4f9",
     "HU": "",
@@ -1623,7 +1543,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 382,
+    "index": 375,
     "value": -7.1,
     "color": "#ecf4f9",
     "HU": "",
@@ -1633,7 +1553,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 383,
+    "index": 376,
     "value": -6.8,
     "color": "#e5f0f7",
     "HU": "",
@@ -1643,7 +1563,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 384,
+    "index": 377,
     "value": -6.9,
     "color": "#e7f1f7",
     "HU": "",
@@ -1653,7 +1573,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 385,
+    "index": 378,
     "value": -7,
     "color": "#eaf3f8",
     "HU": "",
@@ -1663,9 +1583,79 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 386,
+    "index": 379,
     "value": -6.8,
     "color": "#e5f0f7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 380,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 381,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 382,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 383,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 384,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 385,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 386,
+    "value": 100,
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1714,86 +1704,6 @@
     "indicator": "% of information",
     "order": "",
     "index": 391,
-    "value": 100,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 392,
-    "value": 100,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 393,
-    "value": 100,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 394,
-    "value": 100,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 395,
-    "value": 100,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 396,
-    "value": 100,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 397,
-    "value": 100,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 398,
-    "value": 100,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 399,
     "value": 29.4,
     "color": "#c9e0ee",
     "HU": "",
@@ -1803,9 +1713,89 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 400,
+    "index": 392,
     "value": 17.6,
     "color": "#dfedf5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 393,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 394,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 395,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 396,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 397,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 398,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 399,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 400,
+    "value": 0,
+    "color": "#ffffff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1834,86 +1824,6 @@
     "indicator": "% of information",
     "order": "",
     "index": 403,
-    "value": 0,
-    "color": "#ffffff",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 404,
-    "value": 0,
-    "color": "#ffffff",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 405,
-    "value": 0,
-    "color": "#ffffff",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 406,
-    "value": 0,
-    "color": "#ffffff",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 407,
-    "value": 0,
-    "color": "#ffffff",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 408,
-    "value": 0,
-    "color": "#ffffff",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 409,
-    "value": 0,
-    "color": "#ffffff",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 410,
-    "value": 0,
-    "color": "#ffffff",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "% of information",
-    "order": "",
-    "index": 411,
     "value": 0,
     "color": "#ffffff",
     "HU": "",
