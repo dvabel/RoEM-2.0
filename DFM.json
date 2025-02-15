@@ -27,24 +27,6 @@
     "index": 0
   },
   {
-    "indicator": "GDP",
-    "value": 3.3,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": "",
-    "index": 0
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "value": 5.2,
-    "color": "#c2dcec",
-    "HU": "",
-    "RO": "",
-    "EN": "",
-    "index": 0
-  },
-  {
     "indicator": "68% interval - low bound",
     "value": 1,
     "color": "#61a5cd",
@@ -75,6 +57,24 @@
     "indicator": "% of information",
     "value": 90.6,
     "color": "#5aa1ca",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Market consensus - filled",
+    "value": 3.2,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "GDP - filled",
+    "value": 3.3,
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": "",
@@ -596,276 +596,6 @@
     "index": 240,
     "value": 1.5,
     "color": "#ffffff",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "GDP",
-    "order": "",
-    "index": 231,
-    "value": 0.5,
-    "color": "#ffffff",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "GDP",
-    "order": "",
-    "index": 234,
-    "value": 0.9,
-    "color": "#e5f0f7",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "GDP",
-    "order": "",
-    "index": 237,
-    "value": 1.2,
-    "color": "#d2e5f1",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 229,
-    "value": 5.1,
-    "color": "#cbe1ee",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 230,
-    "value": 5.2,
-    "color": "#c2dcec",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 231,
-    "value": 5.2,
-    "color": "#c2dcec",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 232,
-    "value": 5.4,
-    "color": "#b1d2e6",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 233,
-    "value": 5,
-    "color": "#d4e6f1",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 234,
-    "value": 5,
-    "color": "#d4e6f1",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 235,
-    "value": 4.5,
-    "color": "#ffffff",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 236,
-    "value": 4.8,
-    "color": "#e5f0f7",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 237,
-    "value": 4.7,
-    "color": "#eef5f9",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 238,
-    "value": 4.8,
-    "color": "#e5f0f7",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 239,
-    "value": 5.1,
-    "color": "#cbe1ee",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 240,
-    "value": 6.6,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 241,
-    "value": 6.3,
-    "color": "#63a6cd",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 242,
-    "value": 5.9,
-    "color": "#86bad8",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 243,
-    "value": 5.3,
-    "color": "#bad7e9",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 244,
-    "value": 5,
-    "color": "#d4e6f1",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 245,
-    "value": 5.4,
-    "color": "#b1d2e6",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 246,
-    "value": 5.5,
-    "color": "#a8cde3",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 247,
-    "value": 5.9,
-    "color": "#86bad8",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 248,
-    "value": 5.8,
-    "color": "#8ebfdb",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 249,
-    "value": 6.1,
-    "color": "#74b0d3",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 250,
-    "value": 6.1,
-    "color": "#74b0d3",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 251,
-    "value": 6,
-    "color": "#7db5d6",
-    "HU": "",
-    "RO": "",
-    "EN": ""
-  },
-  {
-    "indicator": "68% interval - high bound",
-    "order": "",
-    "index": 252,
-    "value": 6.1,
-    "color": "#74b0d3",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1826,6 +1556,216 @@
     "index": 252,
     "value": 0,
     "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - filled",
+    "order": "",
+    "index": 229,
+    "value": 2.7,
+    "color": "#7fb6d6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - filled",
+    "order": "",
+    "index": 230,
+    "value": 2.7,
+    "color": "#7fb6d6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - filled",
+    "order": "",
+    "index": 231,
+    "value": 2.7,
+    "color": "#7fb6d6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - filled",
+    "order": "",
+    "index": 232,
+    "value": 2.8,
+    "color": "#74afd3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - filled",
+    "order": "",
+    "index": 233,
+    "value": 2.8,
+    "color": "#74afd3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - filled",
+    "order": "",
+    "index": 234,
+    "value": 2.8,
+    "color": "#74afd3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - filled",
+    "order": "",
+    "index": 235,
+    "value": 1.9,
+    "color": "#d4e7f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - filled",
+    "order": "",
+    "index": 236,
+    "value": 1.9,
+    "color": "#d4e7f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - filled",
+    "order": "",
+    "index": 237,
+    "value": 1.9,
+    "color": "#d4e7f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - filled",
+    "order": "",
+    "index": 238,
+    "value": 1.5,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - filled",
+    "order": "",
+    "index": 239,
+    "value": 1.5,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - filled",
+    "order": "",
+    "index": 240,
+    "value": 1.5,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - filled",
+    "order": "",
+    "index": 229,
+    "value": 0.5,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - filled",
+    "order": "",
+    "index": 230,
+    "value": 0.5,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - filled",
+    "order": "",
+    "index": 231,
+    "value": 0.5,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - filled",
+    "order": "",
+    "index": 232,
+    "value": 0.9,
+    "color": "#e5f0f7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - filled",
+    "order": "",
+    "index": 233,
+    "value": 0.9,
+    "color": "#e5f0f7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - filled",
+    "order": "",
+    "index": 234,
+    "value": 0.9,
+    "color": "#e5f0f7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - filled",
+    "order": "",
+    "index": 235,
+    "value": 1.2,
+    "color": "#d2e5f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - filled",
+    "order": "",
+    "index": 236,
+    "value": 1.2,
+    "color": "#d2e5f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - filled",
+    "order": "",
+    "index": 237,
+    "value": 1.2,
+    "color": "#d2e5f1",
     "HU": "",
     "RO": "",
     "EN": ""
