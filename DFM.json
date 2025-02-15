@@ -18,15 +18,6 @@
     "index": 0
   },
   {
-    "indicator": "Market consensus",
-    "value": 3.3,
-    "color": "#4997c5",
-    "HU": "",
-    "RO": "",
-    "EN": "",
-    "index": 0
-  },
-  {
     "indicator": "GDP",
     "value": 3.3,
     "color": "#4997c5",
@@ -323,7 +314,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 253,
+    "index": 229,
     "value": 3.2,
     "color": "#62a5cd",
     "HU": "",
@@ -333,7 +324,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 254,
+    "index": 230,
     "value": 3.3,
     "color": "#5ca2cb",
     "HU": "",
@@ -343,7 +334,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 255,
+    "index": 231,
     "value": 3.3,
     "color": "#5ca2cb",
     "HU": "",
@@ -353,7 +344,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 256,
+    "index": 232,
     "value": 3.6,
     "color": "#4997c5",
     "HU": "",
@@ -363,7 +354,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 257,
+    "index": 233,
     "value": 3.1,
     "color": "#68a9cf",
     "HU": "",
@@ -373,7 +364,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 258,
+    "index": 234,
     "value": 3.1,
     "color": "#68a9cf",
     "HU": "",
@@ -383,7 +374,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 259,
+    "index": 235,
     "value": 2.7,
     "color": "#81b7d7",
     "HU": "",
@@ -393,7 +384,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 260,
+    "index": 236,
     "value": 3,
     "color": "#6fadd1",
     "HU": "",
@@ -403,7 +394,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 261,
+    "index": 237,
     "value": 2.8,
     "color": "#7bb4d5",
     "HU": "",
@@ -413,7 +404,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 262,
+    "index": 238,
     "value": 2.9,
     "color": "#75b0d3",
     "HU": "",
@@ -423,7 +414,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 263,
+    "index": 239,
     "value": 3.2,
     "color": "#62a5cd",
     "HU": "",
@@ -433,7 +424,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 264,
+    "index": 240,
     "value": 3,
     "color": "#6fadd1",
     "HU": "",
@@ -443,7 +434,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 265,
+    "index": 241,
     "value": 2.4,
     "color": "#94c2dd",
     "HU": "",
@@ -453,7 +444,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 266,
+    "index": 242,
     "value": 1.5,
     "color": "#cde2ef",
     "HU": "",
@@ -463,7 +454,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 267,
+    "index": 243,
     "value": 1,
     "color": "#ecf4f9",
     "HU": "",
@@ -473,7 +464,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 268,
+    "index": 244,
     "value": 0.7,
     "color": "#ffffff",
     "HU": "",
@@ -483,7 +474,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 269,
+    "index": 245,
     "value": 1,
     "color": "#ecf4f9",
     "HU": "",
@@ -493,7 +484,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 270,
+    "index": 246,
     "value": 1.1,
     "color": "#e6f1f7",
     "HU": "",
@@ -503,7 +494,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 271,
+    "index": 247,
     "value": 1.6,
     "color": "#c7dfed",
     "HU": "",
@@ -513,7 +504,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 272,
+    "index": 248,
     "value": 1.5,
     "color": "#cde2ef",
     "HU": "",
@@ -523,7 +514,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 273,
+    "index": 249,
     "value": 1.8,
     "color": "#bad8e9",
     "HU": "",
@@ -533,7 +524,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 274,
+    "index": 250,
     "value": 1.8,
     "color": "#bad8e9",
     "HU": "",
@@ -543,7 +534,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 275,
+    "index": 251,
     "value": 1.6,
     "color": "#c7dfed",
     "HU": "",
@@ -553,7 +544,7 @@
   {
     "indicator": "DFM estimate",
     "order": "",
-    "index": 276,
+    "index": 252,
     "value": 1.8,
     "color": "#bad8e9",
     "HU": "",
@@ -563,9 +554,9 @@
   {
     "indicator": "Market consensus",
     "order": "",
-    "index": 277,
+    "index": 231,
     "value": 2.7,
-    "color": "#86bad8",
+    "color": "#579fc9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -573,9 +564,9 @@
   {
     "indicator": "Market consensus",
     "order": "",
-    "index": 278,
+    "index": 234,
     "value": 2.8,
-    "color": "#7cb4d5",
+    "color": "#4997c5",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -583,9 +574,9 @@
   {
     "indicator": "Market consensus",
     "order": "",
-    "index": 279,
+    "index": 237,
     "value": 1.9,
-    "color": "#d7e8f2",
+    "color": "#c7dfed",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -593,7 +584,7 @@
   {
     "indicator": "Market consensus",
     "order": "",
-    "index": 280,
+    "index": 240,
     "value": 1.5,
     "color": "#ffffff",
     "HU": "",
@@ -603,7 +594,7 @@
   {
     "indicator": "GDP",
     "order": "",
-    "index": 281,
+    "index": 231,
     "value": 0.5,
     "color": "#ffffff",
     "HU": "",
@@ -613,7 +604,7 @@
   {
     "indicator": "GDP",
     "order": "",
-    "index": 282,
+    "index": 234,
     "value": 0.9,
     "color": "#e5f0f7",
     "HU": "",
@@ -623,7 +614,7 @@
   {
     "indicator": "GDP",
     "order": "",
-    "index": 283,
+    "index": 237,
     "value": 1.2,
     "color": "#d2e5f1",
     "HU": "",
@@ -633,7 +624,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 284,
+    "index": 229,
     "value": 5.1,
     "color": "#cbe1ee",
     "HU": "",
@@ -643,7 +634,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 285,
+    "index": 230,
     "value": 5.2,
     "color": "#c2dcec",
     "HU": "",
@@ -653,7 +644,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 286,
+    "index": 231,
     "value": 5.2,
     "color": "#c2dcec",
     "HU": "",
@@ -663,7 +654,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 287,
+    "index": 232,
     "value": 5.4,
     "color": "#b1d2e6",
     "HU": "",
@@ -673,7 +664,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 288,
+    "index": 233,
     "value": 5,
     "color": "#d4e6f1",
     "HU": "",
@@ -683,7 +674,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 289,
+    "index": 234,
     "value": 5,
     "color": "#d4e6f1",
     "HU": "",
@@ -693,7 +684,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 290,
+    "index": 235,
     "value": 4.5,
     "color": "#ffffff",
     "HU": "",
@@ -703,7 +694,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 291,
+    "index": 236,
     "value": 4.8,
     "color": "#e5f0f7",
     "HU": "",
@@ -713,7 +704,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 292,
+    "index": 237,
     "value": 4.7,
     "color": "#eef5f9",
     "HU": "",
@@ -723,7 +714,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 293,
+    "index": 238,
     "value": 4.8,
     "color": "#e5f0f7",
     "HU": "",
@@ -733,7 +724,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 294,
+    "index": 239,
     "value": 5.1,
     "color": "#cbe1ee",
     "HU": "",
@@ -743,7 +734,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 295,
+    "index": 240,
     "value": 6.6,
     "color": "#4997c5",
     "HU": "",
@@ -753,7 +744,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 296,
+    "index": 241,
     "value": 6.3,
     "color": "#63a6cd",
     "HU": "",
@@ -763,7 +754,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 297,
+    "index": 242,
     "value": 5.9,
     "color": "#86bad8",
     "HU": "",
@@ -773,7 +764,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 298,
+    "index": 243,
     "value": 5.3,
     "color": "#bad7e9",
     "HU": "",
@@ -783,7 +774,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 299,
+    "index": 244,
     "value": 5,
     "color": "#d4e6f1",
     "HU": "",
@@ -793,7 +784,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 300,
+    "index": 245,
     "value": 5.4,
     "color": "#b1d2e6",
     "HU": "",
@@ -803,7 +794,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 301,
+    "index": 246,
     "value": 5.5,
     "color": "#a8cde3",
     "HU": "",
@@ -813,7 +804,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 302,
+    "index": 247,
     "value": 5.9,
     "color": "#86bad8",
     "HU": "",
@@ -823,7 +814,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 303,
+    "index": 248,
     "value": 5.8,
     "color": "#8ebfdb",
     "HU": "",
@@ -833,7 +824,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 304,
+    "index": 249,
     "value": 6.1,
     "color": "#74b0d3",
     "HU": "",
@@ -843,7 +834,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 305,
+    "index": 250,
     "value": 6.1,
     "color": "#74b0d3",
     "HU": "",
@@ -853,7 +844,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 306,
+    "index": 251,
     "value": 6,
     "color": "#7db5d6",
     "HU": "",
@@ -863,7 +854,7 @@
   {
     "indicator": "68% interval - high bound",
     "order": "",
-    "index": 307,
+    "index": 252,
     "value": 6.1,
     "color": "#74b0d3",
     "HU": "",
@@ -873,7 +864,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 308,
+    "index": 229,
     "value": 1.3,
     "color": "#579fc9",
     "HU": "",
@@ -883,7 +874,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 309,
+    "index": 230,
     "value": 1.4,
     "color": "#539dc8",
     "HU": "",
@@ -893,7 +884,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 310,
+    "index": 231,
     "value": 1.5,
     "color": "#509bc7",
     "HU": "",
@@ -903,7 +894,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 311,
+    "index": 232,
     "value": 1.7,
     "color": "#4997c5",
     "HU": "",
@@ -913,7 +904,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 312,
+    "index": 233,
     "value": 1.2,
     "color": "#5aa1ca",
     "HU": "",
@@ -923,7 +914,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 313,
+    "index": 234,
     "value": 1.2,
     "color": "#5aa1ca",
     "HU": "",
@@ -933,7 +924,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 314,
+    "index": 235,
     "value": 0.8,
     "color": "#68a9cf",
     "HU": "",
@@ -943,7 +934,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 315,
+    "index": 236,
     "value": 1.1,
     "color": "#5ea3cc",
     "HU": "",
@@ -953,7 +944,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 316,
+    "index": 237,
     "value": 0.9,
     "color": "#64a7ce",
     "HU": "",
@@ -963,7 +954,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 317,
+    "index": 238,
     "value": 1.1,
     "color": "#5ea3cc",
     "HU": "",
@@ -973,7 +964,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 318,
+    "index": 239,
     "value": 1.3,
     "color": "#579fc9",
     "HU": "",
@@ -983,7 +974,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 319,
+    "index": 240,
     "value": -0.6,
     "color": "#98c4de",
     "HU": "",
@@ -993,7 +984,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 320,
+    "index": 241,
     "value": -1.5,
     "color": "#b7d6e8",
     "HU": "",
@@ -1003,7 +994,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 321,
+    "index": 242,
     "value": -2.8,
     "color": "#e4eff6",
     "HU": "",
@@ -1013,7 +1004,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 322,
+    "index": 243,
     "value": -3.4,
     "color": "#f8fbfd",
     "HU": "",
@@ -1023,7 +1014,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 323,
+    "index": 244,
     "value": -3.6,
     "color": "#ffffff",
     "HU": "",
@@ -1033,7 +1024,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 324,
+    "index": 245,
     "value": -3.3,
     "color": "#f5f9fc",
     "HU": "",
@@ -1043,7 +1034,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 325,
+    "index": 246,
     "value": -3.2,
     "color": "#f1f7fb",
     "HU": "",
@@ -1053,7 +1044,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 326,
+    "index": 247,
     "value": -2.8,
     "color": "#e4eff6",
     "HU": "",
@@ -1063,7 +1054,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 327,
+    "index": 248,
     "value": -2.8,
     "color": "#e4eff6",
     "HU": "",
@@ -1073,7 +1064,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 328,
+    "index": 249,
     "value": -2.5,
     "color": "#d9e9f3",
     "HU": "",
@@ -1083,7 +1074,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 329,
+    "index": 250,
     "value": -2.6,
     "color": "#ddebf4",
     "HU": "",
@@ -1093,7 +1084,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 330,
+    "index": 251,
     "value": -2.7,
     "color": "#e0edf5",
     "HU": "",
@@ -1103,7 +1094,7 @@
   {
     "indicator": "68% interval - low bound",
     "order": "",
-    "index": 331,
+    "index": 252,
     "value": -2.5,
     "color": "#d9e9f3",
     "HU": "",
@@ -1113,7 +1104,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 332,
+    "index": 229,
     "value": 6.9,
     "color": "#e9f2f8",
     "HU": "",
@@ -1123,7 +1114,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 333,
+    "index": 230,
     "value": 7.1,
     "color": "#e0edf5",
     "HU": "",
@@ -1133,7 +1124,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 334,
+    "index": 231,
     "value": 7.1,
     "color": "#e0edf5",
     "HU": "",
@@ -1143,7 +1134,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 335,
+    "index": 232,
     "value": 7.3,
     "color": "#d7e8f2",
     "HU": "",
@@ -1153,7 +1144,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 336,
+    "index": 233,
     "value": 6.9,
     "color": "#e9f2f8",
     "HU": "",
@@ -1163,7 +1154,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 337,
+    "index": 234,
     "value": 6.8,
     "color": "#edf5f9",
     "HU": "",
@@ -1173,7 +1164,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 338,
+    "index": 235,
     "value": 6.4,
     "color": "#ffffff",
     "HU": "",
@@ -1183,7 +1174,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 339,
+    "index": 236,
     "value": 6.7,
     "color": "#f2f7fb",
     "HU": "",
@@ -1193,7 +1184,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 340,
+    "index": 237,
     "value": 6.5,
     "color": "#fbfcfe",
     "HU": "",
@@ -1203,7 +1194,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 341,
+    "index": 238,
     "value": 6.7,
     "color": "#f2f7fb",
     "HU": "",
@@ -1213,7 +1204,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 342,
+    "index": 239,
     "value": 6.9,
     "color": "#e9f2f8",
     "HU": "",
@@ -1223,7 +1214,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 343,
+    "index": 240,
     "value": 10.2,
     "color": "#569fc9",
     "HU": "",
@@ -1233,7 +1224,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 344,
+    "index": 241,
     "value": 10.1,
     "color": "#5ba1cb",
     "HU": "",
@@ -1243,7 +1234,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 345,
+    "index": 242,
     "value": 10.2,
     "color": "#569fc9",
     "HU": "",
@@ -1253,7 +1244,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 346,
+    "index": 243,
     "value": 9.6,
     "color": "#71aed2",
     "HU": "",
@@ -1263,7 +1254,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 347,
+    "index": 244,
     "value": 9.4,
     "color": "#7ab3d5",
     "HU": "",
@@ -1273,7 +1264,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 348,
+    "index": 245,
     "value": 9.7,
     "color": "#6dabd0",
     "HU": "",
@@ -1283,7 +1274,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 349,
+    "index": 246,
     "value": 9.8,
     "color": "#68a9cf",
     "HU": "",
@@ -1293,7 +1284,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 350,
+    "index": 247,
     "value": 10.2,
     "color": "#569fc9",
     "HU": "",
@@ -1303,7 +1294,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 351,
+    "index": 248,
     "value": 10.2,
     "color": "#569fc9",
     "HU": "",
@@ -1313,7 +1304,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 352,
+    "index": 249,
     "value": 10.4,
     "color": "#4d9ac6",
     "HU": "",
@@ -1323,7 +1314,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 353,
+    "index": 250,
     "value": 10.4,
     "color": "#4d9ac6",
     "HU": "",
@@ -1333,7 +1324,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 354,
+    "index": 251,
     "value": 10.3,
     "color": "#529cc8",
     "HU": "",
@@ -1343,7 +1334,7 @@
   {
     "indicator": "95% interval - high bound",
     "order": "",
-    "index": 355,
+    "index": 252,
     "value": 10.5,
     "color": "#4997c5",
     "HU": "",
@@ -1353,7 +1344,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 356,
+    "index": 229,
     "value": -0.6,
     "color": "#529cc8",
     "HU": "",
@@ -1363,7 +1354,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 357,
+    "index": 230,
     "value": -0.5,
     "color": "#509bc7",
     "HU": "",
@@ -1373,7 +1364,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 358,
+    "index": 231,
     "value": -0.4,
     "color": "#4e9ac7",
     "HU": "",
@@ -1383,7 +1374,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 359,
+    "index": 232,
     "value": -0.2,
     "color": "#4997c5",
     "HU": "",
@@ -1393,7 +1384,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 360,
+    "index": 233,
     "value": -0.6,
     "color": "#529cc8",
     "HU": "",
@@ -1403,7 +1394,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 361,
+    "index": 234,
     "value": -0.7,
     "color": "#559ec9",
     "HU": "",
@@ -1413,7 +1404,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 362,
+    "index": 235,
     "value": -1.1,
     "color": "#5ea3cc",
     "HU": "",
@@ -1423,7 +1414,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 363,
+    "index": 236,
     "value": -0.8,
     "color": "#579fca",
     "HU": "",
@@ -1433,7 +1424,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 364,
+    "index": 237,
     "value": -1,
     "color": "#5ca2cb",
     "HU": "",
@@ -1443,7 +1434,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 365,
+    "index": 238,
     "value": -0.8,
     "color": "#579fca",
     "HU": "",
@@ -1453,7 +1444,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 366,
+    "index": 239,
     "value": -0.6,
     "color": "#529cc8",
     "HU": "",
@@ -1463,7 +1454,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 367,
+    "index": 240,
     "value": -4.2,
     "color": "#a8cde3",
     "HU": "",
@@ -1473,7 +1464,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 368,
+    "index": 241,
     "value": -5.4,
     "color": "#c4ddec",
     "HU": "",
@@ -1483,7 +1474,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 369,
+    "index": 242,
     "value": -7.1,
     "color": "#ecf4f9",
     "HU": "",
@@ -1493,7 +1484,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 370,
+    "index": 243,
     "value": -7.7,
     "color": "#fafcfd",
     "HU": "",
@@ -1503,7 +1494,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 371,
+    "index": 244,
     "value": -7.9,
     "color": "#ffffff",
     "HU": "",
@@ -1513,7 +1504,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 372,
+    "index": 245,
     "value": -7.6,
     "color": "#f8fbfd",
     "HU": "",
@@ -1523,7 +1514,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 373,
+    "index": 246,
     "value": -7.5,
     "color": "#f6fafc",
     "HU": "",
@@ -1533,7 +1524,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 374,
+    "index": 247,
     "value": -7.1,
     "color": "#ecf4f9",
     "HU": "",
@@ -1543,7 +1534,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 375,
+    "index": 248,
     "value": -7.1,
     "color": "#ecf4f9",
     "HU": "",
@@ -1553,7 +1544,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 376,
+    "index": 249,
     "value": -6.8,
     "color": "#e5f0f7",
     "HU": "",
@@ -1563,7 +1554,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 377,
+    "index": 250,
     "value": -6.9,
     "color": "#e7f1f7",
     "HU": "",
@@ -1573,7 +1564,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 378,
+    "index": 251,
     "value": -7,
     "color": "#eaf3f8",
     "HU": "",
@@ -1583,7 +1574,7 @@
   {
     "indicator": "95% interval - low bound",
     "order": "",
-    "index": 379,
+    "index": 252,
     "value": -6.8,
     "color": "#e5f0f7",
     "HU": "",
@@ -1593,7 +1584,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 380,
+    "index": 229,
     "value": 100,
     "color": "#4997c5",
     "HU": "",
@@ -1603,7 +1594,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 381,
+    "index": 230,
     "value": 100,
     "color": "#4997c5",
     "HU": "",
@@ -1613,7 +1604,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 382,
+    "index": 231,
     "value": 100,
     "color": "#4997c5",
     "HU": "",
@@ -1623,7 +1614,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 383,
+    "index": 232,
     "value": 100,
     "color": "#4997c5",
     "HU": "",
@@ -1633,7 +1624,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 384,
+    "index": 233,
     "value": 100,
     "color": "#4997c5",
     "HU": "",
@@ -1643,7 +1634,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 385,
+    "index": 234,
     "value": 100,
     "color": "#4997c5",
     "HU": "",
@@ -1653,7 +1644,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 386,
+    "index": 235,
     "value": 100,
     "color": "#4997c5",
     "HU": "",
@@ -1663,7 +1654,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 387,
+    "index": 236,
     "value": 100,
     "color": "#4997c5",
     "HU": "",
@@ -1673,7 +1664,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 388,
+    "index": 237,
     "value": 100,
     "color": "#4997c5",
     "HU": "",
@@ -1683,7 +1674,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 389,
+    "index": 238,
     "value": 100,
     "color": "#4997c5",
     "HU": "",
@@ -1693,7 +1684,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 390,
+    "index": 239,
     "value": 100,
     "color": "#4997c5",
     "HU": "",
@@ -1703,7 +1694,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 391,
+    "index": 240,
     "value": 29.4,
     "color": "#c9e0ee",
     "HU": "",
@@ -1713,7 +1704,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 392,
+    "index": 241,
     "value": 17.6,
     "color": "#dfedf5",
     "HU": "",
@@ -1723,7 +1714,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 393,
+    "index": 242,
     "value": 0,
     "color": "#ffffff",
     "HU": "",
@@ -1733,7 +1724,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 394,
+    "index": 243,
     "value": 0,
     "color": "#ffffff",
     "HU": "",
@@ -1743,7 +1734,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 395,
+    "index": 244,
     "value": 0,
     "color": "#ffffff",
     "HU": "",
@@ -1753,7 +1744,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 396,
+    "index": 245,
     "value": 0,
     "color": "#ffffff",
     "HU": "",
@@ -1763,7 +1754,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 397,
+    "index": 246,
     "value": 0,
     "color": "#ffffff",
     "HU": "",
@@ -1773,7 +1764,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 398,
+    "index": 247,
     "value": 0,
     "color": "#ffffff",
     "HU": "",
@@ -1783,7 +1774,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 399,
+    "index": 248,
     "value": 0,
     "color": "#ffffff",
     "HU": "",
@@ -1793,7 +1784,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 400,
+    "index": 249,
     "value": 0,
     "color": "#ffffff",
     "HU": "",
@@ -1803,7 +1794,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 401,
+    "index": 250,
     "value": 0,
     "color": "#ffffff",
     "HU": "",
@@ -1813,7 +1804,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 402,
+    "index": 251,
     "value": 0,
     "color": "#ffffff",
     "HU": "",
@@ -1823,7 +1814,7 @@
   {
     "indicator": "% of information",
     "order": "",
-    "index": 403,
+    "index": 252,
     "value": 0,
     "color": "#ffffff",
     "HU": "",
