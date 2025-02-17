@@ -1,5 +1,45 @@
 [
   {
+    "indicator": "Economic activity indicators",
+    "order": 700,
+    "index": 1,
+    "value": "row",
+    "color": "transparent",
+    "HU": "row",
+    "RO": "row",
+    "EN": "row"
+  },
+  {
+    "indicator": "Sentiment indicators",
+    "order": 2000,
+    "index": 1,
+    "value": "row",
+    "color": "transparent",
+    "HU": "row",
+    "RO": "row",
+    "EN": "row"
+  },
+  {
+    "indicator": "Labour market indicators",
+    "order": 2400,
+    "index": 1,
+    "value": "row",
+    "color": "transparent",
+    "HU": "row",
+    "RO": "row",
+    "EN": "row"
+  },
+  {
+    "indicator": "Prices, money and credit",
+    "order": 2800,
+    "index": 1,
+    "value": "row",
+    "color": "transparent",
+    "HU": "row",
+    "RO": "row",
+    "EN": "row"
+  },
+  {
     "indicator": "date",
     "value": "Previous period AVG",
     "color": "#243b55",
