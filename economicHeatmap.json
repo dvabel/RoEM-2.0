@@ -1,6 +1,6 @@
 [
   {
-    "indicator": "Date",
+    "indicator": "date",
     "value": "Previous period AVG",
     "color": "#243b55",
     "HU": "",
@@ -162,7 +162,7 @@
     "index": 0
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 375,
     "value": "2022-09",
@@ -172,7 +172,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 376,
     "value": "2022-10",
@@ -182,7 +182,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 377,
     "value": "2022-11",
@@ -192,7 +192,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 378,
     "value": "2022-12",
@@ -202,7 +202,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 379,
     "value": "2023-01",
@@ -212,7 +212,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 380,
     "value": "2023-02",
@@ -222,7 +222,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 381,
     "value": "2023-03",
@@ -232,7 +232,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 382,
     "value": "2023-04",
@@ -242,7 +242,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 383,
     "value": "2023-05",
@@ -252,7 +252,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 384,
     "value": "2023-06",
@@ -262,7 +262,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 385,
     "value": "2023-07",
@@ -272,7 +272,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 386,
     "value": "2023-08",
@@ -282,7 +282,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 387,
     "value": "2023-09",
@@ -292,7 +292,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 388,
     "value": "2023-10",
@@ -302,7 +302,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 389,
     "value": "2023-11",
@@ -312,7 +312,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 390,
     "value": "2023-12",
@@ -322,7 +322,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 391,
     "value": "2024-01",
@@ -332,7 +332,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 392,
     "value": "2024-02",
@@ -342,7 +342,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 393,
     "value": "2024-03",
@@ -352,7 +352,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 394,
     "value": "2024-04",
@@ -362,7 +362,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 395,
     "value": "2024-05",
@@ -372,7 +372,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 396,
     "value": "2024-06",
@@ -382,7 +382,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 397,
     "value": "2024-07",
@@ -392,7 +392,7 @@
     "EN": ""
   },
   {
-    "indicator": "Date",
+    "indicator": "date",
     "order": "",
     "index": 398,
     "value": "2024-08",
