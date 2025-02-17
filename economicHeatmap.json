@@ -1,0 +1,4324 @@
+[
+  {
+    "indicator": "Date",
+    "value": "Previous period AVG",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "value": 93.4,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Market services to the population",
+    "value": 80.6,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Retail trade",
+    "value": 70,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Wholesale trade",
+    "value": 83.8,
+    "color": "#eaf3f8",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "value": 72.6,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Industrial production",
+    "value": 85.2,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Construction works",
+    "value": 83.2,
+    "color": "#daeaf3",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "value": 95.6,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Employment expectations",
+    "value": 100.2,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Consumer confidence",
+    "value": -17.6,
+    "color": "#84b9d8",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Unemployment",
+    "value": 7,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Net wages",
+    "value": 1853,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "No. of employees",
+    "value": 4635.1,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Consumer price index",
+    "value": 7.7,
+    "color": "#d4e7f1",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "value": 188034212.9,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Non-government loans",
+    "value": 242983744.9,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Non-government deposits",
+    "value": 283628959.4,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 375,
+    "value": "2022-09",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 376,
+    "value": "2022-10",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 377,
+    "value": "2022-11",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 378,
+    "value": "2022-12",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 379,
+    "value": "2023-01",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 380,
+    "value": "2023-02",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 381,
+    "value": "2023-03",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 382,
+    "value": "2023-04",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 383,
+    "value": "2023-05",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 384,
+    "value": "2023-06",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 385,
+    "value": "2023-07",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 386,
+    "value": "2023-08",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 387,
+    "value": "2023-09",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 388,
+    "value": "2023-10",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 389,
+    "value": "2023-11",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 390,
+    "value": "2023-12",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 391,
+    "value": "2024-01",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 392,
+    "value": "2024-02",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 393,
+    "value": "2024-03",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 394,
+    "value": "2024-04",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 395,
+    "value": "2024-05",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 396,
+    "value": "2024-06",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 397,
+    "value": "2024-07",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Date",
+    "order": "",
+    "index": 398,
+    "value": "2024-08",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 375,
+    "value": 132.3,
+    "color": "#7db5d6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 376,
+    "value": 132.8,
+    "color": "#7bb4d5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 377,
+    "value": 132.3,
+    "color": "#7db5d6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 378,
+    "value": 138.3,
+    "color": "#69a9cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 379,
+    "value": 113,
+    "color": "#bddaea",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 380,
+    "value": 117.5,
+    "color": "#aed1e5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 381,
+    "value": 135.5,
+    "color": "#72afd2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 382,
+    "value": 129,
+    "color": "#88bbd9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 383,
+    "value": 132.5,
+    "color": "#7cb4d5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 384,
+    "value": 140.4,
+    "color": "#62a5cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 385,
+    "value": 136.6,
+    "color": "#6eacd1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 386,
+    "value": 129.8,
+    "color": "#85b9d8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 387,
+    "value": 136.7,
+    "color": "#6eacd1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 388,
+    "value": 141.6,
+    "color": "#5ea3cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 389,
+    "value": 138.2,
+    "color": "#69a9cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 390,
+    "value": 147.8,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 391,
+    "value": 114.4,
+    "color": "#b9d7e9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 392,
+    "value": 118.9,
+    "color": "#aacee4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 393,
+    "value": 127.2,
+    "color": "#8ebedb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 394,
+    "value": 130.4,
+    "color": "#83b8d8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 395,
+    "value": 147.6,
+    "color": "#4a97c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": "",
+    "index": 396,
+    "value": 128.6,
+    "color": "#89bcd9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 375,
+    "value": 140.5,
+    "color": "#87bbd9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 376,
+    "value": 135.5,
+    "color": "#91c0dc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 377,
+    "value": 127.9,
+    "color": "#a0c9e1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 378,
+    "value": 130.6,
+    "color": "#9bc6df",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 379,
+    "value": 121.1,
+    "color": "#aed1e5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 380,
+    "value": 120.9,
+    "color": "#aed1e5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 381,
+    "value": 127.3,
+    "color": "#a2cae1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 382,
+    "value": 125.3,
+    "color": "#a6cce3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 383,
+    "value": 139.7,
+    "color": "#89bbd9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 384,
+    "value": 147.6,
+    "color": "#79b2d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 385,
+    "value": 164.3,
+    "color": "#589fca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 386,
+    "value": 171.6,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 387,
+    "value": 149.9,
+    "color": "#74b0d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 388,
+    "value": 139.4,
+    "color": "#89bcda",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 389,
+    "value": 132,
+    "color": "#98c4de",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 390,
+    "value": 134.9,
+    "color": "#92c1dc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 391,
+    "value": 123.8,
+    "color": "#a9cee3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 392,
+    "value": 121.7,
+    "color": "#add0e5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 393,
+    "value": 127.9,
+    "color": "#a0c9e1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 394,
+    "value": 121.6,
+    "color": "#add0e5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 395,
+    "value": 131.6,
+    "color": "#99c5de",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 396,
+    "value": 144.1,
+    "color": "#80b6d7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": "",
+    "index": 397,
+    "value": 157.5,
+    "color": "#65a7ce",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 375,
+    "value": 108.8,
+    "color": "#70add2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 376,
+    "value": 107.5,
+    "color": "#75b0d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 377,
+    "value": 110.7,
+    "color": "#69a9cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 378,
+    "value": 118.3,
+    "color": "#4d9ac6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 379,
+    "value": 91.9,
+    "color": "#aed1e5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 380,
+    "value": 90.3,
+    "color": "#b4d4e7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 381,
+    "value": 106.4,
+    "color": "#79b3d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 382,
+    "value": 100.5,
+    "color": "#8fbfdb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 383,
+    "value": 107.3,
+    "color": "#76b1d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 384,
+    "value": 104.2,
+    "color": "#81b7d7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 385,
+    "value": 110.5,
+    "color": "#6aaad0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 386,
+    "value": 112.9,
+    "color": "#61a5cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 387,
+    "value": 107.4,
+    "color": "#75b0d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 388,
+    "value": 109.2,
+    "color": "#6fadd1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 389,
+    "value": 114.5,
+    "color": "#5ba2cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 390,
+    "value": 118.3,
+    "color": "#4d9ac6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 391,
+    "value": 98.7,
+    "color": "#95c3dd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 392,
+    "value": 99.9,
+    "color": "#91c0dc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 393,
+    "value": 108.5,
+    "color": "#71aed2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 394,
+    "value": 115.3,
+    "color": "#58a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 395,
+    "value": 113,
+    "color": "#61a5cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 396,
+    "value": 114.2,
+    "color": "#5ca2cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": "",
+    "index": 397,
+    "value": 119.5,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 375,
+    "value": 105,
+    "color": "#5fa3cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 376,
+    "value": 100,
+    "color": "#80b6d6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 377,
+    "value": 100.3,
+    "color": "#7eb5d6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 378,
+    "value": 91.7,
+    "color": "#b6d5e8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 379,
+    "value": 80.6,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 380,
+    "value": 87.5,
+    "color": "#d2e5f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 381,
+    "value": 105.6,
+    "color": "#5ba1cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 382,
+    "value": 88.6,
+    "color": "#cae1ee",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 383,
+    "value": 101.6,
+    "color": "#75b0d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 384,
+    "value": 96.9,
+    "color": "#94c2dd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 385,
+    "value": 103.5,
+    "color": "#69a9cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 386,
+    "value": 105.1,
+    "color": "#5ea3cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 387,
+    "value": 105,
+    "color": "#5fa3cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 388,
+    "value": 108.3,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 389,
+    "value": 103.3,
+    "color": "#6aaacf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 390,
+    "value": 102,
+    "color": "#72afd2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 391,
+    "value": 81.8,
+    "color": "#f7fafc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 392,
+    "value": 91.8,
+    "color": "#b5d5e8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 393,
+    "value": 98.9,
+    "color": "#87bad9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 394,
+    "value": 97.6,
+    "color": "#8fbfdb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 395,
+    "value": 90.5,
+    "color": "#bedaea",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": "",
+    "index": 396,
+    "value": 92.7,
+    "color": "#afd2e6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 375,
+    "value": 115.5,
+    "color": "#79b2d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 376,
+    "value": 116.7,
+    "color": "#75b0d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 377,
+    "value": 123.7,
+    "color": "#5fa4cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 378,
+    "value": 109.4,
+    "color": "#8cbdda",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 379,
+    "value": 98.7,
+    "color": "#add0e5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 380,
+    "value": 105.2,
+    "color": "#99c5de",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 381,
+    "value": 125,
+    "color": "#5ba1cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 382,
+    "value": 108.5,
+    "color": "#8fbfdb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 383,
+    "value": 130.7,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 384,
+    "value": 130.3,
+    "color": "#4a98c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 385,
+    "value": 120.6,
+    "color": "#69a9cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 386,
+    "value": 114,
+    "color": "#7db5d6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 387,
+    "value": 126.2,
+    "color": "#579fc9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 388,
+    "value": 125.4,
+    "color": "#5aa0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 389,
+    "value": 125.8,
+    "color": "#58a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 390,
+    "value": 115.5,
+    "color": "#79b2d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 391,
+    "value": 99.5,
+    "color": "#abcfe4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 392,
+    "value": 112.3,
+    "color": "#83b8d7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 393,
+    "value": 120.4,
+    "color": "#69a9cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 394,
+    "value": 129.5,
+    "color": "#4d99c6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 395,
+    "value": 123.3,
+    "color": "#60a4cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 396,
+    "value": 125.8,
+    "color": "#58a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": "",
+    "index": 397,
+    "value": 128.6,
+    "color": "#509bc7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 375,
+    "value": 103.9,
+    "color": "#6eacd1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 376,
+    "value": 102.3,
+    "color": "#7bb3d5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 377,
+    "value": 104.1,
+    "color": "#6dabd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 378,
+    "value": 89.2,
+    "color": "#e0edf5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 379,
+    "value": 90.7,
+    "color": "#d4e7f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 380,
+    "value": 96.2,
+    "color": "#aacee4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 381,
+    "value": 108.7,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 382,
+    "value": 91.1,
+    "color": "#d1e5f0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 383,
+    "value": 104.8,
+    "color": "#67a8cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 384,
+    "value": 99.1,
+    "color": "#93c1dd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 385,
+    "value": 97.9,
+    "color": "#9dc7e0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 386,
+    "value": 89.5,
+    "color": "#deecf4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 387,
+    "value": 101.6,
+    "color": "#80b6d7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 388,
+    "value": 102.6,
+    "color": "#78b2d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 389,
+    "value": 101.5,
+    "color": "#81b7d7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 390,
+    "value": 86.1,
+    "color": "#f8fbfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 391,
+    "value": 87,
+    "color": "#f1f7fb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 392,
+    "value": 96.4,
+    "color": "#a8cde3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 393,
+    "value": 104.3,
+    "color": "#6baad0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 394,
+    "value": 102.1,
+    "color": "#7cb4d5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 395,
+    "value": 93.1,
+    "color": "#c2dcec",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 396,
+    "value": 95.2,
+    "color": "#b2d3e6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": "",
+    "index": 397,
+    "value": 98,
+    "color": "#9cc6df",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 375,
+    "value": 128,
+    "color": "#a9cee4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 376,
+    "value": 139.3,
+    "color": "#9dc7e0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 377,
+    "value": 146.8,
+    "color": "#95c3dd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 378,
+    "value": 168.5,
+    "color": "#7eb5d6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 379,
+    "value": 58.8,
+    "color": "#f4f9fb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 380,
+    "value": 78.6,
+    "color": "#deecf5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 381,
+    "value": 112.1,
+    "color": "#bad8e9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 382,
+    "value": 102.8,
+    "color": "#c4deec",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 383,
+    "value": 122.8,
+    "color": "#afd1e5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 384,
+    "value": 135.7,
+    "color": "#a1c9e1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 385,
+    "value": 129.3,
+    "color": "#a8cde3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 386,
+    "value": 141.8,
+    "color": "#9bc6df",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 387,
+    "value": 138.9,
+    "color": "#9ec7e0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 388,
+    "value": 156.9,
+    "color": "#8abcda",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 389,
+    "value": 169.8,
+    "color": "#7cb4d5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 390,
+    "value": 217.7,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 391,
+    "value": 48.3,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 392,
+    "value": 75.3,
+    "color": "#e2eef6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 393,
+    "value": 108.4,
+    "color": "#bedaea",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 394,
+    "value": 118.6,
+    "color": "#b3d4e7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 395,
+    "value": 117.3,
+    "color": "#b5d5e7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 396,
+    "value": 126,
+    "color": "#accfe4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": "",
+    "index": 397,
+    "value": 126.1,
+    "color": "#abcfe4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 375,
+    "value": 98.1,
+    "color": "#cee3ef",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 376,
+    "value": 98.4,
+    "color": "#c8dfed",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 377,
+    "value": 99.9,
+    "color": "#aacee4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 378,
+    "value": 98,
+    "color": "#d0e4f0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 379,
+    "value": 97.4,
+    "color": "#dbebf4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 380,
+    "value": 99,
+    "color": "#bcd9ea",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 381,
+    "value": 99.3,
+    "color": "#b6d5e8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 382,
+    "value": 99.3,
+    "color": "#b6d5e8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 383,
+    "value": 99.3,
+    "color": "#b6d5e8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 384,
+    "value": 101.2,
+    "color": "#90c0dc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 385,
+    "value": 100.7,
+    "color": "#9ac5df",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 386,
+    "value": 100.9,
+    "color": "#96c3de",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 387,
+    "value": 100.9,
+    "color": "#96c3de",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 388,
+    "value": 101.2,
+    "color": "#90c0dc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 389,
+    "value": 101.3,
+    "color": "#8ebfdb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 390,
+    "value": 102.2,
+    "color": "#7cb4d5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 391,
+    "value": 102.1,
+    "color": "#7eb6d6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 392,
+    "value": 101.6,
+    "color": "#88bbd9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 393,
+    "value": 103.6,
+    "color": "#61a5cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 394,
+    "value": 104.8,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 395,
+    "value": 102.6,
+    "color": "#75b0d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 396,
+    "value": 104.3,
+    "color": "#539dc8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 397,
+    "value": 102.6,
+    "color": "#75b0d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": "",
+    "index": 398,
+    "value": 104.1,
+    "color": "#579fc9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 375,
+    "value": 106.4,
+    "color": "#88bbd9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 376,
+    "value": 108.5,
+    "color": "#60a4cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 377,
+    "value": 108,
+    "color": "#6aaacf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 378,
+    "value": 102.7,
+    "color": "#cfe4f0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 379,
+    "value": 106.4,
+    "color": "#88bbd9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 380,
+    "value": 102.9,
+    "color": "#cbe1ef",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 381,
+    "value": 105.6,
+    "color": "#98c4de",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 382,
+    "value": 107,
+    "color": "#7db5d5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 383,
+    "value": 106.8,
+    "color": "#81b7d7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 384,
+    "value": 106.6,
+    "color": "#84b9d8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 385,
+    "value": 108.9,
+    "color": "#58a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 386,
+    "value": 106.6,
+    "color": "#84b9d8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 387,
+    "value": 104.4,
+    "color": "#afd1e5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 388,
+    "value": 106.5,
+    "color": "#86bad9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 389,
+    "value": 102.9,
+    "color": "#cbe1ef",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 390,
+    "value": 106.2,
+    "color": "#8cbdda",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 391,
+    "value": 103.4,
+    "color": "#c2dceb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 392,
+    "value": 106.2,
+    "color": "#8cbdda",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 393,
+    "value": 108.5,
+    "color": "#60a4cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 394,
+    "value": 109.7,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 395,
+    "value": 108.8,
+    "color": "#5aa1ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 396,
+    "value": 103.7,
+    "color": "#bcd9ea",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 397,
+    "value": 106.4,
+    "color": "#88bbd9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": "",
+    "index": 398,
+    "value": 103.3,
+    "color": "#c4ddec",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 375,
+    "value": -31,
+    "color": "#f7fbfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 376,
+    "value": -30.3,
+    "color": "#f1f7fb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 377,
+    "value": -31.9,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 378,
+    "value": -30.9,
+    "color": "#f6fafc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 379,
+    "value": -29,
+    "color": "#e6f1f7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 380,
+    "value": -27.3,
+    "color": "#d8e8f2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 381,
+    "value": -25.2,
+    "color": "#c5deed",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 382,
+    "value": -22.2,
+    "color": "#accfe4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 383,
+    "value": -19.5,
+    "color": "#95c2dd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 384,
+    "value": -17.2,
+    "color": "#81b7d7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 385,
+    "value": -16.5,
+    "color": "#7bb3d5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 386,
+    "value": -18.3,
+    "color": "#8abcda",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 387,
+    "value": -16.2,
+    "color": "#78b2d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 388,
+    "value": -18,
+    "color": "#88bbd9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 389,
+    "value": -19.5,
+    "color": "#95c2dd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 390,
+    "value": -17.4,
+    "color": "#83b8d7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 391,
+    "value": -17.8,
+    "color": "#86bad8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 392,
+    "value": -17.4,
+    "color": "#83b8d7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 393,
+    "value": -15.5,
+    "color": "#72afd2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 394,
+    "value": -13.6,
+    "color": "#62a5cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 395,
+    "value": -15.4,
+    "color": "#71aed2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 396,
+    "value": -10.7,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 397,
+    "value": -14.7,
+    "color": "#6babd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": "",
+    "index": 398,
+    "value": -12.1,
+    "color": "#559ec9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 375,
+    "value": 5.6,
+    "color": "#cfe4f0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 376,
+    "value": 5.6,
+    "color": "#cfe4f0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 377,
+    "value": 5.6,
+    "color": "#cfe4f0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 378,
+    "value": 5.6,
+    "color": "#cfe4f0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 379,
+    "value": 5.6,
+    "color": "#cfe4f0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 380,
+    "value": 5.5,
+    "color": "#d9e9f3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 381,
+    "value": 5.5,
+    "color": "#d9e9f3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 382,
+    "value": 5.5,
+    "color": "#d9e9f3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 383,
+    "value": 5.5,
+    "color": "#d9e9f3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 384,
+    "value": 5.7,
+    "color": "#c6deed",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 385,
+    "value": 5.6,
+    "color": "#cfe4f0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 386,
+    "value": 5.5,
+    "color": "#d9e9f3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 387,
+    "value": 5.6,
+    "color": "#cfe4f0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 388,
+    "value": 5.6,
+    "color": "#cfe4f0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 389,
+    "value": 5.5,
+    "color": "#d9e9f3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 390,
+    "value": 5.6,
+    "color": "#cfe4f0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 391,
+    "value": 5.4,
+    "color": "#e2eff6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 392,
+    "value": 5.2,
+    "color": "#f5fafc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 393,
+    "value": 5.2,
+    "color": "#f5fafc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 394,
+    "value": 5.2,
+    "color": "#f5fafc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 395,
+    "value": 5.3,
+    "color": "#ecf4f9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 396,
+    "value": 5.1,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": "",
+    "index": 397,
+    "value": 5.4,
+    "color": "#e2eff6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 375,
+    "value": 4003,
+    "color": "#8cbdda",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 376,
+    "value": 4008,
+    "color": "#8bbdda",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 377,
+    "value": 4141,
+    "color": "#84b9d8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 378,
+    "value": 4398,
+    "color": "#76b1d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 379,
+    "value": 4254,
+    "color": "#7eb5d6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 380,
+    "value": 4270,
+    "color": "#7db5d6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 381,
+    "value": 4554,
+    "color": "#6eacd1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 382,
+    "value": 4564,
+    "color": "#6dacd1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 383,
+    "value": 4543,
+    "color": "#6facd1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 384,
+    "value": 4600,
+    "color": "#6babd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 385,
+    "value": 4565,
+    "color": "#6dacd1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 386,
+    "value": 4531,
+    "color": "#6fadd1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 387,
+    "value": 4593,
+    "color": "#6cabd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 388,
+    "value": 4692,
+    "color": "#67a8ce",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 389,
+    "value": 4765,
+    "color": "#63a6cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 390,
+    "value": 5079,
+    "color": "#529cc8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 391,
+    "value": 4859,
+    "color": "#5ea3cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 392,
+    "value": 4876,
+    "color": "#5da2cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 393,
+    "value": 5185,
+    "color": "#4c99c6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 394,
+    "value": 5217,
+    "color": "#4a98c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 395,
+    "value": 5118,
+    "color": "#509bc7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 396,
+    "value": 5176,
+    "color": "#4d99c6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": "",
+    "index": 397,
+    "value": 5242,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 375,
+    "value": 5073.2,
+    "color": "#67a8cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 376,
+    "value": 5080.8,
+    "color": "#65a7ce",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 377,
+    "value": 5085.7,
+    "color": "#63a6cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 378,
+    "value": 5067.3,
+    "color": "#69a9cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 379,
+    "value": 5086.8,
+    "color": "#62a6cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 380,
+    "value": 5093.5,
+    "color": "#60a4cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 381,
+    "value": 5109.9,
+    "color": "#5aa1cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 382,
+    "value": 5113.2,
+    "color": "#59a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 383,
+    "value": 5126.5,
+    "color": "#559ec9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 384,
+    "value": 5129.2,
+    "color": "#549dc8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 385,
+    "value": 5134.2,
+    "color": "#529cc8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 386,
+    "value": 5127.1,
+    "color": "#559ec9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 387,
+    "value": 5135.2,
+    "color": "#529cc8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 388,
+    "value": 5137.3,
+    "color": "#519cc8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 389,
+    "value": 5135,
+    "color": "#529cc8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 390,
+    "value": 5116.4,
+    "color": "#58a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 391,
+    "value": 5137.8,
+    "color": "#519bc7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 392,
+    "value": 5139.7,
+    "color": "#509bc7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 393,
+    "value": 5147,
+    "color": "#4e9ac6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 394,
+    "value": 5157.7,
+    "color": "#4a98c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 395,
+    "value": 5152.4,
+    "color": "#4c99c6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 396,
+    "value": 5152.6,
+    "color": "#4c99c6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": "",
+    "index": 397,
+    "value": 5160.3,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 375,
+    "value": 15.9,
+    "color": "#579fc9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 376,
+    "value": 15.3,
+    "color": "#60a4cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 377,
+    "value": 16.8,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 378,
+    "value": 16.4,
+    "color": "#4f9ac7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 379,
+    "value": 15.1,
+    "color": "#63a6cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 380,
+    "value": 15.5,
+    "color": "#5da2cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 381,
+    "value": 14.5,
+    "color": "#6cabd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 382,
+    "value": 11.2,
+    "color": "#9fc8e0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 383,
+    "value": 10.6,
+    "color": "#a8cde3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 384,
+    "value": 10.3,
+    "color": "#acd0e5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 385,
+    "value": 9.4,
+    "color": "#bad8e9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 386,
+    "value": 9.4,
+    "color": "#bad8e9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 387,
+    "value": 8.8,
+    "color": "#c3ddec",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 388,
+    "value": 8.1,
+    "color": "#cee3ef",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 389,
+    "value": 6.7,
+    "color": "#e3eff6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 390,
+    "value": 6.6,
+    "color": "#e5f0f7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 391,
+    "value": 7.4,
+    "color": "#d9e9f3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 392,
+    "value": 7.2,
+    "color": "#dcebf4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 393,
+    "value": 6.6,
+    "color": "#e5f0f7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 394,
+    "value": 5.9,
+    "color": "#f0f6fa",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 395,
+    "value": 5.1,
+    "color": "#fcfdfe",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 396,
+    "value": 4.9,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 397,
+    "value": 5.4,
+    "color": "#f7fbfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": "",
+    "index": 398,
+    "value": 5.1,
+    "color": "#fcfdfe",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 375,
+    "value": 404971732,
+    "color": "#519bc7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 376,
+    "value": 398146000,
+    "color": "#569ec9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 377,
+    "value": 389976296,
+    "color": "#5da2cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 378,
+    "value": 398074151,
+    "color": "#569ec9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 379,
+    "value": 390019304,
+    "color": "#5da2cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 380,
+    "value": 389641280,
+    "color": "#5da2cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 381,
+    "value": 382193287,
+    "color": "#63a6cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 382,
+    "value": 381901459,
+    "color": "#63a6cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 383,
+    "value": 381528546,
+    "color": "#63a6cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 384,
+    "value": 388289673,
+    "color": "#5ea3cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 385,
+    "value": 388147197,
+    "color": "#5ea3cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 386,
+    "value": 387903257,
+    "color": "#5ea3cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 387,
+    "value": 394704691,
+    "color": "#59a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 388,
+    "value": 392263682,
+    "color": "#5ba1cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 389,
+    "value": 394123543,
+    "color": "#59a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 390,
+    "value": 409346750,
+    "color": "#4d99c6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 391,
+    "value": 403512420,
+    "color": "#529cc8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 392,
+    "value": 404768294,
+    "color": "#519bc7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 393,
+    "value": 403259169,
+    "color": "#529cc8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 394,
+    "value": 409829449,
+    "color": "#4d99c6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 395,
+    "value": 408629807,
+    "color": "#4e9ac6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": "",
+    "index": 396,
+    "value": 414353000,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 375,
+    "value": 364780759,
+    "color": "#75b0d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 376,
+    "value": 363591035,
+    "color": "#77b1d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 377,
+    "value": 364425061,
+    "color": "#76b1d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 378,
+    "value": 363661924,
+    "color": "#77b1d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 379,
+    "value": 364131296,
+    "color": "#76b1d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 380,
+    "value": 365839539,
+    "color": "#74b0d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 381,
+    "value": 370576069,
+    "color": "#6fadd1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 382,
+    "value": 369899971,
+    "color": "#70add1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 383,
+    "value": 372382880,
+    "color": "#6dabd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 384,
+    "value": 375363539,
+    "color": "#69a9cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 385,
+    "value": 378270399,
+    "color": "#66a8ce",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 386,
+    "value": 378750836,
+    "color": "#65a7ce",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 387,
+    "value": 381162442,
+    "color": "#63a6cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 388,
+    "value": 381891543,
+    "color": "#62a5cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 389,
+    "value": 384233264,
+    "color": "#5fa4cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 390,
+    "value": 386971718,
+    "color": "#5ca2cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 391,
+    "value": 384803324,
+    "color": "#5fa3cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 392,
+    "value": 383978404,
+    "color": "#60a4cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 393,
+    "value": 388031094,
+    "color": "#5ba1cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 394,
+    "value": 391496276,
+    "color": "#579fc9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 395,
+    "value": 393510358,
+    "color": "#559ec9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 396,
+    "value": 400520353,
+    "color": "#4d99c6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": "",
+    "index": 397,
+    "value": 403953237,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 375,
+    "value": 491700648,
+    "color": "#84b9d8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 376,
+    "value": 490803183,
+    "color": "#85b9d8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 377,
+    "value": 495435140,
+    "color": "#82b8d7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 378,
+    "value": 513233304,
+    "color": "#78b2d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 379,
+    "value": 513510090,
+    "color": "#77b2d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 380,
+    "value": 522026945,
+    "color": "#72afd2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 381,
+    "value": 524445151,
+    "color": "#71aed2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 382,
+    "value": 527301985,
+    "color": "#6fadd1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 383,
+    "value": 533975097,
+    "color": "#6babd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 384,
+    "value": 533317324,
+    "color": "#6cabd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 385,
+    "value": 529935741,
+    "color": "#6eacd1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 386,
+    "value": 533591096,
+    "color": "#6cabd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 387,
+    "value": 547934259,
+    "color": "#63a6cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 388,
+    "value": 548343534,
+    "color": "#63a6cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 389,
+    "value": 555585340,
+    "color": "#5fa3cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 390,
+    "value": 572635147,
+    "color": "#559ec9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 391,
+    "value": 573369529,
+    "color": "#549dc9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 392,
+    "value": 581340925,
+    "color": "#4f9bc7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 393,
+    "value": 583223574,
+    "color": "#4e9ac7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 394,
+    "value": 589513652,
+    "color": "#4b98c6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 395,
+    "value": 592283816,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 396,
+    "value": 585304992,
+    "color": "#4d99c6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": "",
+    "index": 397,
+    "value": 587494192,
+    "color": "#4c99c6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  }
+]
