@@ -2,6 +2,15 @@
   {
     "indicator": "date",
     "order": 100,
+    "index": 1,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": 100,
     "index": 2,
     "value": "1991-07",
     "HU": "",
@@ -3836,6 +3845,15 @@
   {
     "indicator": "Economic activity indicators",
     "order": 200,
+    "index": 1,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic activity indicators",
+    "order": 200,
     "index": 2,
     "value": "",
     "HU": "",
@@ -7662,6 +7680,15 @@
     "indicator": "Economic activity indicators",
     "order": 200,
     "index": 427,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": 300,
+    "index": 1,
     "value": "",
     "HU": "",
     "RO": "",
@@ -11504,6 +11531,15 @@
   {
     "indicator": "Market services to the population",
     "order": 400,
+    "index": 1,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": 400,
     "index": 2,
     "value": "",
     "HU": "",
@@ -15330,6 +15366,15 @@
     "indicator": "Market services to the population",
     "order": 400,
     "index": 427,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": 500,
+    "index": 1,
     "value": "",
     "HU": "",
     "RO": "",
@@ -19172,6 +19217,15 @@
   {
     "indicator": "Wholesale trade",
     "order": 600,
+    "index": 1,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": 600,
     "index": 2,
     "value": "",
     "HU": "",
@@ -22998,6 +23052,15 @@
     "indicator": "Wholesale trade",
     "order": 600,
     "index": 427,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": 700,
+    "index": 1,
     "value": "",
     "HU": "",
     "RO": "",
@@ -26840,6 +26903,15 @@
   {
     "indicator": "Industrial production",
     "order": 800,
+    "index": 1,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": 800,
     "index": 2,
     "value": "",
     "HU": "",
@@ -30666,6 +30738,15 @@
     "indicator": "Industrial production",
     "order": 800,
     "index": 427,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": 900,
+    "index": 1,
     "value": "",
     "HU": "",
     "RO": "",
@@ -34508,6 +34589,15 @@
   {
     "indicator": "Sentiment indicators",
     "order": 1000,
+    "index": 1,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Sentiment indicators",
+    "order": 1000,
     "index": 2,
     "value": "",
     "HU": "",
@@ -38334,6 +38424,15 @@
     "indicator": "Sentiment indicators",
     "order": 1000,
     "index": 427,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": 1100,
+    "index": 1,
     "value": "",
     "HU": "",
     "RO": "",
@@ -42176,6 +42275,15 @@
   {
     "indicator": "Employment expectations",
     "order": 1200,
+    "index": 1,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": 1200,
     "index": 2,
     "value": "",
     "HU": "",
@@ -46002,6 +46110,15 @@
     "indicator": "Employment expectations",
     "order": 1200,
     "index": 427,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": 1300,
+    "index": 1,
     "value": "",
     "HU": "",
     "RO": "",
@@ -49844,6 +49961,15 @@
   {
     "indicator": "Labour market indicators",
     "order": 1400,
+    "index": 1,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Labour market indicators",
+    "order": 1400,
     "index": 2,
     "value": "",
     "HU": "",
@@ -53670,6 +53796,15 @@
     "indicator": "Labour market indicators",
     "order": 1400,
     "index": 427,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": 1500,
+    "index": 1,
     "value": "",
     "HU": "",
     "RO": "",
@@ -57512,6 +57647,15 @@
   {
     "indicator": "Net wages",
     "order": 1600,
+    "index": 1,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": 1600,
     "index": 2,
     "value": "",
     "HU": "",
@@ -61338,6 +61482,15 @@
     "indicator": "Net wages",
     "order": 1600,
     "index": 427,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": 1700,
+    "index": 1,
     "value": "",
     "HU": "",
     "RO": "",
@@ -65180,6 +65333,15 @@
   {
     "indicator": "Prices, money and credit",
     "order": 1800,
+    "index": 1,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Prices, money and credit",
+    "order": 1800,
     "index": 2,
     "value": "",
     "HU": "",
@@ -69006,6 +69168,15 @@
     "indicator": "Prices, money and credit",
     "order": 1800,
     "index": 427,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": 1900,
+    "index": 1,
     "value": "",
     "HU": "",
     "RO": "",
@@ -72848,6 +73019,15 @@
   {
     "indicator": "M1 monetary aggregate",
     "order": 2000,
+    "index": 1,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": 2000,
     "index": 2,
     "value": "",
     "HU": "",
@@ -76682,6 +76862,15 @@
   {
     "indicator": "Non-government loans",
     "order": 2100,
+    "index": 1,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": 2100,
     "index": 2,
     "value": "",
     "HU": "",
@@ -80508,6 +80697,15 @@
     "indicator": "Non-government loans",
     "order": 2100,
     "index": 427,
+    "value": "",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": 2200,
+    "index": 1,
     "value": "",
     "HU": "",
     "RO": "",
