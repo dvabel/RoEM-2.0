@@ -2181,7 +2181,7 @@
   },
   {
     "indicator": "Economic activity indicators",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2190,7 +2190,7 @@
   },
   {
     "indicator": "Market services to enterprises",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2199,7 +2199,7 @@
   },
   {
     "indicator": "Market services to the population",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2208,7 +2208,7 @@
   },
   {
     "indicator": "Retail trade",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2217,7 +2217,7 @@
   },
   {
     "indicator": "Wholesale trade",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2226,7 +2226,7 @@
   },
   {
     "indicator": "Trade and repair of motor vehicles",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2235,7 +2235,7 @@
   },
   {
     "indicator": "Industrial production",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2244,7 +2244,7 @@
   },
   {
     "indicator": "Construction works",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2253,7 +2253,7 @@
   },
   {
     "indicator": "Sentiment indicators",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2262,7 +2262,7 @@
   },
   {
     "indicator": "Economic sentiment indicator",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2271,7 +2271,7 @@
   },
   {
     "indicator": "Employment expectations",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2280,7 +2280,7 @@
   },
   {
     "indicator": "Consumer confidence",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2289,7 +2289,7 @@
   },
   {
     "indicator": "Labour market indicators",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2298,7 +2298,7 @@
   },
   {
     "indicator": "Unemployment",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2307,7 +2307,7 @@
   },
   {
     "indicator": "Net wages",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2316,7 +2316,7 @@
   },
   {
     "indicator": "No. of employees",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2325,7 +2325,7 @@
   },
   {
     "indicator": "Prices, money and credit",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2334,7 +2334,7 @@
   },
   {
     "indicator": "Consumer price index",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2343,7 +2343,7 @@
   },
   {
     "indicator": "M1 monetary aggregate",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2352,7 +2352,7 @@
   },
   {
     "indicator": "Non-government loans",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
@@ -2361,7 +2361,7 @@
   },
   {
     "indicator": "Non-government deposits",
-    "index": -1,
+    "index": 1,
     "value": "row",
     "HU": "row",
     "RO": "row",
