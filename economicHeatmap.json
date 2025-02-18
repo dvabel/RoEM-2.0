@@ -1,22 +1,12 @@
 [
   {
-    "indicator": "date",
-    "order": 0,
-    "index": 0,
-    "value": "Previous 5 years AVG",
-    "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
-  },
-  {
     "indicator": "Market services to enterprises",
     "value": 102.1,
     "color": "#ffffff",
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -26,7 +16,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -36,7 +26,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -46,7 +36,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -56,7 +46,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -66,7 +56,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -76,7 +66,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -86,7 +76,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -96,7 +86,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -106,7 +96,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -116,7 +106,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -126,7 +116,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -136,7 +126,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -146,7 +136,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -156,7 +146,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -166,7 +156,7 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
   },
   {
@@ -176,8 +166,18 @@
     "HU": "",
     "RO": "",
     "EN": "",
-    "index": 386,
+    "index": 0,
     "order": 0
+  },
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 0,
+    "value": "Previous 5 years AVG",
+    "color": "#243b55",
+    "HU": "type",
+    "RO": "type",
+    "EN": "type"
   },
   {
     "indicator": "date",
