@@ -3,7 +3,7 @@
     "indicator": "date",
     "order": -1,
     "index": -1,
-    "value": "Previous Year AVG",
+    "value": "Previous 5 Year AVG",
     "color": "#243b55",
     "HU": "type",
     "RO": "type",
