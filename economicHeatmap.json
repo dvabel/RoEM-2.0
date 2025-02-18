@@ -634,7 +634,7 @@
     "order": 1200,
     "index": 389,
     "value": 102.9,
-    "color": "#67001f",
+    "color": "#ffffff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -644,7 +644,7 @@
     "order": 1300,
     "index": 389,
     "value": -19.5,
-    "color": "#67001f",
+    "color": "#ffffff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -684,7 +684,7 @@
     "order": 1900,
     "index": 389,
     "value": 6.7,
-    "color": "#f0e5e9",
+    "color": "#761a35",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -784,7 +784,7 @@
     "order": 800,
     "index": 390,
     "value": 86.1,
-    "color": "#67001f",
+    "color": "#ffffff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -864,7 +864,7 @@
     "order": 1900,
     "index": 390,
     "value": 6.6,
-    "color": "#e8d9dd",
+    "color": "#7e2641",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -944,7 +944,7 @@
     "order": 600,
     "index": 391,
     "value": 81.8,
-    "color": "#67001f",
+    "color": "#ffffff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -964,7 +964,7 @@
     "order": 800,
     "index": 391,
     "value": 87,
-    "color": "#71112e",
+    "color": "#f5eef0",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -974,7 +974,7 @@
     "order": 900,
     "index": 391,
     "value": 48.3,
-    "color": "#67001f",
+    "color": "#ffffff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -994,7 +994,7 @@
     "order": 1200,
     "index": 391,
     "value": 103.4,
-    "color": "#a16275",
+    "color": "#c59da9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1014,7 +1014,7 @@
     "order": 1500,
     "index": 391,
     "value": 5.4,
-    "color": "#d9bfc7",
+    "color": "#8d4057",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1124,7 +1124,7 @@
     "order": 600,
     "index": 392,
     "value": 91.8,
-    "color": "#d8bec6",
+    "color": "#8e4158",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1144,7 +1144,7 @@
     "order": 800,
     "index": 392,
     "value": 96.4,
-    "color": "#dcc4cb",
+    "color": "#8a3b53",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1154,7 +1154,7 @@
     "order": 900,
     "index": 392,
     "value": 75.3,
-    "color": "#b68493",
+    "color": "#b07b8b",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1194,7 +1194,7 @@
     "order": 1500,
     "index": 392,
     "value": 5.2,
-    "color": "#8d4057",
+    "color": "#d9bfc7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1374,7 +1374,7 @@
     "order": 1500,
     "index": 393,
     "value": 5.2,
-    "color": "#8d4057",
+    "color": "#d9bfc7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1404,7 +1404,7 @@
     "order": 1900,
     "index": 393,
     "value": 6.6,
-    "color": "#e8d9dd",
+    "color": "#7e2641",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1554,7 +1554,7 @@
     "order": 1500,
     "index": 394,
     "value": 5.2,
-    "color": "#8d4057",
+    "color": "#d9bfc7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1664,7 +1664,7 @@
     "order": 600,
     "index": 395,
     "value": 90.5,
-    "color": "#caa6b0",
+    "color": "#9c596e",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1684,7 +1684,7 @@
     "order": 800,
     "index": 395,
     "value": 93.1,
-    "color": "#b68594",
+    "color": "#b07a8a",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1764,7 +1764,7 @@
     "order": 1900,
     "index": 395,
     "value": 5.1,
-    "color": "#761935",
+    "color": "#f0e6e9",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1844,7 +1844,7 @@
     "order": 600,
     "index": 396,
     "value": 92.7,
-    "color": "#e3cfd5",
+    "color": "#833049",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1864,7 +1864,7 @@
     "order": 800,
     "index": 396,
     "value": 95.2,
-    "color": "#ceadb7",
+    "color": "#985267",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1894,7 +1894,7 @@
     "order": 1200,
     "index": 396,
     "value": 103.7,
-    "color": "#c59da9",
+    "color": "#a16275",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1914,7 +1914,7 @@
     "order": 1500,
     "index": 396,
     "value": 5.1,
-    "color": "#67001f",
+    "color": "#ffffff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -1944,7 +1944,7 @@
     "order": 1900,
     "index": 396,
     "value": 4.9,
-    "color": "#67001f",
+    "color": "#ffffff",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -2024,7 +2024,7 @@
     "order": 800,
     "index": 397,
     "value": 98,
-    "color": "#eee2e6",
+    "color": "#781d38",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -2074,7 +2074,7 @@
     "order": 1500,
     "index": 397,
     "value": 5.4,
-    "color": "#d9bfc7",
+    "color": "#8d4057",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -2104,7 +2104,7 @@
     "order": 1900,
     "index": 397,
     "value": 5.4,
-    "color": "#8d4057",
+    "color": "#d9bfc7",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -2154,7 +2154,7 @@
     "order": 1200,
     "index": 398,
     "value": 103.3,
-    "color": "#964e64",
+    "color": "#d0b1ba",
     "HU": "",
     "RO": "",
     "EN": ""
@@ -2174,7 +2174,7 @@
     "order": 1900,
     "index": 398,
     "value": 5.1,
-    "color": "#761935",
+    "color": "#f0e6e9",
     "HU": "",
     "RO": "",
     "EN": ""
