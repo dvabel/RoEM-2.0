@@ -1,6 +1,176 @@
 [
   {
     "indicator": "Market services to enterprises",
+    "value": "Market services to enterprises",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Market services to the population",
+    "value": "Market services to the population",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Retail trade",
+    "value": "Retail trade",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Wholesale trade",
+    "value": "Wholesale trade",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "value": "Trade and repair of motor vehicles",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Industrial production",
+    "value": "Industrial production",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Construction works",
+    "value": "Construction works",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "value": "Economic sentiment indicator",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Employment expectations",
+    "value": "Employment expectations",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Consumer confidence",
+    "value": "Consumer confidence",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Unemployment",
+    "value": "Unemployment",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Net wages",
+    "value": "Net wages",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "No. of employees",
+    "value": "No. of employees",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Consumer price index",
+    "value": "Consumer price index",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "value": "M1 monetary aggregate",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Non-government loans",
+    "value": "Non-government loans",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Non-government deposits",
+    "value": "Non-government deposits",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": -1,
+    "order": 1
+  },
+  {
+    "indicator": "Market services to enterprises",
     "value": 102.1,
     "color": "#ffffff",
     "HU": "",
