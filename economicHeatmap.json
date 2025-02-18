@@ -1,5 +1,15 @@
 [
   {
+    "indicator": "date",
+    "order": 0,
+    "index": 0,
+    "value": "Previous5yearsAVG",
+    "color": "#243b55",
+    "HU": "type",
+    "RO": "type",
+    "EN": "type"
+  },
+  {
     "indicator": "Market services to enterprises",
     "value": 102.1,
     "color": "#ffffff",
@@ -7,7 +17,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Market services to the population",
@@ -17,7 +27,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Retail trade",
@@ -27,7 +37,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Wholesale trade",
@@ -37,7 +47,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Trade and repair of motor vehicles",
@@ -47,7 +57,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Industrial production",
@@ -57,7 +67,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Construction works",
@@ -67,7 +77,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Economic sentiment indicator",
@@ -77,7 +87,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Employment expectations",
@@ -87,7 +97,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Consumer confidence",
@@ -97,7 +107,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Unemployment",
@@ -107,7 +117,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Net wages",
@@ -117,7 +127,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "No. of employees",
@@ -127,7 +137,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Consumer price index",
@@ -137,7 +147,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "M1 monetary aggregate",
@@ -147,7 +157,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Non-government loans",
@@ -157,7 +167,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
+    "order": 1000
   },
   {
     "indicator": "Non-government deposits",
@@ -167,17 +177,7 @@
     "RO": "",
     "EN": "",
     "index": 0,
-    "order": 0
-  },
-  {
-    "indicator": "date",
-    "order": 0,
-    "index": 0,
-    "value": "Previous 5 years AVG",
-    "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "order": 1000
   },
   {
     "indicator": "date",
