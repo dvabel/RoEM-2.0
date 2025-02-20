@@ -5,9 +5,9 @@
     "index": 0,
     "value": "Previous 5 years AVG",
     "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "HU": "Előző 5 év átlaga",
+    "RO": "Media ultimilor 5 ani",
+    "EN": "Previous 5 years AVG"
   },
   {
     "indicator": "Market services to enterprises",
@@ -185,9 +185,9 @@
     "index": 387,
     "value": "2023-09",
     "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "HU": "2023-09",
+    "RO": "2023-09",
+    "EN": "2023-09"
   },
   {
     "indicator": "Market services to enterprises",
@@ -365,9 +365,9 @@
     "index": 388,
     "value": "2023-10",
     "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "HU": "2023-10",
+    "RO": "2023-10",
+    "EN": "2023-10"
   },
   {
     "indicator": "Market services to enterprises",
@@ -545,9 +545,9 @@
     "index": 389,
     "value": "2023-11",
     "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "HU": "2023-11",
+    "RO": "2023-11",
+    "EN": "2023-11"
   },
   {
     "indicator": "Market services to enterprises",
@@ -725,9 +725,9 @@
     "index": 390,
     "value": "2023-12",
     "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "HU": "2023-12",
+    "RO": "2023-12",
+    "EN": "2023-12"
   },
   {
     "indicator": "Market services to enterprises",
@@ -905,9 +905,9 @@
     "index": 391,
     "value": "2024-01",
     "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "HU": "2024-01",
+    "RO": "2024-01",
+    "EN": "2024-01"
   },
   {
     "indicator": "Market services to enterprises",
@@ -1085,9 +1085,9 @@
     "index": 392,
     "value": "2024-02",
     "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "HU": "2024-02",
+    "RO": "2024-02",
+    "EN": "2024-02"
   },
   {
     "indicator": "Market services to enterprises",
@@ -1265,9 +1265,9 @@
     "index": 393,
     "value": "2024-03",
     "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "HU": "2024-03",
+    "RO": "2024-03",
+    "EN": "2024-03"
   },
   {
     "indicator": "Market services to enterprises",
@@ -1445,9 +1445,9 @@
     "index": 394,
     "value": "2024-04",
     "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "HU": "2024-04",
+    "RO": "2024-04",
+    "EN": "2024-04"
   },
   {
     "indicator": "Market services to enterprises",
@@ -1625,9 +1625,9 @@
     "index": 395,
     "value": "2024-05",
     "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "HU": "2024-05",
+    "RO": "2024-05",
+    "EN": "2024-05"
   },
   {
     "indicator": "Market services to enterprises",
@@ -1805,9 +1805,9 @@
     "index": 396,
     "value": "2024-06",
     "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "HU": "2024-06",
+    "RO": "2024-06",
+    "EN": "2024-06"
   },
   {
     "indicator": "Market services to enterprises",
@@ -1985,9 +1985,9 @@
     "index": 397,
     "value": "2024-07",
     "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "HU": "2024-07",
+    "RO": "2024-07",
+    "EN": "2024-07"
   },
   {
     "indicator": "Market services to the population",
@@ -2135,9 +2135,9 @@
     "index": 398,
     "value": "2024-08",
     "color": "#243b55",
-    "HU": "type",
-    "RO": "type",
-    "EN": "type"
+    "HU": "2024-08",
+    "RO": "2024-08",
+    "EN": "2024-08"
   },
   {
     "indicator": "Economic sentiment indicator",
